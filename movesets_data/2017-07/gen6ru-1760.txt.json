@@ -1,0 +1,610 @@
+{
+    "Bronzong": {
+        "Name": "Bronzong",
+        "Abilities": [
+            {
+                "Name": "Levitate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/0/4",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.02
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Psywave",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.04
+            }
+        ],
+        "Teammates": []
+    },
+    "Blastoise": {
+        "Name": "Blastoise",
+        "Abilities": [
+            {
+                "Name": "Torrent",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Rain Dish",
+                "Weight": 1.02
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/0/4",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.02
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rapid Spin",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roar",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.04
+            }
+        ],
+        "Teammates": []
+    },
+    "Drapion": {
+        "Name": "Drapion",
+        "Abilities": [
+            {
+                "Name": "Battle Armor",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sniper",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Lum Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:40/252/0/0/0/216",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aqua Tail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Manectric",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Trevenant",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Aromatisse",
+                "Weight": 1.02
+            }
+        ]
+    },
+    "Aromatisse": {
+        "Name": "Aromatisse",
+        "Abilities": [
+            {
+                "Name": "Aroma Veil",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/4/0/252/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Aromatherapy",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Moonblast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Wish",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Drapion",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Trevenant",
+                "Weight": 1.02
+            }
+        ]
+    },
+    "Manectric": {
+        "Name": "Manectric",
+        "Abilities": [
+            {
+                "Name": "Lightning Rod",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/4/252/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hidden Power Grass",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Volt Switch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Trevenant",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Drapion",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Aromatisse",
+                "Weight": 1.02
+            }
+        ]
+    },
+    "Trevenant": {
+        "Name": "Trevenant",
+        "Abilities": [
+            {
+                "Name": "Harvest",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/4/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Wood Hammer",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Drapion",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Aromatisse",
+                "Weight": 1.02
+            }
+        ]
+    },
+    "Ambipom": {
+        "Name": "Ambipom",
+        "Abilities": [
+            {
+                "Name": "Technician",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Return",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Low Kick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Banette-Mega",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Virizion",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Cinccino",
+                "Weight": 98.98
+            }
+        ]
+    },
+    "Cinccino": {
+        "Name": "Cinccino",
+        "Abilities": [
+            {
+                "Name": "Skill Link",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tail Slap",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rock Blast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bullet Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Ambipom",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Banette-Mega",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Virizion",
+                "Weight": 98.98
+            }
+        ]
+    },
+    "Virizion": {
+        "Name": "Virizion",
+        "Abilities": [
+            {
+                "Name": "Justified",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Lum Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Leaf Blade",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Cinccino",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Banette-Mega",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Ambipom",
+                "Weight": 98.98
+            }
+        ]
+    },
+    "Banette-Mega": {
+        "Name": "Banette-Mega",
+        "Abilities": [
+            {
+                "Name": "Prankster",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Banettite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Careful:252/4/0/0/252/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Shadow Claw",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Destiny Bond",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Ambipom",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Virizion",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Cinccino",
+                "Weight": 98.98
+            }
+        ]
+    }
+}

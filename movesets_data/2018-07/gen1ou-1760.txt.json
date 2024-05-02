@@ -1,0 +1,5301 @@
+{
+    "Tauros": {
+        "Name": "Tauros",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.028
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.972
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Body Slam",
+                "Weight": 99.885
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 99.477
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 98.036
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 95.076
+            },
+            {
+                "Name": "Other",
+                "Weight": 7.526
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Exeggutor",
+                "Weight": 1.213
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 1.091
+            }
+        ]
+    },
+    "Chansey": {
+        "Name": "Chansey",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 84.409
+            },
+            {
+                "Name": "Serious:252/0/252/252/252/252",
+                "Weight": 15.093
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.498
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Soft-Boiled",
+                "Weight": 99.554
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 95.776
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 61.75
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 44.605
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 41.257
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 40.866
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.193
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Snorlax",
+                "Weight": 1.743
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 1.466
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 0.973
+            }
+        ]
+    },
+    "Exeggutor": {
+        "Name": "Exeggutor",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.214
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.786
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sleep Powder",
+                "Weight": 99.224
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 98.639
+            },
+            {
+                "Name": "Explosion",
+                "Weight": 95.116
+            },
+            {
+                "Name": "Stun Spore",
+                "Weight": 37.544
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 35.028
+            },
+            {
+                "Name": "Mega Drain",
+                "Weight": 15.337
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.112
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Tauros",
+                "Weight": 1.374
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 1.283
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 0.762
+            }
+        ]
+    },
+    "Snorlax": {
+        "Name": "Snorlax",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.346
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.654
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Body Slam",
+                "Weight": 98.529
+            },
+            {
+                "Name": "Self-Destruct",
+                "Weight": 68.906
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 44.003
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 42.161
+            },
+            {
+                "Name": "Rest",
+                "Weight": 41.848
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 39.926
+            },
+            {
+                "Name": "Counter",
+                "Weight": 17.186
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 16.258
+            },
+            {
+                "Name": "Surf",
+                "Weight": 13.773
+            },
+            {
+                "Name": "Other",
+                "Weight": 17.409
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Chansey",
+                "Weight": 1.287
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 0.995
+            }
+        ]
+    },
+    "Alakazam": {
+        "Name": "Alakazam",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 85.547
+            },
+            {
+                "Name": "Serious:252/0/252/252/252/252",
+                "Weight": 13.314
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.138
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Psychic",
+                "Weight": 99.981
+            },
+            {
+                "Name": "Recover",
+                "Weight": 99.763
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 99.669
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 71.356
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 20.005
+            },
+            {
+                "Name": "Other",
+                "Weight": 9.226
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Lapras",
+                "Weight": 5.307
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 2.615
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 1.277
+            }
+        ]
+    },
+    "Starmie": {
+        "Name": "Starmie",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 81.164
+            },
+            {
+                "Name": "Serious:252/0/252/252/252/252",
+                "Weight": 17.767
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.069
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Recover",
+                "Weight": 97.175
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 94.673
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 78.556
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 62.568
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 52.427
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.601
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Rhydon",
+                "Weight": 6.789
+            },
+            {
+                "Name": "Raticate",
+                "Weight": 1.509
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 1.207
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 0.751
+            }
+        ]
+    },
+    "Zapdos": {
+        "Name": "Zapdos",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.655
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.345
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunderbolt",
+                "Weight": 99.975
+            },
+            {
+                "Name": "Drill Peck",
+                "Weight": 99.951
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 98.873
+            },
+            {
+                "Name": "Agility",
+                "Weight": 91.157
+            },
+            {
+                "Name": "Other",
+                "Weight": 10.044
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Raichu",
+                "Weight": 0.595
+            }
+        ]
+    },
+    "Rhydon": {
+        "Name": "Rhydon",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.101
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.899
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 99.44
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 99.112
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 94.869
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 83.884
+            },
+            {
+                "Name": "Rest",
+                "Weight": 7.746
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.949
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 14.315
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 6.945
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 4.946
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 3.987
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 0.84
+            }
+        ]
+    },
+    "Gengar": {
+        "Name": "Gengar",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 97.901
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.099
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Explosion",
+                "Weight": 98.102
+            },
+            {
+                "Name": "Hypnosis",
+                "Weight": 96.326
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 83.718
+            },
+            {
+                "Name": "Night Shade",
+                "Weight": 56.381
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 22.965
+            },
+            {
+                "Name": "Mega Drain",
+                "Weight": 13.914
+            },
+            {
+                "Name": "Confuse Ray",
+                "Weight": 12.875
+            },
+            {
+                "Name": "Other",
+                "Weight": 15.719
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Slowbro",
+                "Weight": 10.694
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 8.215
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 3.99
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 3.88
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 2.768
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 0.8
+            }
+        ]
+    },
+    "Jynx": {
+        "Name": "Jynx",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 91.372
+            },
+            {
+                "Name": "Serious:252/0/252/252/252/252",
+                "Weight": 7.703
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.925
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Lovely Kiss",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 97.114
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 73.866
+            },
+            {
+                "Name": "Counter",
+                "Weight": 46.776
+            },
+            {
+                "Name": "Rest",
+                "Weight": 38.405
+            },
+            {
+                "Name": "Mimic",
+                "Weight": 19.021
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 16.745
+            },
+            {
+                "Name": "Other",
+                "Weight": 8.076
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Golem",
+                "Weight": 9.803
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 2.824
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 0.976
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 0.898
+            },
+            {
+                "Name": "Golduck",
+                "Weight": 0.861
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 0.67
+            }
+        ]
+    },
+    "Lapras": {
+        "Name": "Lapras",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.595
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.405
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Blizzard",
+                "Weight": 98.946
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 90.094
+            },
+            {
+                "Name": "Sing",
+                "Weight": 75.993
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 55.168
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 40.484
+            },
+            {
+                "Name": "Confuse Ray",
+                "Weight": 33.407
+            },
+            {
+                "Name": "Other",
+                "Weight": 5.909
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Alakazam",
+                "Weight": 18.217
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 12.95
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 12.148
+            },
+            {
+                "Name": "Dodrio",
+                "Weight": 5.084
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 1.897
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 1.022
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 0.867
+            }
+        ]
+    },
+    "Slowbro": {
+        "Name": "Slowbro",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 71.301
+            },
+            {
+                "Name": "Serious:252/0/252/252/252/252",
+                "Weight": 27.988
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.711
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Amnesia",
+                "Weight": 99.983
+            },
+            {
+                "Name": "Rest",
+                "Weight": 98.079
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 92.463
+            },
+            {
+                "Name": "Surf",
+                "Weight": 60.106
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 44.415
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.953
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gengar",
+                "Weight": 16.805
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 12.946
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 11.93
+            },
+            {
+                "Name": "Lapras",
+                "Weight": 2.847
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 1.486
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 1.08
+            }
+        ]
+    },
+    "Golem": {
+        "Name": "Golem",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 95.572
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.428
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 99.938
+            },
+            {
+                "Name": "Explosion",
+                "Weight": 99.762
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 96.892
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 78.999
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 13.149
+            },
+            {
+                "Name": "Other",
+                "Weight": 11.26
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jynx",
+                "Weight": 13.226
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 3.844
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 1.251
+            }
+        ]
+    },
+    "Jolteon": {
+        "Name": "Jolteon",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.556
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.444
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunder Wave",
+                "Weight": 97.941
+            },
+            {
+                "Name": "Pin Missile",
+                "Weight": 96.603
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 93.711
+            },
+            {
+                "Name": "Double Kick",
+                "Weight": 92.395
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.35
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Lapras",
+                "Weight": 26.548
+            },
+            {
+                "Name": "Dodrio",
+                "Weight": 15.181
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 10.08
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 9.703
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 7.234
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 2.842
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 2.616
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 2.539
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 2.0
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 1.529
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 1.25
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 0.972
+            }
+        ]
+    },
+    "Cloyster": {
+        "Name": "Cloyster",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 97.883
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.117
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Clamp",
+                "Weight": 97.096
+            },
+            {
+                "Name": "Explosion",
+                "Weight": 96.469
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 93.929
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 50.436
+            },
+            {
+                "Name": "Rest",
+                "Weight": 39.918
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 9.853
+            },
+            {
+                "Name": "Other",
+                "Weight": 12.299
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Victreebel",
+                "Weight": 14.564
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 12.564
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 10.959
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 10.053
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 6.911
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 1.482
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 1.218
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 0.519
+            },
+            {
+                "Name": "Mime",
+                "Weight": 0.508
+            }
+        ]
+    },
+    "Victreebel": {
+        "Name": "Victreebel",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.903
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.097
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sleep Powder",
+                "Weight": 99.289
+            },
+            {
+                "Name": "Wrap",
+                "Weight": 77.108
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 73.999
+            },
+            {
+                "Name": "Razor Leaf",
+                "Weight": 70.68
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 51.817
+            },
+            {
+                "Name": "Stun Spore",
+                "Weight": 24.547
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.56
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Dragonite",
+                "Weight": 31.051
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 27.287
+            },
+            {
+                "Name": "Golem",
+                "Weight": 13.066
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 9.038
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 7.749
+            },
+            {
+                "Name": "Lapras",
+                "Weight": 4.801
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 4.062
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 4.038
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 4.008
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 2.783
+            },
+            {
+                "Name": "Onix",
+                "Weight": 2.512
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 2.088
+            }
+        ]
+    },
+    "Venusaur": {
+        "Name": "Venusaur",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.621
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.379
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sleep Powder",
+                "Weight": 99.476
+            },
+            {
+                "Name": "Razor Leaf",
+                "Weight": 98.811
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 96.603
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 63.855
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 34.831
+            },
+            {
+                "Name": "Other",
+                "Weight": 6.424
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Lapras",
+                "Weight": 74.5
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 56.308
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 54.981
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 52.181
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 25.789
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 8.873
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 1.335
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 1.205
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 0.755
+            }
+        ]
+    },
+    "Dragonite": {
+        "Name": "Dragonite",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.324
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.676
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Wrap",
+                "Weight": 98.498
+            },
+            {
+                "Name": "Agility",
+                "Weight": 86.684
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 63.553
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 60.507
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 36.431
+            },
+            {
+                "Name": "Surf",
+                "Weight": 32.591
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 6.867
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.869
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Victreebel",
+                "Weight": 41.221
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 25.05
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 23.579
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 22.982
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 18.359
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 12.141
+            },
+            {
+                "Name": "Poliwrath",
+                "Weight": 9.071
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 7.943
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 5.729
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 4.491
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 4.16
+            },
+            {
+                "Name": "Onix",
+                "Weight": 3.371
+            }
+        ]
+    },
+    "Articuno": {
+        "Name": "Articuno",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.81
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.19
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Blizzard",
+                "Weight": 97.15
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 92.71
+            },
+            {
+                "Name": "Agility",
+                "Weight": 87.824
+            },
+            {
+                "Name": "Mimic",
+                "Weight": 59.864
+            },
+            {
+                "Name": "Rest",
+                "Weight": 17.415
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 13.805
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 12.223
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.009
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gengar",
+                "Weight": 28.166
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 28.157
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 6.01
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 5.899
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 4.646
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 3.863
+            },
+            {
+                "Name": "Onix",
+                "Weight": 3.486
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 2.769
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 1.412
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 1.211
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 1.019
+            }
+        ]
+    },
+    "Persian": {
+        "Name": "Persian",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.807
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.193
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Slash",
+                "Weight": 99.993
+            },
+            {
+                "Name": "Bubble Beam",
+                "Weight": 98.818
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 88.407
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 49.062
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 46.026
+            },
+            {
+                "Name": "Other",
+                "Weight": 17.694
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Kangaskhan",
+                "Weight": 7.848
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 2.955
+            },
+            {
+                "Name": "Golem",
+                "Weight": 2.208
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 1.444
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 1.156
+            }
+        ]
+    },
+    "Arcanine": {
+        "Name": "Arcanine",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.871
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.129
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Body Slam",
+                "Weight": 99.972
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 99.549
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 97.941
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 79.031
+            },
+            {
+                "Name": "Rest",
+                "Weight": 18.993
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.514
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Rhydon",
+                "Weight": 58.058
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 39.103
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 18.901
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 5.516
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 4.702
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 3.535
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 0.922
+            }
+        ]
+    },
+    "Dodrio": {
+        "Name": "Dodrio",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.918
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.082
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hyper Beam",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 98.457
+            },
+            {
+                "Name": "Drill Peck",
+                "Weight": 97.478
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 58.404
+            },
+            {
+                "Name": "Agility",
+                "Weight": 32.803
+            },
+            {
+                "Name": "Other",
+                "Weight": 12.86
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jolteon",
+                "Weight": 58.883
+            },
+            {
+                "Name": "Lapras",
+                "Weight": 42.609
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 5.037
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 4.131
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 0.927
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 0.76
+            }
+        ]
+    },
+    "Raticate": {
+        "Name": "Raticate",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Super Fang",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 98.728
+            },
+            {
+                "Name": "Bubble Beam",
+                "Weight": 53.027
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 46.511
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.734
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 49.434
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 18.188
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 10.461
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 9.774
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 5.22
+            }
+        ]
+    },
+    "Clefable": {
+        "Name": "Clefable",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.981
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.019
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunder Wave",
+                "Weight": 93.561
+            },
+            {
+                "Name": "Mega Kick",
+                "Weight": 87.041
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 85.121
+            },
+            {
+                "Name": "Sing",
+                "Weight": 54.743
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 37.944
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 11.677
+            },
+            {
+                "Name": "Rest",
+                "Weight": 11.469
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.445
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Dragonite",
+                "Weight": 59.689
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 57.71
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 45.123
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 30.391
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 28.689
+            },
+            {
+                "Name": "Poliwrath",
+                "Weight": 23.29
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 17.805
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 14.509
+            },
+            {
+                "Name": "Onix",
+                "Weight": 8.669
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 5.185
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 5.046
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 3.664
+            }
+        ]
+    },
+    "Hypno": {
+        "Name": "Hypno",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.945
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.055
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunder Wave",
+                "Weight": 99.937
+            },
+            {
+                "Name": "Hypnosis",
+                "Weight": 95.644
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 80.667
+            },
+            {
+                "Name": "Rest",
+                "Weight": 67.68
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 33.647
+            },
+            {
+                "Name": "Headbutt",
+                "Weight": 14.401
+            },
+            {
+                "Name": "Other",
+                "Weight": 8.025
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Dragonite",
+                "Weight": 62.611
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 62.165
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 51.404
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 34.104
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 27.966
+            },
+            {
+                "Name": "Poliwrath",
+                "Weight": 25.129
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 22.055
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 15.841
+            },
+            {
+                "Name": "Onix",
+                "Weight": 9.351
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 6.726
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 2.368
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 2.229
+            }
+        ]
+    },
+    "Kangaskhan": {
+        "Name": "Kangaskhan",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.945
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.055
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hyper Beam",
+                "Weight": 99.884
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 73.532
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 65.918
+            },
+            {
+                "Name": "Surf",
+                "Weight": 64.318
+            },
+            {
+                "Name": "Counter",
+                "Weight": 54.399
+            },
+            {
+                "Name": "Mega Kick",
+                "Weight": 34.045
+            },
+            {
+                "Name": "Other",
+                "Weight": 7.903
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Hypno",
+                "Weight": 65.951
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 64.234
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 62.366
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 43.894
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 28.354
+            },
+            {
+                "Name": "Poliwrath",
+                "Weight": 27.599
+            },
+            {
+                "Name": "Persian",
+                "Weight": 26.517
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 18.899
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 16.955
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 9.409
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 4.429
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 1.45
+            }
+        ]
+    },
+    "Raichu": {
+        "Name": "Raichu",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.507
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.493
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Surf",
+                "Weight": 99.875
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 99.279
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 80.584
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 79.859
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 19.655
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 9.015
+            },
+            {
+                "Name": "Other",
+                "Weight": 11.733
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 26.686
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 22.886
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 12.771
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 12.641
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 12.494
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 12.107
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 5.456
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 5.307
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 5.293
+            },
+            {
+                "Name": "Persian",
+                "Weight": 5.055
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 4.796
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 4.706
+            }
+        ]
+    },
+    "Tentacruel": {
+        "Name": "Tentacruel",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.808
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.192
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Wrap",
+                "Weight": 99.987
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 98.222
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 91.434
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 66.878
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 38.262
+            },
+            {
+                "Name": "Other",
+                "Weight": 5.217
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Kangaskhan",
+                "Weight": 59.377
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 59.196
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 57.487
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 53.645
+            },
+            {
+                "Name": "Poliwrath",
+                "Weight": 32.675
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 26.962
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 6.293
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 6.203
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 5.981
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 5.891
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 5.358
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 4.494
+            }
+        ]
+    },
+    "Machamp": {
+        "Name": "Machamp",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 95.093
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.907
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Submission",
+                "Weight": 93.46
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 82.43
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 75.807
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 62.482
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 51.92
+            },
+            {
+                "Name": "Low Kick",
+                "Weight": 22.519
+            },
+            {
+                "Name": "Other",
+                "Weight": 11.382
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jolteon",
+                "Weight": 40.371
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 39.589
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 23.851
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 11.695
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 10.693
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 8.63
+            },
+            {
+                "Name": "Persian",
+                "Weight": 8.226
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 7.953
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 7.728
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 7.297
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 7.093
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 6.539
+            }
+        ]
+    },
+    "Hitmonlee": {
+        "Name": "Hitmonlee",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.883
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.117
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "High Jump Kick",
+                "Weight": 99.596
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 99.275
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 98.932
+            },
+            {
+                "Name": "Counter",
+                "Weight": 98.896
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.301
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Alakazam",
+                "Weight": 41.111
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 13.631
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 6.471
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 5.538
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 1.139
+            }
+        ]
+    },
+    "Gyarados": {
+        "Name": "Gyarados",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.689
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.311
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hyper Beam",
+                "Weight": 95.78
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 73.795
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 73.413
+            },
+            {
+                "Name": "Surf",
+                "Weight": 68.753
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 29.071
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 28.3
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 15.189
+            },
+            {
+                "Name": "Other",
+                "Weight": 15.697
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jolteon",
+                "Weight": 60.103
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 57.218
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 45.676
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 17.371
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 15.342
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 12.121
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 11.618
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 7.392
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 5.377
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 4.947
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 4.717
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 4.614
+            }
+        ]
+    },
+    "Sandslash": {
+        "Name": "Sandslash",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.968
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.032
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Slash",
+                "Weight": 96.057
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 94.773
+            },
+            {
+                "Name": "Sand Attack",
+                "Weight": 94.412
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.758
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 41.042
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 31.434
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 3.113
+            },
+            {
+                "Name": "Dodrio",
+                "Weight": 1.392
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 1.352
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 0.584
+            }
+        ]
+    },
+    "Ninetales": {
+        "Name": "Ninetales",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 91.659
+            },
+            {
+                "Name": "Serious:252/252/252/252/0/252",
+                "Weight": 8.327
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.014
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Fire Blast",
+                "Weight": 99.562
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 98.849
+            },
+            {
+                "Name": "Fire Spin",
+                "Weight": 96.016
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 69.333
+            },
+            {
+                "Name": "Confuse Ray",
+                "Weight": 31.389
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.85
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jolteon",
+                "Weight": 68.04
+            },
+            {
+                "Name": "Lapras",
+                "Weight": 44.342
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 11.21
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 8.19
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 2.607
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 2.327
+            },
+            {
+                "Name": "Persian",
+                "Weight": 1.931
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 1.196
+            }
+        ]
+    },
+    "Poliwrath": {
+        "Name": "Poliwrath",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.506
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.494
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Amnesia",
+                "Weight": 99.493
+            },
+            {
+                "Name": "Hypnosis",
+                "Weight": 98.091
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 96.418
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 95.579
+            },
+            {
+                "Name": "Other",
+                "Weight": 10.418
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Hypno",
+                "Weight": 94.343
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 94.213
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 92.906
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 80.772
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 70.696
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 20.518
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 13.648
+            },
+            {
+                "Name": "Golduck",
+                "Weight": 0.661
+            }
+        ]
+    },
+    "Moltres": {
+        "Name": "Moltres",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.002
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Fire Blast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fire Spin",
+                "Weight": 95.117
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 84.245
+            },
+            {
+                "Name": "Agility",
+                "Weight": 82.35
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 15.18
+            },
+            {
+                "Name": "Sky Attack",
+                "Weight": 14.313
+            },
+            {
+                "Name": "Other",
+                "Weight": 8.794
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jynx",
+                "Weight": 58.967
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 26.586
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 15.918
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 13.674
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 13.26
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 13.176
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 12.744
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 10.239
+            },
+            {
+                "Name": "Kabutops",
+                "Weight": 4.557
+            },
+            {
+                "Name": "Magneton",
+                "Weight": 2.493
+            },
+            {
+                "Name": "Pinsir",
+                "Weight": 0.701
+            },
+            {
+                "Name": "Vileplume",
+                "Weight": 0.669
+            }
+        ]
+    },
+    "Omastar": {
+        "Name": "Omastar",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rest",
+                "Weight": 99.847
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 98.649
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 94.161
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 47.328
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 46.918
+            },
+            {
+                "Name": "Other",
+                "Weight": 13.096
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Kangaskhan",
+                "Weight": 92.168
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 91.973
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 90.365
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 79.999
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 64.791
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 24.06
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 12.992
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 4.405
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 0.719
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 0.692
+            },
+            {
+                "Name": "Venomoth",
+                "Weight": 0.519
+            }
+        ]
+    },
+    "Venomoth": {
+        "Name": "Venomoth",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.716
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.284
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sleep Powder",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Stun Spore",
+                "Weight": 99.015
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 98.729
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.258
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Alakazam",
+                "Weight": 46.411
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 18.889
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 11.895
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 11.355
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 6.326
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 0.81
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 0.781
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 0.586
+            }
+        ]
+    },
+    "Kingler": {
+        "Name": "Kingler",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.993
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.007
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Body Slam",
+                "Weight": 99.957
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 99.952
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 99.692
+            },
+            {
+                "Name": "Crabhammer",
+                "Weight": 81.091
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.308
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Zapdos",
+                "Weight": 52.466
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 12.802
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 12.665
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 10.795
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 7.489
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 3.575
+            }
+        ]
+    },
+    "Golduck": {
+        "Name": "Golduck",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.933
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.067
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Amnesia",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 99.494
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 98.48
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 98.389
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.637
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jynx",
+                "Weight": 84.227
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 19.539
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 11.591
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 10.591
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 7.069
+            },
+            {
+                "Name": "Poliwrath",
+                "Weight": 1.054
+            }
+        ]
+    },
+    "Electrode": {
+        "Name": "Electrode",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 88.151
+            },
+            {
+                "Name": "Serious:252/252/252/252/0/252",
+                "Weight": 11.848
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.001
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Explosion",
+                "Weight": 99.985
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 99.309
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 96.333
+            },
+            {
+                "Name": "Screech",
+                "Weight": 43.835
+            },
+            {
+                "Name": "Mimic",
+                "Weight": 29.873
+            },
+            {
+                "Name": "Swift",
+                "Weight": 10.695
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.97
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Machamp",
+                "Weight": 29.687
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 29.47
+            },
+            {
+                "Name": "Golem",
+                "Weight": 27.327
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 25.841
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 22.857
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 21.971
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 21.174
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 19.192
+            },
+            {
+                "Name": "Dodrio",
+                "Weight": 8.685
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 7.839
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 6.757
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 1.883
+            }
+        ]
+    },
+    "Charizard": {
+        "Name": "Charizard",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 89.631
+            },
+            {
+                "Name": "Serious:252/0/252/252/0/252",
+                "Weight": 4.106
+            },
+            {
+                "Name": "Serious:252/252/252/252/0/252",
+                "Weight": 3.294
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.969
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 97.249
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 59.71
+            },
+            {
+                "Name": "Slash",
+                "Weight": 48.116
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 43.151
+            },
+            {
+                "Name": "Fire Spin",
+                "Weight": 43.022
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 26.243
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 25.505
+            },
+            {
+                "Name": "Counter",
+                "Weight": 22.873
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 11.567
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 10.255
+            },
+            {
+                "Name": "Other",
+                "Weight": 12.308
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jolteon",
+                "Weight": 37.394
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 30.113
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 22.626
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 22.529
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 19.885
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 19.039
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 11.796
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 9.039
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 7.207
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 6.711
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 6.073
+            },
+            {
+                "Name": "Pikachu",
+                "Weight": 2.995
+            }
+        ]
+    },
+    "Tangela": {
+        "Name": "Tangela",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Mega Drain",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sleep Powder",
+                "Weight": 90.523
+            },
+            {
+                "Name": "Growth",
+                "Weight": 56.064
+            },
+            {
+                "Name": "Stun Spore",
+                "Weight": 50.244
+            },
+            {
+                "Name": "Bind",
+                "Weight": 50.23
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 49.751
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.188
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Golem",
+                "Weight": 37.679
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 31.318
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 25.23
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 24.834
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 24.715
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 24.628
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 19.717
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 19.641
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 18.893
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 15.945
+            },
+            {
+                "Name": "Rapidash",
+                "Weight": 13.188
+            },
+            {
+                "Name": "Dragonair",
+                "Weight": 12.879
+            }
+        ]
+    },
+    "Porygon": {
+        "Name": "Porygon",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.999
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.001
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Recover",
+                "Weight": 99.95
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 60.318
+            },
+            {
+                "Name": "Sharpen",
+                "Weight": 60.269
+            },
+            {
+                "Name": "Tri Attack",
+                "Weight": 60.212
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 39.738
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 37.066
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 37.017
+            },
+            {
+                "Name": "Other",
+                "Weight": 5.429
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 15.9
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 13.087
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 5.274
+            },
+            {
+                "Name": "Wigglytuff",
+                "Weight": 2.439
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 1.757
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 1.466
+            },
+            {
+                "Name": "Raticate",
+                "Weight": 1.135
+            }
+        ]
+    },
+    "Pinsir": {
+        "Name": "Pinsir",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 97.643
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.357
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Swords Dance",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 99.959
+            },
+            {
+                "Name": "Bind",
+                "Weight": 99.257
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 97.384
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.404
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 53.136
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 17.497
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 10.985
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 9.706
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 5.107
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 1.722
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 1.534
+            }
+        ]
+    },
+    "Rapidash": {
+        "Name": "Rapidash",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.311
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.689
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Fire Blast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 99.357
+            },
+            {
+                "Name": "Fire Spin",
+                "Weight": 99.124
+            },
+            {
+                "Name": "Agility",
+                "Weight": 98.725
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.794
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 36.354
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 17.646
+            },
+            {
+                "Name": "Dragonair",
+                "Weight": 17.236
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 14.598
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 13.772
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 10.826
+            },
+            {
+                "Name": "Magneton",
+                "Weight": 0.52
+            }
+        ]
+    },
+    "Onix": {
+        "Name": "Onix",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.999
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.001
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Explosion",
+                "Weight": 99.781
+            },
+            {
+                "Name": "Bind",
+                "Weight": 98.987
+            },
+            {
+                "Name": "Screech",
+                "Weight": 63.238
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 31.741
+            },
+            {
+                "Name": "Other",
+                "Weight": 6.253
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Hypno",
+                "Weight": 92.762
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 92.651
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 91.748
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 91.226
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 90.212
+            },
+            {
+                "Name": "Persian",
+                "Weight": 1.664
+            },
+            {
+                "Name": "Magmar",
+                "Weight": 1.2
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 1.193
+            },
+            {
+                "Name": "Golbat",
+                "Weight": 0.675
+            },
+            {
+                "Name": "Weezing",
+                "Weight": 0.643
+            },
+            {
+                "Name": "Farfetch'd",
+                "Weight": 0.634
+            },
+            {
+                "Name": "Lickitung",
+                "Weight": 0.634
+            }
+        ]
+    },
+    "Kabutops": {
+        "Name": "Kabutops",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.318
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.682
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Surf",
+                "Weight": 99.245
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 87.255
+            },
+            {
+                "Name": "Slash",
+                "Weight": 84.457
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 81.16
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 15.692
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 15.339
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.852
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jynx",
+                "Weight": 56.908
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 41.425
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 11.7
+            },
+            {
+                "Name": "Persian",
+                "Weight": 1.544
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 0.675
+            }
+        ]
+    },
+    "Wigglytuff": {
+        "Name": "Wigglytuff",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.376
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.624
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunder Wave",
+                "Weight": 99.996
+            },
+            {
+                "Name": "Mega Kick",
+                "Weight": 81.185
+            },
+            {
+                "Name": "Counter",
+                "Weight": 61.208
+            },
+            {
+                "Name": "Sing",
+                "Weight": 51.131
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 48.245
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 38.22
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 18.811
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.204
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Hypno",
+                "Weight": 80.391
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 78.528
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 52.995
+            },
+            {
+                "Name": "Clefable",
+                "Weight": 47.19
+            },
+            {
+                "Name": "Poliwrath",
+                "Weight": 43.446
+            },
+            {
+                "Name": "Kangaskhan",
+                "Weight": 41.271
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 37.235
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 36.902
+            },
+            {
+                "Name": "Sandslash",
+                "Weight": 12.481
+            },
+            {
+                "Name": "Dodrio",
+                "Weight": 10.974
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 10.934
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 10.166
+            }
+        ]
+    },
+    "Dugtrio": {
+        "Name": "Dugtrio",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 77.636
+            },
+            {
+                "Name": "Serious:252/252/252/252/0/252",
+                "Weight": 22.364
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Slash",
+                "Weight": 98.249
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 80.43
+            },
+            {
+                "Name": "Sand Attack",
+                "Weight": 42.366
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 28.528
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 26.774
+            },
+            {
+                "Name": "Mimic",
+                "Weight": 19.293
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.361
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gyarados",
+                "Weight": 22.337
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 17.742
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 16.87
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 15.744
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 13.431
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 12.606
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 11.832
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 10.748
+            },
+            {
+                "Name": "Golem",
+                "Weight": 9.859
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 8.68
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 7.9
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 5.294
+            }
+        ]
+    },
+    "Nidoking": {
+        "Name": "Nidoking",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 98.524
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.476
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 95.703
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 67.843
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 49.232
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 47.096
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 24.576
+            },
+            {
+                "Name": "Other",
+                "Weight": 15.551
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Machamp",
+                "Weight": 67.781
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 61.673
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 61.292
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 60.587
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 48.907
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 19.018
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 15.128
+            },
+            {
+                "Name": "Magneton",
+                "Weight": 12.381
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 7.05
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 3.516
+            },
+            {
+                "Name": "Venomoth",
+                "Weight": 2.797
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 2.794
+            }
+        ]
+    },
+    "Blastoise": {
+        "Name": "Blastoise",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 83.922
+            },
+            {
+                "Name": "Serious:252/252/252/252/0/252",
+                "Weight": 15.974
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.104
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Blizzard",
+                "Weight": 79.692
+            },
+            {
+                "Name": "Surf",
+                "Weight": 75.496
+            },
+            {
+                "Name": "Counter",
+                "Weight": 66.467
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 60.636
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 46.159
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 25.468
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 18.964
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 10.182
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.936
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard",
+                "Weight": 78.996
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 77.536
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 66.981
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 13.352
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 11.37
+            },
+            {
+                "Name": "Pikachu",
+                "Weight": 10.449
+            },
+            {
+                "Name": "Dodrio",
+                "Weight": 0.947
+            },
+            {
+                "Name": "Nidoqueen",
+                "Weight": 0.673
+            },
+            {
+                "Name": "Muk",
+                "Weight": 0.634
+            },
+            {
+                "Name": "Primeape",
+                "Weight": 0.607
+            }
+        ]
+    },
+    "Mr. Mime": {
+        "Name": "Mr. Mime",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.801
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.199
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Psychic",
+                "Weight": 97.226
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 96.607
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 96.601
+            },
+            {
+                "Name": "Mimic",
+                "Weight": 95.18
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.387
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Clefable",
+                "Weight": 94.125
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 92.523
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 92.231
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 88.751
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 83.963
+            }
+        ]
+    },
+    "Aerodactyl": {
+        "Name": "Aerodactyl",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.779
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.221
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hyper Beam",
+                "Weight": 80.745
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 68.733
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 66.221
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 41.58
+            },
+            {
+                "Name": "Sky Attack",
+                "Weight": 41.021
+            },
+            {
+                "Name": "Agility",
+                "Weight": 34.032
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 30.869
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 17.801
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.998
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Rhydon",
+                "Weight": 41.66
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 33.782
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 29.153
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 27.43
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 24.507
+            },
+            {
+                "Name": "Parasect",
+                "Weight": 18.5
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 13.36
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 9.824
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 8.739
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 8.678
+            },
+            {
+                "Name": "Lapras",
+                "Weight": 7.408
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 6.745
+            }
+        ]
+    },
+    "Magmar": {
+        "Name": "Magmar",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.351
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.649
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Confuse Ray",
+                "Weight": 99.73
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 98.663
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 93.597
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 89.23
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.779
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Alakazam",
+                "Weight": 41.913
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 13.743
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 6.498
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 4.357
+            },
+            {
+                "Name": "Onix",
+                "Weight": 4.264
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 3.1
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 2.409
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 2.229
+            }
+        ]
+    },
+    "Dragonair": {
+        "Name": "Dragonair",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Blizzard",
+                "Weight": 99.996
+            },
+            {
+                "Name": "Wrap",
+                "Weight": 99.991
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 99.987
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 99.987
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.04
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Rapidash",
+                "Weight": 94.152
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 94.118
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 91.602
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 90.768
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 87.83
+            }
+        ]
+    },
+    "Beedrill": {
+        "Name": "Beedrill",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 99.806
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.194
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Mega Drain",
+                "Weight": 94.389
+            },
+            {
+                "Name": "Twineedle",
+                "Weight": 87.772
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 82.727
+            },
+            {
+                "Name": "Agility",
+                "Weight": 55.06
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 43.138
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 17.721
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.192
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Golem",
+                "Weight": 71.087
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 67.501
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 38.574
+            },
+            {
+                "Name": "Persian",
+                "Weight": 9.5
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 5.15
+            },
+            {
+                "Name": "Golbat",
+                "Weight": 3.766
+            },
+            {
+                "Name": "Farfetch'd",
+                "Weight": 3.748
+            },
+            {
+                "Name": "Lickitung",
+                "Weight": 3.701
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 3.701
+            },
+            {
+                "Name": "Onix",
+                "Weight": 3.603
+            },
+            {
+                "Name": "Muk",
+                "Weight": 1.989
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 0.855
+            }
+        ]
+    },
+    "Parasect": {
+        "Name": "Parasect",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 98.718
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.282
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Spore",
+                "Weight": 55.241
+            },
+            {
+                "Name": "Slash",
+                "Weight": 53.976
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 46.63
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 45.573
+            },
+            {
+                "Name": "Stun Spore",
+                "Weight": 45.558
+            },
+            {
+                "Name": "Mega Drain",
+                "Weight": 45.502
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 44.33
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 43.9
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.29
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Aerodactyl",
+                "Weight": 43.863
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 32.405
+            },
+            {
+                "Name": "Lapras",
+                "Weight": 28.857
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 25.524
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 24.57
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 19.102
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 8.6
+            },
+            {
+                "Name": "Kabutops",
+                "Weight": 0.926
+            },
+            {
+                "Name": "Weezing",
+                "Weight": 0.814
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 0.676
+            }
+        ]
+    },
+    "Pidgeot": {
+        "Name": "Pidgeot",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 89.987
+            },
+            {
+                "Name": "Serious:252/252/252/252/0/252",
+                "Weight": 9.386
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.627
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Double-Edge",
+                "Weight": 96.692
+            },
+            {
+                "Name": "Mirror Move",
+                "Weight": 93.837
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 59.621
+            },
+            {
+                "Name": "Agility",
+                "Weight": 45.821
+            },
+            {
+                "Name": "Sky Attack",
+                "Weight": 37.266
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 34.036
+            },
+            {
+                "Name": "Mimic",
+                "Weight": 11.82
+            },
+            {
+                "Name": "Wing Attack",
+                "Weight": 7.902
+            },
+            {
+                "Name": "Other",
+                "Weight": 13.005
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Arcanine",
+                "Weight": 43.374
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 43.033
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 38.425
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Golem",
+                "Weight": 24.622
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 23.678
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 21.606
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 14.023
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 11.629
+            },
+            {
+                "Name": "Venomoth",
+                "Weight": 11.605
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 3.527
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 3.286
+            }
+        ]
+    },
+    "Weezing": {
+        "Name": "Weezing",
+        "Abilities": [
+            {
+                "Name": "Illuminate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Serious:252/252/252/252/252/252",
+                "Weight": 92.62
+            },
+            {
+                "Name": "Serious:252/252/252/252/0/252",
+                "Weight": 6.274
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.106
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Explosion",
+                "Weight": 99.952
+            },
+            {
+                "Name": "Sludge",
+                "Weight": 94.219
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 85.621
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 79.334
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 13.615
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 7.485
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.774
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Machamp",
+                "Weight": 82.047
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 77.422
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 76.842
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 61.9
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 32.798
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 5.97
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 5.658
+            },
+            {
+                "Name": "Onix",
+                "Weight": 5.65
+            },
+            {
+                "Name": "Muk",
+                "Weight": 5.401
+            },
+            {
+                "Name": "Arbok",
+                "Weight": 5.144
+            },
+            {
+                "Name": "Persian",
+                "Weight": 3.683
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 3.138
+            }
+        ]
+    }
+}

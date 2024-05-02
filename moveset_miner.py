@@ -142,7 +142,7 @@ result_one = extract_pokemon_data(input_text)
 #print(result)
 print(result_one)
 '''
-urldate = "2020-07"
+urldate = "2017-07"
 url_for_function = "https://www.smogon.com/stats/" + urldate + "/moveset"
 urlnames = get_max_links(url_for_function)
 
