@@ -3,7 +3,7 @@ import csv
 import os
 from urls_miner import get_max_links
 
-urldate = "2023-07"
+urldate = "2019-07"
 url_for_function = "https://www.smogon.com/stats/" + urldate + "/"
 urlnames = get_max_links(url_for_function)
 print(urlnames)
@@ -25,7 +25,7 @@ for urlname in urlnames:
         writer = csv.writer(csvfile)
         
         # Write the header row
-        header = ["Rank", "Pokemon", "Usage %", "Raw", "%", "Real", "%"]
+        header = ["Rank", "Pokemon", "Usage %", "Raw", "Raw %", "Real", "Real %"]
         writer.writerow(header)
         
         # Loop through the lines starting from the 4th line (skipping header)
@@ -35,8 +35,9 @@ for urlname in urlnames:
                 continue
 
             # Split the line by '|' and strip each item of leading/trailing whitespace
-            data = [item.strip() for item in line.split('|')]
+            data = [item.strip().replace('%', '').replace(' ', '-') for item in line.split('|')]
             # Remove empty strings from the list
             data = list(filter(None, data))
             # Write the data to the CSV file
             writer.writerow(data)
+print("Listo!")

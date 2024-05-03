@@ -1,23 +1,24 @@
 body {
     margin: 0 auto;
     /* Puedes cambiar el color de fondo (background-color) si lo deseas */
-    background-color: gray;
-    max-width: 1200px;
-    min-width: 500px;
+    background-color: lightblue;
     text-align: center;
 }
 
 .row {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+
 }
 
 .columns {
-    display: block;
-    padding: 10px;
-    margin: 10px;
-    width: 8000px;
+    display: flex;
+    justify-content: center;
+}
+
+svg,
+img {
+    border: 1px solid gray;
 }
 
 .links{
