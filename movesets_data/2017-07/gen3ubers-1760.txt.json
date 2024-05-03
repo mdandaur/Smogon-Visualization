@@ -193,10 +193,6 @@
             {
                 "Name": "Deoxys-Defense",
                 "Weight": 1.093
-            },
-            {
-                "Name": "Latios",
-                "Weight": 0.535
             }
         ]
     },
@@ -270,14 +266,6 @@
             {
                 "Name": "Latias",
                 "Weight": 24.566
-            },
-            {
-                "Name": "Ho-Oh",
-                "Weight": 20.555
-            },
-            {
-                "Name": "Groudon",
-                "Weight": 4.859
             }
         ]
     },
@@ -351,10 +339,6 @@
             {
                 "Name": "Skarmory",
                 "Weight": 24.574
-            },
-            {
-                "Name": "Ho-Oh",
-                "Weight": 21.717
             }
         ]
     },
@@ -432,22 +416,6 @@
             {
                 "Name": "Latias",
                 "Weight": 21.6
-            },
-            {
-                "Name": "Skarmory",
-                "Weight": 20.36
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 1.362
-            },
-            {
-                "Name": "Mew",
-                "Weight": 1.023
-            },
-            {
-                "Name": "Zapdos",
-                "Weight": 0.637
             }
         ]
     },
@@ -509,14 +477,6 @@
             {
                 "Name": "Latias",
                 "Weight": 30.322
-            },
-            {
-                "Name": "Skarmory",
-                "Weight": 29.823
-            },
-            {
-                "Name": "Groudon",
-                "Weight": 3.274
             }
         ]
     },
@@ -602,38 +562,6 @@
             {
                 "Name": "Blissey",
                 "Weight": 19.753
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 16.555
-            },
-            {
-                "Name": "Metagross",
-                "Weight": 16.093
-            },
-            {
-                "Name": "Lugia",
-                "Weight": 10.665
-            },
-            {
-                "Name": "Rayquaza",
-                "Weight": 6.591
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 4.411
-            },
-            {
-                "Name": "Dugtrio",
-                "Weight": 3.667
-            },
-            {
-                "Name": "Mewtwo",
-                "Weight": 3.247
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 0.972
             }
         ]
     },
@@ -707,26 +635,6 @@
             {
                 "Name": "Blissey",
                 "Weight": 23.642
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 23.234
-            },
-            {
-                "Name": "Metagross",
-                "Weight": 22.771
-            },
-            {
-                "Name": "Rayquaza",
-                "Weight": 11.714
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 6.841
-            },
-            {
-                "Name": "Tyranitar",
-                "Weight": 0.638
             }
         ]
     },
@@ -824,34 +732,6 @@
             {
                 "Name": "Latios",
                 "Weight": 33.74
-            },
-            {
-                "Name": "Lugia",
-                "Weight": 28.762
-            },
-            {
-                "Name": "Mewtwo",
-                "Weight": 16.979
-            },
-            {
-                "Name": "Rayquaza",
-                "Weight": 16.32
-            },
-            {
-                "Name": "Dugtrio",
-                "Weight": 10.274
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 9.991
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 4.745
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 3.323
             }
         ]
     },
@@ -961,34 +841,6 @@
             {
                 "Name": "Lugia",
                 "Weight": 21.79
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 12.733
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 10.019
-            },
-            {
-                "Name": "Rayquaza",
-                "Weight": 7.744
-            },
-            {
-                "Name": "Mew",
-                "Weight": 7.302
-            },
-            {
-                "Name": "Kyogre",
-                "Weight": 4.902
-            },
-            {
-                "Name": "Dragonite",
-                "Weight": 0.596
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 0.54
             }
         ]
     },
@@ -1082,46 +934,6 @@
             {
                 "Name": "Deoxys-Attack",
                 "Weight": 27.511
-            },
-            {
-                "Name": "Mewtwo",
-                "Weight": 22.515
-            },
-            {
-                "Name": "Dugtrio",
-                "Weight": 17.987
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 17.885
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 11.742
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 9.131
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 6.649
-            },
-            {
-                "Name": "Rayquaza",
-                "Weight": 6.014
-            },
-            {
-                "Name": "Zapdos",
-                "Weight": 5.325
-            },
-            {
-                "Name": "Tyranitar",
-                "Weight": 3.814
-            },
-            {
-                "Name": "Dragonite",
-                "Weight": 0.698
             }
         ]
     },
@@ -1231,42 +1043,6 @@
             {
                 "Name": "Blissey",
                 "Weight": 28.858
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 21.515
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 13.564
-            },
-            {
-                "Name": "Tyranitar",
-                "Weight": 10.067
-            },
-            {
-                "Name": "Mew",
-                "Weight": 9.873
-            },
-            {
-                "Name": "Mewtwo",
-                "Weight": 8.651
-            },
-            {
-                "Name": "Lugia",
-                "Weight": 7.663
-            },
-            {
-                "Name": "Zapdos",
-                "Weight": 5.204
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 0.995
-            },
-            {
-                "Name": "Salamence",
-                "Weight": 0.558
             }
         ]
     },
@@ -1328,14 +1104,6 @@
             {
                 "Name": "Latios",
                 "Weight": 50.836
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 43.373
-            },
-            {
-                "Name": "Jumpluff",
-                "Weight": 2.597
             }
         ]
     },
@@ -1393,10 +1161,6 @@
             {
                 "Name": "Latios",
                 "Weight": 53.984
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 46.52
             }
         ]
     },
@@ -1462,26 +1226,6 @@
             {
                 "Name": "Blissey",
                 "Weight": 38.717
-            },
-            {
-                "Name": "Latios",
-                "Weight": 35.456
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 25.619
-            },
-            {
-                "Name": "Jumpluff",
-                "Weight": 7.404
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 2.2
-            },
-            {
-                "Name": "Salamence",
-                "Weight": 0.995
             }
         ]
     },
@@ -1547,22 +1291,6 @@
             {
                 "Name": "Blissey",
                 "Weight": 61.999
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 45.571
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 37.223
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 34.285
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 1.628
             }
         ]
     },
@@ -1648,38 +1376,6 @@
             {
                 "Name": "Lugia",
                 "Weight": 35.01
-            },
-            {
-                "Name": "Ludicolo",
-                "Weight": 26.568
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 26.568
-            },
-            {
-                "Name": "Blastoise",
-                "Weight": 26.568
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 25.837
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 25.269
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 25.02
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 1.16
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 0.867
             }
         ]
     },
@@ -1765,38 +1461,6 @@
             {
                 "Name": "Ludicolo",
                 "Weight": 26.374
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 26.374
-            },
-            {
-                "Name": "Blastoise",
-                "Weight": 26.374
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 25.085
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 24.333
-            },
-            {
-                "Name": "Lugia",
-                "Weight": 22.771
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 13.599
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 1.151
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 0.501
             }
         ]
     },
@@ -1858,34 +1522,6 @@
             {
                 "Name": "Lugia",
                 "Weight": 83.387
-            },
-            {
-                "Name": "Mewtwo",
-                "Weight": 79.064
-            },
-            {
-                "Name": "Ho-Oh",
-                "Weight": 41.44
-            },
-            {
-                "Name": "Kyogre",
-                "Weight": 3.579
-            },
-            {
-                "Name": "Cloyster",
-                "Weight": 2.009
-            },
-            {
-                "Name": "Exeggutor",
-                "Weight": 2.009
-            },
-            {
-                "Name": "Steelix",
-                "Weight": 2.009
-            },
-            {
-                "Name": "Ninjask",
-                "Weight": 2.009
             }
         ]
     },
@@ -1959,22 +1595,6 @@
             {
                 "Name": "Zapdos",
                 "Weight": 52.01
-            },
-            {
-                "Name": "Lugia",
-                "Weight": 38.513
-            },
-            {
-                "Name": "Latios",
-                "Weight": 17.57
-            },
-            {
-                "Name": "Deoxys-Attack",
-                "Weight": 10.106
-            },
-            {
-                "Name": "Kyogre",
-                "Weight": 5.637
             }
         ]
     },
@@ -2036,18 +1656,6 @@
             {
                 "Name": "Mewtwo",
                 "Weight": 81.122
-            },
-            {
-                "Name": "Ho-Oh",
-                "Weight": 43.498
-            },
-            {
-                "Name": "Groudon",
-                "Weight": 12.195
-            },
-            {
-                "Name": "Kyogre",
-                "Weight": 5.637
             }
         ]
     },
@@ -2113,22 +1721,6 @@
             {
                 "Name": "Swampert",
                 "Weight": 53.799
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 52.251
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 51.758
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 51.169
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 2.491
             }
         ]
     },
@@ -2198,22 +1790,6 @@
             {
                 "Name": "Blastoise",
                 "Weight": 53.799
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 52.251
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 51.758
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 51.169
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 2.491
             }
         ]
     },
@@ -2279,22 +1855,6 @@
             {
                 "Name": "Blastoise",
                 "Weight": 53.799
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 52.251
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 51.758
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 51.169
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 2.491
             }
         ]
     },
@@ -2360,18 +1920,6 @@
             {
                 "Name": "Swampert",
                 "Weight": 55.872
-            },
-            {
-                "Name": "Blastoise",
-                "Weight": 55.872
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 54.324
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 53.831
             }
         ]
     },
@@ -2449,22 +1997,6 @@
             {
                 "Name": "Tyranitar",
                 "Weight": 85.167
-            },
-            {
-                "Name": "Rayquaza",
-                "Weight": 73.232
-            },
-            {
-                "Name": "Ho-Oh",
-                "Weight": 43.498
-            },
-            {
-                "Name": "Dragonite",
-                "Weight": 12.962
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 12.906
             }
         ]
     },
@@ -2522,14 +2054,6 @@
             {
                 "Name": "Metagross",
                 "Weight": 68.426
-            },
-            {
-                "Name": "Ho-Oh",
-                "Weight": 24.517
-            },
-            {
-                "Name": "Latias",
-                "Weight": 20.261
             }
         ]
     },
@@ -2599,34 +2123,6 @@
             {
                 "Name": "Zapdos",
                 "Weight": 43.375
-            },
-            {
-                "Name": "Lugia",
-                "Weight": 29.878
-            },
-            {
-                "Name": "Mewtwo",
-                "Weight": 25.555
-            },
-            {
-                "Name": "Ludicolo",
-                "Weight": 16.738
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 16.738
-            },
-            {
-                "Name": "Blastoise",
-                "Weight": 16.738
-            },
-            {
-                "Name": "Kingdra",
-                "Weight": 15.19
-            },
-            {
-                "Name": "Starmie",
-                "Weight": 14.697
             }
         ]
     },
@@ -2692,26 +2188,6 @@
             {
                 "Name": "Forretress",
                 "Weight": 55.015
-            },
-            {
-                "Name": "Latios",
-                "Weight": 43.471
-            },
-            {
-                "Name": "Salamence",
-                "Weight": 40.72
-            },
-            {
-                "Name": "Dugtrio",
-                "Weight": 28.352
-            },
-            {
-                "Name": "Sneasel",
-                "Weight": 13.51
-            },
-            {
-                "Name": "Deoxys-Defense",
-                "Weight": 8.212
             }
         ]
     },
@@ -2773,18 +2249,6 @@
             {
                 "Name": "Zapdos",
                 "Weight": 98.942
-            },
-            {
-                "Name": "Lugia",
-                "Weight": 85.444
-            },
-            {
-                "Name": "Mewtwo",
-                "Weight": 81.122
-            },
-            {
-                "Name": "Ho-Oh",
-                "Weight": 43.498
             }
         ]
     },
@@ -2846,18 +2310,6 @@
             {
                 "Name": "Rayquaza",
                 "Weight": 46.749
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 36.096
-            },
-            {
-                "Name": "Latios",
-                "Weight": 31.055
-            },
-            {
-                "Name": "Sneasel",
-                "Weight": 20.013
             }
         ]
     },
@@ -2919,18 +2371,6 @@
             {
                 "Name": "Steelix",
                 "Weight": 99.951
-            },
-            {
-                "Name": "Ninjask",
-                "Weight": 99.951
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 97.608
-            },
-            {
-                "Name": "Groudon",
-                "Weight": 12.195
             }
         ]
     },
@@ -2992,18 +2432,6 @@
             {
                 "Name": "Exeggutor",
                 "Weight": 99.951
-            },
-            {
-                "Name": "Ninjask",
-                "Weight": 99.951
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 97.608
-            },
-            {
-                "Name": "Groudon",
-                "Weight": 12.195
             }
         ]
     },
@@ -3065,18 +2493,6 @@
             {
                 "Name": "Exeggutor",
                 "Weight": 99.951
-            },
-            {
-                "Name": "Steelix",
-                "Weight": 99.951
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 97.608
-            },
-            {
-                "Name": "Groudon",
-                "Weight": 12.195
             }
         ]
     },
@@ -3142,18 +2558,6 @@
             {
                 "Name": "Exeggutor",
                 "Weight": 99.951
-            },
-            {
-                "Name": "Ninjask",
-                "Weight": 99.951
-            },
-            {
-                "Name": "Wobbuffet",
-                "Weight": 97.608
-            },
-            {
-                "Name": "Groudon",
-                "Weight": 12.195
             }
         ]
     },
@@ -3203,14 +2607,6 @@
             {
                 "Name": "Snorlax",
                 "Weight": 33.444
-            },
-            {
-                "Name": "Rayquaza",
-                "Weight": 19.949
-            },
-            {
-                "Name": "Latios",
-                "Weight": 4.255
             }
         ]
     }

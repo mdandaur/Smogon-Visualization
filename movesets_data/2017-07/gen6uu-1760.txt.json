@@ -73,38 +73,6 @@
             {
                 "Name": "Articuno",
                 "Weight": 8.595
-            },
-            {
-                "Name": "Moltres",
-                "Weight": 8.013
-            },
-            {
-                "Name": "Florges",
-                "Weight": 7.548
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 6.47
-            },
-            {
-                "Name": "Metagross",
-                "Weight": 5.001
-            },
-            {
-                "Name": "Hydreigon",
-                "Weight": 4.952
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 3.055
-            },
-            {
-                "Name": "Slowking",
-                "Weight": 1.486
-            },
-            {
-                "Name": "Doublade",
-                "Weight": 1.46
             }
         ]
     },
@@ -170,22 +138,6 @@
             {
                 "Name": "Articuno",
                 "Weight": 35.418
-            },
-            {
-                "Name": "Moltres",
-                "Weight": 34.837
-            },
-            {
-                "Name": "Florges",
-                "Weight": 34.716
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 5.898
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 0.558
             }
         ]
     },
@@ -251,30 +203,6 @@
             {
                 "Name": "Articuno",
                 "Weight": 36.805
-            },
-            {
-                "Name": "Moltres",
-                "Weight": 36.224
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 35.031
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 7.285
-            },
-            {
-                "Name": "Furfrou",
-                "Weight": 0.871
-            },
-            {
-                "Name": "Houndoom-Mega",
-                "Weight": 0.87
-            },
-            {
-                "Name": "Chesnaught",
-                "Weight": 0.855
             }
         ]
     },
@@ -348,22 +276,6 @@
             {
                 "Name": "Tangela",
                 "Weight": 34.067
-            },
-            {
-                "Name": "Florges",
-                "Weight": 33.02
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 31.942
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 4.547
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 0.588
             }
         ]
     },
@@ -425,18 +337,6 @@
             {
                 "Name": "Moltres",
                 "Weight": 37.991
-            },
-            {
-                "Name": "Florges",
-                "Weight": 37.525
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 36.447
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 9.052
             }
         ]
     },
@@ -498,18 +398,6 @@
             {
                 "Name": "Moltres",
                 "Weight": 37.991
-            },
-            {
-                "Name": "Florges",
-                "Weight": 37.526
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 36.447
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 9.052
             }
         ]
     },
@@ -583,38 +471,6 @@
             {
                 "Name": "Heracross",
                 "Weight": 44.022
-            },
-            {
-                "Name": "Metagross",
-                "Weight": 41.05
-            },
-            {
-                "Name": "Hydreigon",
-                "Weight": 41.046
-            },
-            {
-                "Name": "Cobalion",
-                "Weight": 11.593
-            },
-            {
-                "Name": "Celebi",
-                "Weight": 8.665
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 4.067
-            },
-            {
-                "Name": "Aerodactyl-Mega",
-                "Weight": 3.27
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 3.071
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 0.531
             }
         ]
     },
@@ -700,26 +556,6 @@
             {
                 "Name": "Hydreigon",
                 "Weight": 39.775
-            },
-            {
-                "Name": "Metagross",
-                "Weight": 39.461
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 37.583
-            },
-            {
-                "Name": "Cobalion",
-                "Weight": 11.146
-            },
-            {
-                "Name": "Celebi",
-                "Weight": 9.955
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 1.155
             }
         ]
     },
@@ -797,38 +633,6 @@
             {
                 "Name": "Hydreigon",
                 "Weight": 58.077
-            },
-            {
-                "Name": "Entei",
-                "Weight": 56.76
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 51.944
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 15.023
-            },
-            {
-                "Name": "Aerodactyl-Mega",
-                "Weight": 4.618
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 4.422
-            },
-            {
-                "Name": "Blastoise-Mega",
-                "Weight": 1.241
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 1.178
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 0.752
             }
         ]
     },
@@ -890,18 +694,6 @@
             {
                 "Name": "Heracross",
                 "Weight": 62.467
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 58.658
-            },
-            {
-                "Name": "Entei",
-                "Weight": 56.823
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 21.365
             }
         ]
     },
@@ -963,18 +755,6 @@
             {
                 "Name": "Heracross",
                 "Weight": 62.663
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 58.404
-            },
-            {
-                "Name": "Entei",
-                "Weight": 57.019
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 21.714
             }
         ]
     },
@@ -1064,46 +844,6 @@
             {
                 "Name": "Chandelure",
                 "Weight": 41.819
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 40.945
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 39.683
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 38.221
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 26.237
-            },
-            {
-                "Name": "Slowking",
-                "Weight": 25.137
-            },
-            {
-                "Name": "Doublade",
-                "Weight": 25.111
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 22.878
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 8.406
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 6.623
-            },
-            {
-                "Name": "Celebi",
-                "Weight": 3.533
             }
         ]
     },
@@ -1185,46 +925,6 @@
             {
                 "Name": "Chandelure",
                 "Weight": 40.442
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 39.588
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 38.325
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 36.06
-            },
-            {
-                "Name": "Cobalion",
-                "Weight": 23.529
-            },
-            {
-                "Name": "Celebi",
-                "Weight": 21.004
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 12.361
-            },
-            {
-                "Name": "Entei",
-                "Weight": 9.722
-            },
-            {
-                "Name": "Aerodactyl-Mega",
-                "Weight": 6.632
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 6.436
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 2.892
             }
         ]
     },
@@ -1326,46 +1026,6 @@
             {
                 "Name": "Slowking",
                 "Weight": 25.571
-            },
-            {
-                "Name": "Doublade",
-                "Weight": 25.545
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 24.827
-            },
-            {
-                "Name": "Cobalion",
-                "Weight": 24.668
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 23.312
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 12.292
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 8.575
-            },
-            {
-                "Name": "Ampharos-Mega",
-                "Weight": 8.545
-            },
-            {
-                "Name": "Tyrantrum",
-                "Weight": 8.489
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 8.057
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 7.534
             }
         ]
     },
@@ -1443,46 +1103,6 @@
             {
                 "Name": "Aggron-Mega",
                 "Weight": 65.07
-            },
-            {
-                "Name": "Goodra",
-                "Weight": 49.556
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 42.305
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 41.501
-            },
-            {
-                "Name": "Venusaur",
-                "Weight": 16.53
-            },
-            {
-                "Name": "Cloyster",
-                "Weight": 16.315
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 15.975
-            },
-            {
-                "Name": "Scrafty",
-                "Weight": 11.443
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 10.364
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 9.9
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 9.552
             }
         ]
     },
@@ -1568,46 +1188,6 @@
             {
                 "Name": "Galvantula",
                 "Weight": 59.664
-            },
-            {
-                "Name": "Goodra",
-                "Weight": 46.447
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 39.195
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 38.392
-            },
-            {
-                "Name": "Venusaur",
-                "Weight": 15.496
-            },
-            {
-                "Name": "Cloyster",
-                "Weight": 15.281
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 14.942
-            },
-            {
-                "Name": "Ninjask",
-                "Weight": 2.582
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 2.567
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 2.539
-            },
-            {
-                "Name": "Houndoom",
-                "Weight": 2.42
             }
         ]
     },
@@ -1697,38 +1277,6 @@
             {
                 "Name": "Galvantula",
                 "Weight": 76.352
-            },
-            {
-                "Name": "Goodra",
-                "Weight": 58.972
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 51.72
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 50.941
-            },
-            {
-                "Name": "Venusaur",
-                "Weight": 19.659
-            },
-            {
-                "Name": "Cloyster",
-                "Weight": 19.445
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 19.13
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 1.482
-            },
-            {
-                "Name": "Mienshao",
-                "Weight": 1.303
             }
         ]
     },
@@ -1798,26 +1346,6 @@
             {
                 "Name": "Aggron-Mega",
                 "Weight": 82.947
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 81.685
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 80.223
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 79.419
-            },
-            {
-                "Name": "Toxicroak",
-                "Weight": 1.372
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 0.906
             }
         ]
     },
@@ -1899,38 +1427,6 @@
             {
                 "Name": "Cobalion",
                 "Weight": 39.914
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 28.166
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 23.995
-            },
-            {
-                "Name": "Entei",
-                "Weight": 17.891
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 14.733
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 12.93
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 4.136
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 2.315
-            },
-            {
-                "Name": "Nidoqueen",
-                "Weight": 0.551
             }
         ]
     },
@@ -2024,46 +1520,6 @@
             {
                 "Name": "Doublade",
                 "Weight": 65.915
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 54.978
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 52.966
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 19.818
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 12.291
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 10.627
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 9.749
-            },
-            {
-                "Name": "Tornadus",
-                "Weight": 9.593
-            },
-            {
-                "Name": "Sharpedo-Mega",
-                "Weight": 9.578
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 9.356
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 8.615
             }
         ]
     },
@@ -2181,46 +1637,6 @@
             {
                 "Name": "Alomomola",
                 "Weight": 37.155
-            },
-            {
-                "Name": "Sawk",
-                "Weight": 37.155
-            },
-            {
-                "Name": "Hitmontop",
-                "Weight": 36.536
-            },
-            {
-                "Name": "Qwilfish",
-                "Weight": 25.782
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 24.629
-            },
-            {
-                "Name": "Scrafty",
-                "Weight": 23.253
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 22.143
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 21.679
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 9.13
-            },
-            {
-                "Name": "Blastoise-Mega",
-                "Weight": 5.133
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 4.412
             }
         ]
     },
@@ -2282,18 +1698,6 @@
             {
                 "Name": "Roserade",
                 "Weight": 91.435
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 82.731
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 80.719
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 36.34
             }
         ]
     },
@@ -2355,18 +1759,6 @@
             {
                 "Name": "Roserade",
                 "Weight": 91.924
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 83.22
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 81.208
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 36.829
             }
         ]
     },
@@ -2428,18 +1820,6 @@
             {
                 "Name": "Sylveon",
                 "Weight": 64.808
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 63.6
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 55.339
-            },
-            {
-                "Name": "Entei",
-                "Weight": 53.954
             }
         ]
     },
@@ -2541,46 +1921,6 @@
             {
                 "Name": "Celebi",
                 "Weight": 32.98
-            },
-            {
-                "Name": "Aerodactyl-Mega",
-                "Weight": 27.408
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 27.197
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 24.739
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 22.796
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 19.114
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 16.587
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 14.773
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 12.822
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 11.002
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 7.038
             }
         ]
     },
@@ -2658,42 +1998,6 @@
             {
                 "Name": "Alomomola",
                 "Weight": 61.522
-            },
-            {
-                "Name": "Sawk",
-                "Weight": 61.522
-            },
-            {
-                "Name": "Hitmontop",
-                "Weight": 60.903
-            },
-            {
-                "Name": "Qwilfish",
-                "Weight": 42.69
-            },
-            {
-                "Name": "Blastoise-Mega",
-                "Weight": 7.102
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 7.038
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 4.605
-            },
-            {
-                "Name": "Flareon",
-                "Weight": 3.435
-            },
-            {
-                "Name": "Leafeon",
-                "Weight": 3.435
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 1.625
             }
         ]
     },
@@ -2787,34 +2091,6 @@
             {
                 "Name": "Sawk",
                 "Weight": 62.774
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 62.067
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 59.118
-            },
-            {
-                "Name": "Qwilfish",
-                "Weight": 43.558
-            },
-            {
-                "Name": "Ninjask",
-                "Weight": 9.442
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 9.399
-            },
-            {
-                "Name": "Houndoom",
-                "Weight": 9.28
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 8.244
             }
         ]
     },
@@ -2908,46 +2184,6 @@
             {
                 "Name": "Arcanine",
                 "Weight": 47.532
-            },
-            {
-                "Name": "Scrafty",
-                "Weight": 46.369
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 45.969
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 32.277
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 21.12
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 17.461
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 16.359
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 14.828
-            },
-            {
-                "Name": "Feraligatr",
-                "Weight": 6.016
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 5.642
-            },
-            {
-                "Name": "Absol-Mega",
-                "Weight": 5.639
             }
         ]
     },
@@ -3021,46 +2257,6 @@
             {
                 "Name": "Cloyster",
                 "Weight": 66.154
-            },
-            {
-                "Name": "Chandelure",
-                "Weight": 55.379
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 54.451
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 53.188
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 5.935
-            },
-            {
-                "Name": "Absol-Mega",
-                "Weight": 5.756
-            },
-            {
-                "Name": "Mienshao",
-                "Weight": 5.754
-            },
-            {
-                "Name": "Braviary",
-                "Weight": 3.055
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 2.734
-            },
-            {
-                "Name": "Houndoom",
-                "Weight": 2.47
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 0.544
             }
         ]
     },
@@ -3150,46 +2346,6 @@
             {
                 "Name": "Scrafty",
                 "Weight": 52.797
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 51.718
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 47.686
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 38.705
-            },
-            {
-                "Name": "Furfrou",
-                "Weight": 17.289
-            },
-            {
-                "Name": "Houndoom-Mega",
-                "Weight": 17.289
-            },
-            {
-                "Name": "Chesnaught",
-                "Weight": 17.274
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 14.766
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 6.647
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 6.22
-            },
-            {
-                "Name": "Mienshao",
-                "Weight": 6.042
             }
         ]
     },
@@ -3263,18 +2419,6 @@
             {
                 "Name": "Hitmontop",
                 "Weight": 70.785
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 70.697
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 67.748
-            },
-            {
-                "Name": "Qwilfish",
-                "Weight": 49.547
             }
         ]
     },
@@ -3336,18 +2480,6 @@
             {
                 "Name": "Hitmontop",
                 "Weight": 70.785
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 70.697
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 67.748
-            },
-            {
-                "Name": "Qwilfish",
-                "Weight": 49.547
             }
         ]
     },
@@ -3417,34 +2549,6 @@
             {
                 "Name": "Haxorus",
                 "Weight": 75.636
-            },
-            {
-                "Name": "Chandelure",
-                "Weight": 65.102
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 64.249
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 62.988
-            },
-            {
-                "Name": "Gyarados",
-                "Weight": 4.302
-            },
-            {
-                "Name": "Tyrantrum",
-                "Weight": 2.488
-            },
-            {
-                "Name": "Ampharos-Mega",
-                "Weight": 1.888
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 1.015
             }
         ]
     },
@@ -3554,46 +2658,6 @@
             {
                 "Name": "Celebi",
                 "Weight": 48.843
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 40.602
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 38.59
-            },
-            {
-                "Name": "Sharpedo-Mega",
-                "Weight": 20.95
-            },
-            {
-                "Name": "Tornadus",
-                "Weight": 20.575
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 20.338
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 19.673
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 13.345
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 7.691
-            },
-            {
-                "Name": "Absol-Mega",
-                "Weight": 7.513
-            },
-            {
-                "Name": "Mienshao",
-                "Weight": 7.51
             }
         ]
     },
@@ -3663,46 +2727,6 @@
             {
                 "Name": "Espeon",
                 "Weight": 59.142
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 58.62
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 55.052
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 46.071
-            },
-            {
-                "Name": "Darmanitan",
-                "Weight": 13.794
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 13.183
-            },
-            {
-                "Name": "Drifblim",
-                "Weight": 11.898
-            },
-            {
-                "Name": "Steelix",
-                "Weight": 11.898
-            },
-            {
-                "Name": "Zangoose",
-                "Weight": 11.898
-            },
-            {
-                "Name": "Feraligatr",
-                "Weight": 10.794
-            },
-            {
-                "Name": "Heliolisk",
-                "Weight": 10.434
             }
         ]
     },
@@ -3768,18 +2792,6 @@
             {
                 "Name": "Haxorus",
                 "Weight": 79.511
-            },
-            {
-                "Name": "Chandelure",
-                "Weight": 69.165
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 68.312
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 67.049
             }
         ]
     },
@@ -3869,46 +2881,6 @@
             {
                 "Name": "Ampharos-Mega",
                 "Weight": 63.248
-            },
-            {
-                "Name": "Tyrantrum",
-                "Weight": 52.081
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 47.474
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 38.405
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 26.759
-            },
-            {
-                "Name": "Furfrou",
-                "Weight": 21.043
-            },
-            {
-                "Name": "Houndoom-Mega",
-                "Weight": 21.043
-            },
-            {
-                "Name": "Chesnaught",
-                "Weight": 21.028
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 17.862
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 11.237
-            },
-            {
-                "Name": "Escavalier",
-                "Weight": 2.198
             }
         ]
     },
@@ -3986,46 +2958,6 @@
             {
                 "Name": "Gligar",
                 "Weight": 77.176
-            },
-            {
-                "Name": "Tyrantrum",
-                "Weight": 70.867
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 58.525
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 53.434
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 32.875
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 13.814
-            },
-            {
-                "Name": "Gyarados",
-                "Weight": 6.529
-            },
-            {
-                "Name": "Braviary",
-                "Weight": 5.257
-            },
-            {
-                "Name": "Houndoom",
-                "Weight": 4.672
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 3.242
-            },
-            {
-                "Name": "Cloyster",
-                "Weight": 3.173
             }
         ]
     },
@@ -4091,18 +3023,6 @@
             {
                 "Name": "Sawk",
                 "Weight": 65.223
-            },
-            {
-                "Name": "Hitmontop",
-                "Weight": 64.604
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 64.516
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 61.567
             }
         ]
     },
@@ -4180,46 +3100,6 @@
             {
                 "Name": "Gligar",
                 "Weight": 81.552
-            },
-            {
-                "Name": "Tyrantrum",
-                "Weight": 67.564
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 61.704
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 52.968
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 39.803
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 18.141
-            },
-            {
-                "Name": "Torterra",
-                "Weight": 4.934
-            },
-            {
-                "Name": "Mismagius",
-                "Weight": 4.931
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 3.091
-            },
-            {
-                "Name": "Gallade",
-                "Weight": 1.488
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 1.433
             }
         ]
     },
@@ -4285,18 +3165,6 @@
             {
                 "Name": "Vaporeon",
                 "Weight": 84.855
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 84.507
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 81.392
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 72.306
             }
         ]
     },
@@ -4382,34 +3250,6 @@
             {
                 "Name": "Ampharos-Mega",
                 "Weight": 32.763
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 32.154
-            },
-            {
-                "Name": "Tyrantrum",
-                "Weight": 24.921
-            },
-            {
-                "Name": "Suicune",
-                "Weight": 10.766
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 10.325
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 7.839
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 7.206
-            },
-            {
-                "Name": "Celebi",
-                "Weight": 2.808
             }
         ]
     },
@@ -4483,38 +3323,6 @@
             {
                 "Name": "Infernape",
                 "Weight": 80.217
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 79.514
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 66.053
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 55.77
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 23.497
-            },
-            {
-                "Name": "Gyarados",
-                "Weight": 8.268
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 4.982
-            },
-            {
-                "Name": "Cloyster",
-                "Weight": 4.913
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 1.094
             }
         ]
     },
@@ -4592,46 +3400,6 @@
             {
                 "Name": "Krookodile",
                 "Weight": 58.014
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 55.398
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 48.433
-            },
-            {
-                "Name": "Ninjask",
-                "Weight": 31.962
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 31.918
-            },
-            {
-                "Name": "Houndoom",
-                "Weight": 31.8
-            },
-            {
-                "Name": "Hitmontop",
-                "Weight": 28.038
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 27.698
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 17.283
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 9.315
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 2.609
             }
         ]
     },
@@ -4713,38 +3481,6 @@
             {
                 "Name": "Krookodile",
                 "Weight": 82.762
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 70.234
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 66.232
-            },
-            {
-                "Name": "Entei",
-                "Weight": 60.588
-            },
-            {
-                "Name": "Machamp",
-                "Weight": 7.648
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 6.836
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 2.617
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 1.436
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 0.602
             }
         ]
     },
@@ -4830,34 +3566,6 @@
             {
                 "Name": "Jolteon",
                 "Weight": 48.919
-            },
-            {
-                "Name": "Tornadus",
-                "Weight": 46.721
-            },
-            {
-                "Name": "Sharpedo-Mega",
-                "Weight": 46.706
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 46.484
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 46.378
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 45.243
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 43.911
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 14.927
             }
         ]
     },
@@ -4931,18 +3639,6 @@
             {
                 "Name": "Krookodile",
                 "Weight": 64.568
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 52.002
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 48.0
-            },
-            {
-                "Name": "Entei",
-                "Weight": 42.394
             }
         ]
     },
@@ -5020,46 +3716,6 @@
             {
                 "Name": "Ampharos-Mega",
                 "Weight": 84.752
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 84.216
-            },
-            {
-                "Name": "Tyrantrum",
-                "Weight": 48.463
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 45.011
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 34.486
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 33.867
-            },
-            {
-                "Name": "Torterra",
-                "Weight": 12.243
-            },
-            {
-                "Name": "Mismagius",
-                "Weight": 12.24
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 8.196
-            },
-            {
-                "Name": "Gallade",
-                "Weight": 3.692
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 3.107
             }
         ]
     },
@@ -5125,46 +3781,6 @@
             {
                 "Name": "Sharpedo-Mega",
                 "Weight": 75.116
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 74.229
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 72.321
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 67.902
-            },
-            {
-                "Name": "Gastrodon",
-                "Weight": 18.08
-            },
-            {
-                "Name": "Ditto",
-                "Weight": 18.08
-            },
-            {
-                "Name": "Stoutland",
-                "Weight": 18.08
-            },
-            {
-                "Name": "Golurk",
-                "Weight": 18.08
-            },
-            {
-                "Name": "Zebstrika",
-                "Weight": 18.08
-            },
-            {
-                "Name": "Mamoswine",
-                "Weight": 2.976
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 2.554
             }
         ]
     },
@@ -5254,46 +3870,6 @@
             {
                 "Name": "Drifblim",
                 "Weight": 47.451
-            },
-            {
-                "Name": "Steelix",
-                "Weight": 47.451
-            },
-            {
-                "Name": "Zangoose",
-                "Weight": 47.451
-            },
-            {
-                "Name": "Darmanitan",
-                "Weight": 47.352
-            },
-            {
-                "Name": "Blastoise-Mega",
-                "Weight": 32.596
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 32.345
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 28.351
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 25.402
-            },
-            {
-                "Name": "Machamp",
-                "Weight": 13.784
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 12.145
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 10.957
             }
         ]
     },
@@ -5371,46 +3947,6 @@
             {
                 "Name": "Heliolisk",
                 "Weight": 32.827
-            },
-            {
-                "Name": "Reuniclus",
-                "Weight": 32.726
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 32.404
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 24.006
-            },
-            {
-                "Name": "Absol-Mega",
-                "Weight": 24.003
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 22.976
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 17.092
-            },
-            {
-                "Name": "Sceptile-Mega",
-                "Weight": 13.054
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 10.7
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 7.762
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 2.061
             }
         ]
     },
@@ -5468,26 +4004,6 @@
             {
                 "Name": "Slurpuff",
                 "Weight": 93.78
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 93.115
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 92.936
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 86.787
-            },
-            {
-                "Name": "Conkeldurr",
-                "Weight": 1.436
-            },
-            {
-                "Name": "Chesnaught",
-                "Weight": 0.918
             }
         ]
     },
@@ -5553,18 +4069,6 @@
             {
                 "Name": "Slurpuff",
                 "Weight": 95.45
-            },
-            {
-                "Name": "Swampert",
-                "Weight": 94.784
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 92.876
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 88.457
             }
         ]
     },
@@ -5630,26 +4134,6 @@
             {
                 "Name": "Houndoom-Mega",
                 "Weight": 84.416
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 81.893
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 81.235
-            },
-            {
-                "Name": "Florges",
-                "Weight": 50.515
-            },
-            {
-                "Name": "Conkeldurr",
-                "Weight": 1.358
-            },
-            {
-                "Name": "Sharpedo-Mega",
-                "Weight": 0.79
             }
         ]
     },
@@ -5707,18 +4191,6 @@
             {
                 "Name": "Chesnaught",
                 "Weight": 85.856
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 83.348
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 82.69
-            },
-            {
-                "Name": "Florges",
-                "Weight": 51.97
             }
         ]
     },
@@ -5768,18 +4240,6 @@
             {
                 "Name": "Chesnaught",
                 "Weight": 85.928
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 83.419
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 82.762
-            },
-            {
-                "Name": "Florges",
-                "Weight": 52.041
             }
         ]
     },
@@ -5861,38 +4321,6 @@
             {
                 "Name": "Weezing",
                 "Weight": 77.682
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 76.527
-            },
-            {
-                "Name": "Hitmontop",
-                "Weight": 73.803
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 63.047
-            },
-            {
-                "Name": "Braviary",
-                "Weight": 21.527
-            },
-            {
-                "Name": "Ampharos-Mega",
-                "Weight": 18.905
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 17.624
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 17.364
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 4.972
             }
         ]
     },
@@ -5970,46 +4398,6 @@
             {
                 "Name": "Absol-Mega",
                 "Weight": 33.355
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 30.588
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 30.333
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 29.925
-            },
-            {
-                "Name": "Vaporeon",
-                "Weight": 27.069
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 25.586
-            },
-            {
-                "Name": "Chandelure",
-                "Weight": 16.635
-            },
-            {
-                "Name": "Entei",
-                "Weight": 6.356
-            },
-            {
-                "Name": "Swellow",
-                "Weight": 2.209
-            },
-            {
-                "Name": "Cinccino",
-                "Weight": 2.209
-            },
-            {
-                "Name": "Darmanitan",
-                "Weight": 1.65
             }
         ]
     },
@@ -6087,34 +4475,6 @@
             {
                 "Name": "Mienshao",
                 "Weight": 26.628
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 25.842
-            },
-            {
-                "Name": "Feraligatr",
-                "Weight": 25.538
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 23.608
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 23.2
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 22.148
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 18.928
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 9.693
             }
         ]
     },
@@ -6196,46 +4556,6 @@
             {
                 "Name": "Absol-Mega",
                 "Weight": 33.564
-            },
-            {
-                "Name": "Feraligatr",
-                "Weight": 33.263
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 29.873
-            },
-            {
-                "Name": "Toxicroak",
-                "Weight": 17.926
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 17.418
-            },
-            {
-                "Name": "Donphan",
-                "Weight": 16.613
-            },
-            {
-                "Name": "Sceptile",
-                "Weight": 16.607
-            },
-            {
-                "Name": "Conkeldurr",
-                "Weight": 16.474
-            },
-            {
-                "Name": "Gyarados",
-                "Weight": 16.398
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 10.016
-            },
-            {
-                "Name": "Goodra",
-                "Weight": 7.355
             }
         ]
     },
@@ -6305,38 +4625,6 @@
             {
                 "Name": "Houndoom",
                 "Weight": 92.342
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 91.305
-            },
-            {
-                "Name": "Hitmontop",
-                "Weight": 88.581
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 77.825
-            },
-            {
-                "Name": "Gallade",
-                "Weight": 6.868
-            },
-            {
-                "Name": "Torterra",
-                "Weight": 6.767
-            },
-            {
-                "Name": "Mismagius",
-                "Weight": 6.763
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 5.748
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 4.294
             }
         ]
     },
@@ -6438,46 +4726,6 @@
             {
                 "Name": "Umbreon",
                 "Weight": 57.191
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 54.242
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 43.991
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 39.797
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 16.385
-            },
-            {
-                "Name": "Snorlax",
-                "Weight": 6.072
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 6.067
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 5.234
-            },
-            {
-                "Name": "Mamoswine",
-                "Weight": 4.526
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 4.103
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 3.786
             }
         ]
     },
@@ -6547,22 +4795,6 @@
             {
                 "Name": "Houndoom",
                 "Weight": 99.241
-            },
-            {
-                "Name": "Jolteon",
-                "Weight": 98.204
-            },
-            {
-                "Name": "Hitmontop",
-                "Weight": 95.48
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 84.724
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 84.724
             }
         ]
     },
@@ -6624,10 +4856,6 @@
             {
                 "Name": "Celebi",
                 "Weight": 10.221
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 3.497
             }
         ]
     },
@@ -6693,38 +4921,6 @@
             {
                 "Name": "Drifblim",
                 "Weight": 81.465
-            },
-            {
-                "Name": "Steelix",
-                "Weight": 81.465
-            },
-            {
-                "Name": "Zangoose",
-                "Weight": 81.465
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 80.993
-            },
-            {
-                "Name": "Nidoqueen",
-                "Weight": 13.125
-            },
-            {
-                "Name": "Celebi",
-                "Weight": 4.663
-            },
-            {
-                "Name": "Swellow",
-                "Weight": 3.577
-            },
-            {
-                "Name": "Cinccino",
-                "Weight": 3.577
-            },
-            {
-                "Name": "Mienshao",
-                "Weight": 2.962
             }
         ]
     },
@@ -6786,34 +4982,6 @@
             {
                 "Name": "Nidoking",
                 "Weight": 74.066
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 70.073
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 53.671
-            },
-            {
-                "Name": "Heracross",
-                "Weight": 52.678
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 19.897
-            },
-            {
-                "Name": "Escavalier",
-                "Weight": 13.593
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 10.358
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 5.601
             }
         ]
     },
@@ -6895,34 +5063,6 @@
             {
                 "Name": "Infernape",
                 "Weight": 97.383
-            },
-            {
-                "Name": "Blissey",
-                "Weight": 78.599
-            },
-            {
-                "Name": "Ampharos-Mega",
-                "Weight": 78.217
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 77.681
-            },
-            {
-                "Name": "Torterra",
-                "Weight": 18.853
-            },
-            {
-                "Name": "Mismagius",
-                "Weight": 18.85
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 18.541
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 18.541
             }
         ]
     },
@@ -6992,30 +5132,6 @@
             {
                 "Name": "Feraligatr",
                 "Weight": 78.943
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 76.365
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 63.098
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 44.103
-            },
-            {
-                "Name": "Fletchinder",
-                "Weight": 20.003
-            },
-            {
-                "Name": "Steelix-Mega",
-                "Weight": 20.003
-            },
-            {
-                "Name": "Conkeldurr",
-                "Weight": 19.815
             }
         ]
     },
@@ -7081,22 +5197,6 @@
             {
                 "Name": "Steelix",
                 "Weight": 99.443
-            },
-            {
-                "Name": "Darmanitan",
-                "Weight": 99.343
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 98.971
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 96.41
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 96.41
             }
         ]
     },
@@ -7158,22 +5258,6 @@
             {
                 "Name": "Zangoose",
                 "Weight": 99.519
-            },
-            {
-                "Name": "Darmanitan",
-                "Weight": 99.42
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 99.047
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 96.487
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 96.487
             }
         ]
     },
@@ -7243,22 +5327,6 @@
             {
                 "Name": "Zangoose",
                 "Weight": 99.519
-            },
-            {
-                "Name": "Darmanitan",
-                "Weight": 99.42
-            },
-            {
-                "Name": "Shuckle",
-                "Weight": 99.047
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 96.487
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 96.487
             }
         ]
     },
@@ -7352,46 +5420,6 @@
             {
                 "Name": "Vaporeon",
                 "Weight": 57.628
-            },
-            {
-                "Name": "Krookodile",
-                "Weight": 56.146
-            },
-            {
-                "Name": "Chandelure",
-                "Weight": 47.195
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 25.83
-            },
-            {
-                "Name": "Blastoise-Mega",
-                "Weight": 25.415
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 25.352
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 21.359
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 18.41
-            },
-            {
-                "Name": "Braviary",
-                "Weight": 8.339
-            },
-            {
-                "Name": "Houndoom",
-                "Weight": 7.754
-            },
-            {
-                "Name": "Ampharos-Mega",
-                "Weight": 5.717
             }
         ]
     },
@@ -7473,46 +5501,6 @@
             {
                 "Name": "Mienshao",
                 "Weight": 44.041
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 41.021
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 40.613
-            },
-            {
-                "Name": "Entei",
-                "Weight": 17.044
-            },
-            {
-                "Name": "Torterra",
-                "Weight": 13.82
-            },
-            {
-                "Name": "Mismagius",
-                "Weight": 13.816
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 13.435
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 12.801
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 11.347
-            },
-            {
-                "Name": "Mamoswine",
-                "Weight": 4.62
-            },
-            {
-                "Name": "Nidoking",
-                "Weight": 4.051
             }
         ]
     },
@@ -7578,26 +5566,6 @@
             {
                 "Name": "Feraligatr",
                 "Weight": 97.323
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 94.746
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 81.479
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 62.483
-            },
-            {
-                "Name": "Rotom-Heat",
-                "Weight": 1.124
-            },
-            {
-                "Name": "Froslass",
-                "Weight": 1.116
             }
         ]
     },
@@ -7667,46 +5635,6 @@
             {
                 "Name": "Ampharos-Mega",
                 "Weight": 52.639
-            },
-            {
-                "Name": "Lucario",
-                "Weight": 51.766
-            },
-            {
-                "Name": "Cloyster",
-                "Weight": 51.7
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 48.647
-            },
-            {
-                "Name": "Sceptile",
-                "Weight": 43.169
-            },
-            {
-                "Name": "Donphan",
-                "Weight": 41.01
-            },
-            {
-                "Name": "Conkeldurr",
-                "Weight": 40.872
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 40.535
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 23.177
-            },
-            {
-                "Name": "Aggron",
-                "Weight": 2.156
-            },
-            {
-                "Name": "Ampharos",
-                "Weight": 2.156
             }
         ]
     },
@@ -7796,46 +5724,6 @@
             {
                 "Name": "Sceptile",
                 "Weight": 51.187
-            },
-            {
-                "Name": "Gyarados",
-                "Weight": 50.978
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 50.717
-            },
-            {
-                "Name": "Fletchinder",
-                "Weight": 35.478
-            },
-            {
-                "Name": "Steelix-Mega",
-                "Weight": 35.478
-            },
-            {
-                "Name": "Reuniclus",
-                "Weight": 35.056
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 33.36
-            },
-            {
-                "Name": "Hydreigon",
-                "Weight": 27.013
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 9.335
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 6.949
-            },
-            {
-                "Name": "Empoleon",
-                "Weight": 6.232
             }
         ]
     },
@@ -7901,18 +5789,6 @@
             {
                 "Name": "Vaporeon",
                 "Weight": 96.011
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 95.655
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 95.392
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 83.208
             }
         ]
     },
@@ -7978,18 +5854,6 @@
             {
                 "Name": "Vaporeon",
                 "Weight": 96.018
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 95.662
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 95.4
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 83.215
             }
         ]
     },
@@ -8051,18 +5915,6 @@
             {
                 "Name": "Golurk",
                 "Weight": 99.796
-            },
-            {
-                "Name": "Ditto",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Zebstrika",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
             }
         ]
     },
@@ -8116,22 +5968,6 @@
             {
                 "Name": "Stoutland",
                 "Weight": 99.796
-            },
-            {
-                "Name": "Golurk",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Zebstrika",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
             }
         ]
     },
@@ -8189,22 +6025,6 @@
             {
                 "Name": "Ditto",
                 "Weight": 99.796
-            },
-            {
-                "Name": "Stoutland",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Zebstrika",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
             }
         ]
     },
@@ -8254,18 +6074,6 @@
             {
                 "Name": "Golurk",
                 "Weight": 99.796
-            },
-            {
-                "Name": "Ditto",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Stoutland",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
             }
         ]
     },
@@ -8331,22 +6139,6 @@
             {
                 "Name": "Golurk",
                 "Weight": 99.796
-            },
-            {
-                "Name": "Stoutland",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Zebstrika",
-                "Weight": 99.796
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
             }
         ]
     },
@@ -8412,18 +6204,6 @@
             {
                 "Name": "Krookodile",
                 "Weight": 72.782
-            },
-            {
-                "Name": "Entei",
-                "Weight": 50.607
-            },
-            {
-                "Name": "Florges",
-                "Weight": 43.544
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 42.466
             }
         ]
     },
@@ -8493,18 +6273,6 @@
             {
                 "Name": "Arcanine",
                 "Weight": 92.331
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 91.8
-            },
-            {
-                "Name": "Goodra",
-                "Weight": 89.139
-            },
-            {
-                "Name": "Swampert-Mega",
-                "Weight": 36.705
             }
         ]
     },
@@ -8566,22 +6334,6 @@
             {
                 "Name": "Ampharos-Mega",
                 "Weight": 97.216
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 95.935
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 95.674
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 58.183
-            },
-            {
-                "Name": "Whimsicott",
-                "Weight": 24.578
             }
         ]
     },
@@ -8659,34 +6411,6 @@
             {
                 "Name": "Donphan",
                 "Weight": 93.819
-            },
-            {
-                "Name": "Conkeldurr",
-                "Weight": 93.68
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 93.343
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 75.986
-            },
-            {
-                "Name": "Aggron",
-                "Weight": 4.933
-            },
-            {
-                "Name": "Ampharos",
-                "Weight": 4.933
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 2.324
-            },
-            {
-                "Name": "Espeon",
-                "Weight": 0.615
             }
         ]
     },
@@ -8748,30 +6472,6 @@
             {
                 "Name": "Sceptile",
                 "Weight": 98.388
-            },
-            {
-                "Name": "Gyarados",
-                "Weight": 98.179
-            },
-            {
-                "Name": "Porygon-Z",
-                "Weight": 97.918
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 80.561
-            },
-            {
-                "Name": "Porygon2",
-                "Weight": 1.213
-            },
-            {
-                "Name": "Blastoise-Mega",
-                "Weight": 0.676
-            },
-            {
-                "Name": "Blastoise-Mega",
-                "Weight": 0.676
             }
         ]
     },
@@ -8857,30 +6557,6 @@
             {
                 "Name": "Milotic",
                 "Weight": 95.991
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 94.537
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 67.4
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 67.326
-            },
-            {
-                "Name": "Gallade",
-                "Weight": 29.255
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 28.67
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 28.67
             }
         ]
     },
@@ -8946,30 +6622,6 @@
             {
                 "Name": "Milotic",
                 "Weight": 98.818
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 97.364
-            },
-            {
-                "Name": "Gardevoir",
-                "Weight": 69.374
-            },
-            {
-                "Name": "Drapion",
-                "Weight": 69.301
-            },
-            {
-                "Name": "Gallade",
-                "Weight": 30.108
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 29.522
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 29.522
             }
         ]
     },
@@ -9035,18 +6687,6 @@
             {
                 "Name": "Snorlax",
                 "Weight": 97.619
-            },
-            {
-                "Name": "Crobat",
-                "Weight": 80.607
-            },
-            {
-                "Name": "Metagross",
-                "Weight": 79.286
-            },
-            {
-                "Name": "Beedrill-Mega",
-                "Weight": 45.035
             }
         ]
     },
@@ -9104,18 +6744,6 @@
             {
                 "Name": "Conkeldurr",
                 "Weight": 99.704
-            },
-            {
-                "Name": "Reuniclus",
-                "Weight": 99.47
-            },
-            {
-                "Name": "Hydreigon",
-                "Weight": 79.882
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 73.749
             }
         ]
     },
@@ -9177,18 +6805,6 @@
             {
                 "Name": "Conkeldurr",
                 "Weight": 99.706
-            },
-            {
-                "Name": "Reuniclus",
-                "Weight": 99.472
-            },
-            {
-                "Name": "Hydreigon",
-                "Weight": 79.884
-            },
-            {
-                "Name": "Tentacruel",
-                "Weight": 73.751
             }
         ]
     },
@@ -9258,34 +6874,6 @@
             {
                 "Name": "Gligar",
                 "Weight": 94.775
-            },
-            {
-                "Name": "Arcanine",
-                "Weight": 90.549
-            },
-            {
-                "Name": "Roserade",
-                "Weight": 90.018
-            },
-            {
-                "Name": "Florges",
-                "Weight": 63.397
-            },
-            {
-                "Name": "Butterfree",
-                "Weight": 1.904
-            },
-            {
-                "Name": "Parasect",
-                "Weight": 1.904
-            },
-            {
-                "Name": "Armaldo",
-                "Weight": 1.904
-            },
-            {
-                "Name": "Scyther",
-                "Weight": 1.904
             }
         ]
     },
@@ -9351,18 +6939,6 @@
             {
                 "Name": "Beedrill-Mega",
                 "Weight": 93.28
-            },
-            {
-                "Name": "Celebi",
-                "Weight": 88.254
-            },
-            {
-                "Name": "Crawdaunt",
-                "Weight": 78.805
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 61.018
             }
         ]
     },
@@ -9428,22 +7004,6 @@
             {
                 "Name": "Mismagius",
                 "Weight": 99.852
-            },
-            {
-                "Name": "Weezing",
-                "Weight": 99.372
-            },
-            {
-                "Name": "Milotic",
-                "Weight": 98.837
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 97.383
-            },
-            {
-                "Name": "Infernape",
-                "Weight": 97.383
             }
         ]
     },
@@ -9513,22 +7073,6 @@
             {
                 "Name": "Nidoking",
                 "Weight": 99.397
-            },
-            {
-                "Name": "Slurpuff",
-                "Weight": 98.917
-            },
-            {
-                "Name": "Gligar",
-                "Weight": 96.68
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 83.22
-            },
-            {
-                "Name": "Sylveon",
-                "Weight": 83.22
             }
         ]
     },
@@ -9590,18 +7134,6 @@
             {
                 "Name": "Roserade",
                 "Weight": 91.924
-            },
-            {
-                "Name": "Aggron-Mega",
-                "Weight": 84.736
-            },
-            {
-                "Name": "Metagross",
-                "Weight": 79.888
-            },
-            {
-                "Name": "Forretress",
-                "Weight": 64.224
             }
         ]
     },
@@ -9663,22 +7195,6 @@
             {
                 "Name": "Darmanitan",
                 "Weight": 99.42
-            },
-            {
-                "Name": "Mienshao",
-                "Weight": 99.363
-            },
-            {
-                "Name": "Doublade",
-                "Weight": 94.157
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 83.473
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 83.473
             }
         ]
     },
@@ -9740,22 +7256,6 @@
             {
                 "Name": "Darmanitan",
                 "Weight": 99.42
-            },
-            {
-                "Name": "Mienshao",
-                "Weight": 99.363
-            },
-            {
-                "Name": "Doublade",
-                "Weight": 94.157
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 83.473
-            },
-            {
-                "Name": "Galvantula",
-                "Weight": 83.473
             }
         ]
     },
@@ -9841,14 +7341,6 @@
             {
                 "Name": "Espeon",
                 "Weight": 22.403
-            },
-            {
-                "Name": "Umbreon",
-                "Weight": 22.135
-            },
-            {
-                "Name": "Hydreigon",
-                "Weight": 6.612
             }
         ]
     },
@@ -9910,18 +7402,6 @@
             {
                 "Name": "Banette-Mega",
                 "Weight": 66.325
-            },
-            {
-                "Name": "Lapras",
-                "Weight": 66.325
-            },
-            {
-                "Name": "Golbat",
-                "Weight": 66.325
-            },
-            {
-                "Name": "Delphox",
-                "Weight": 66.325
             }
         ]
     },
@@ -9982,18 +7462,6 @@
             },
             {
                 "Name": "Lapras",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Golbat",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Delphox",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Archeops",
                 "Weight": 69.132
             }
         ]
@@ -10076,18 +7544,6 @@
             {
                 "Name": "Banette-Mega",
                 "Weight": 43.515
-            },
-            {
-                "Name": "Golbat",
-                "Weight": 43.515
-            },
-            {
-                "Name": "Delphox",
-                "Weight": 43.515
-            },
-            {
-                "Name": "Archeops",
-                "Weight": 43.515
             }
         ]
     },
@@ -10149,18 +7605,6 @@
             {
                 "Name": "Banette-Mega",
                 "Weight": 69.132
-            },
-            {
-                "Name": "Lapras",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Golbat",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Archeops",
-                "Weight": 69.132
             }
         ]
     },
@@ -10217,18 +7661,6 @@
             },
             {
                 "Name": "Lapras",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Golbat",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Delphox",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Archeops",
                 "Weight": 69.132
             }
         ]
@@ -10295,18 +7727,6 @@
             {
                 "Name": "Eelektross",
                 "Weight": 69.132
-            },
-            {
-                "Name": "Banette-Mega",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Lapras",
-                "Weight": 69.132
-            },
-            {
-                "Name": "Archeops",
-                "Weight": 69.132
             }
         ]
     },
@@ -10372,38 +7792,6 @@
             {
                 "Name": "Cloyster",
                 "Weight": 48.848
-            },
-            {
-                "Name": "Haxorus",
-                "Weight": 48.509
-            },
-            {
-                "Name": "Goodra",
-                "Weight": 41.837
-            },
-            {
-                "Name": "Hydreigon",
-                "Weight": 32.458
-            },
-            {
-                "Name": "Rotom-Heat",
-                "Weight": 30.756
-            },
-            {
-                "Name": "Heliolisk",
-                "Weight": 30.334
-            },
-            {
-                "Name": "Ampharos-Mega",
-                "Weight": 27.977
-            },
-            {
-                "Name": "Doublade",
-                "Weight": 24.918
-            },
-            {
-                "Name": "Chandelure",
-                "Weight": 16.35
             }
         ]
     }

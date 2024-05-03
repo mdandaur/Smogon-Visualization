@@ -59,7 +59,8 @@ def extract_pokemon_data(text):
 
                 weight = re.search(r'\d+\.\d+%', teammate).group()
                 weight = float(weight[:-1])  # remove the '%' and convert to float
-                teammates.append({'Name': name, 'Weight': weight})
+                if len(teammates) < 2:
+                    teammates.append({'Name': name, 'Weight': weight})
             # Ensure pokemon_name is a key in the result dictionary
             if pokemon_name not in result:
                 result[pokemon_name] = {}
