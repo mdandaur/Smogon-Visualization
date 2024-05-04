@@ -31,6 +31,8 @@
             <option value="8">8va generación</option>
         </select>  
         <input type="submit" value="Submit">
+        <label for="useIcons">Usar Iconos (recomendado):</label>
+        <input type="checkbox" id="useIcons" name="useIcons">
     </form>
     <form id="file-form">
         <label for="file">File:</label>
@@ -41,9 +43,21 @@
     </form>
     <div class="row">
         <div class="columns">
+            <svg id="vis-1"></svg>
+        </div>
+    </div>
+    <script src="circular_packing.js"></script>
+    <div class="row">
+        <div class="columns">
             <svg id="vis-2"></svg>
         </div>
     </div>
     <script src="usage_barchart.js"></script>
+    <div class="row">
+        <div class="columns">
+            <svg id="vis-3"></svg>
+        </div>
+    </div>
+    <script src="teammates.js"></script>
 </body>
 </html>

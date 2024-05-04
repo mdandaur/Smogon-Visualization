@@ -40,7 +40,8 @@ document.getElementById('file-form').addEventListener('submit', function(event) 
     console.log(format);
     let gen = document.getElementById('gen').value;
     let DATOS = "smogon_data/"+date+"/"+format;
-    //let DATOS = "smogon_data/"+date+"/gen"+gen+format+"-1760.txt";
+
+    let useIcons = document.getElementById('useIcons').checked;
 
 
 const WIDTH = 900;
@@ -71,8 +72,10 @@ d3.text(DATOS).then(function(data) {
 
     const parsed_data = d3.csvParse(data, d3.autoType).slice(0, 10);
 
-    let max_maximo = d3.max(parsed_data, d => d['Usage %']);
-    let min_minimo = d3.min(parsed_data, d => d['Real %']);
+
+
+    let max_maximo = d3.max(parsed_data, d =>  Math.max(d['Real %'], d['Usage %']));
+    let min_minimo = d3.min(parsed_data, d => Math.min(d['Real %'], d['Usage %']));
   
     // Definimos las escalas
     let esc_v = d3
@@ -153,43 +156,84 @@ d3.text(DATOS).then(function(data) {
         const Images = SVG.append("g").attr('id', 'Images');
 
         function fetchPokemonDataAndAddImages(parsed_data, gen) {
-            return Promise.all(parsed_data.map(d => fetch(`https://pokeapi.co/api/v2/pokemon/${d.Pokemon.toLowerCase()}`)))
-                .then(responses => Promise.all(responses.map(response => response.json())))
-                .then(pokemonData => {
-                    // Add image URLs to parsed_data
-                    parsed_data.forEach((d, i) => {
-                        let versions = pokemonData[i].sprites.versions['generation-'+intToRoman(gen)]; 
-                        let keys = Object.keys(versions);
-                        let randomKey = keys[Math.floor(Math.random() * keys.length)];
-                        d.imageUrl = versions[randomKey].front_default;
-                    });
+            return Promise.all(parsed_data.map(d => {
+                let pokemonName = d.Pokemon.toLowerCase().replace(' ', '-').replace('.', '').replace("'", '').replace('♀', '-f').replace('♂', '-m');
+                if (pokemonName.startsWith('arceus')) {
+                    pokemonName = 'arceus';
+                }
+                if (pokemonName.startsWith('giratina')) {
+                    pokemonName = 'giratina';
+                }
+                if (pokemonName.startsWith('zygarde')) {
+                    pokemonName = 'zygarde-50';
+                }
+                return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
+            }))
+            .then(responses => Promise.all(responses.map(response => response.json())))
+            .then(pokemonData => {
+                // Add image URLs to parsed_data
+                parsed_data.forEach((d, i) => {
+                    let versions = pokemonData[i].sprites.versions['generation-'+intToRoman(gen)]; 
+                    let keys = Object.keys(versions);
+                    let randomKey = keys[Math.floor(Math.random() * keys.length)];
+                    d.imageUrl = versions[randomKey].front_default;
                 });
+            });
         }
         function fetchPokemonDataAndAddIcons(parsed_data, gen) {
-            return Promise.all(parsed_data.map(d => fetch(`https://pokeapi.co/api/v2/pokemon/${d.Pokemon.toLowerCase()}`)))
-                .then(responses => Promise.all(responses.map(response => response.json())))
-                .then(pokemonData => {
+            return Promise.all(parsed_data.map(d => {
+                let pokemonName = d.Pokemon.toLowerCase().replace(' ', '-').replace('.', '').replace("'", '').replace('♀', '-f').replace('♂', '-m');
+                if (pokemonName.startsWith('arceus')) {
+                    pokemonName = 'arceus';
+                }
+                if (pokemonName.startsWith('giratina')) {
+                    pokemonName = 'giratina';
+                }
+                if (pokemonName.startsWith('zygarde')) {
+                    pokemonName = 'zygarde-50';
+                }
+                return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
+            }))
+            .then(responses => Promise.all(responses.map(response => response.json())))
+            .then(pokemonData => {
                     // Add image URLs to parsed_data
                     parsed_data.forEach((d, i) => {
-                        let versions = pokemonData[i].sprites.versions['generation-'+intToRoman(gen)]; 
+                        let versions = pokemonData[i].sprites.versions['generation-viii']; 
                         let keys = Object.keys(versions);
                         let randomKey = keys[Math.floor(Math.random() * keys.length)];
-                        d.imageUrl = versions[randomKey].front_default;
+                        d.imageUrl = versions.icons.front_default;
                     });
                 });
         }
-        fetchPokemonDataAndAddImages(parsed_data, gen)
-        .then(() => {
-            Images
-            .selectAll("image")
-            .data(parsed_data)
-            .join("image")
-            .attr("xlink:href", d => d.imageUrl)
-            .attr("x", d => esc_h(d.Pokemon))
-            .attr("y", d => esc_v(d3.max( d['Usage %'], d['Real %']))) // imageHeight is the height of your image
-            .attr("width", 60)
-            .attr("height", 60);
-        });
+        if (useIcons) {    //esto permite elegir si usar imagenes o iconos para los pokemon
+            fetchPokemonDataAndAddIcons(parsed_data, gen)
+            .then(() => {
+                Images
+                .selectAll("image")
+                .data(parsed_data)
+                .join("image")
+                .attr("xlink:href", d => d.imageUrl)
+                .attr("x", d => esc_h(d.Pokemon)-5)
+                .attr("y", d => esc_v(d3.max( d['Usage %'], d['Real %']))) // imageHeight is the height of your image
+                .attr("width", 60)
+                .attr("height", 60);
+            });
+
+        } else {
+            fetchPokemonDataAndAddImages(parsed_data, gen)
+            .then(() => {
+                Images
+                .selectAll("image")
+                .data(parsed_data)
+                .join("image")
+                .attr("xlink:href", d => d.imageUrl)
+                .attr("x", d => esc_h(d.Pokemon)-5)
+                .attr("y", d => esc_v(d3.max( d['Usage %'], d['Real %']))) // imageHeight is the height of your image
+                .attr("width", 60)
+                .attr("height", 60);
+            });
+        }
+  
 
 
 });

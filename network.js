@@ -3,7 +3,7 @@
 const WIDTH = 1200;
 const HEIGHT = 1200;
 const SVG = d3
-    .select('body')
+    .select('#vis-2')
     .append('svg')
     .attr('width', WIDTH)
     .attr('height', HEIGHT);
