@@ -65,7 +65,7 @@ d3.json(DATOS).then(data => {
                         date: date,
                         gen: gen,
                         format: d.data.name,
-                        file: gen + d.data.name.replace(" ", "") + ".json"
+                        file: gen + d.data.name.replace(" ", "") + ".csv"
                     }
                 });
                 window.dispatchEvent(nodeEvent);

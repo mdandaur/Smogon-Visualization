@@ -1,50 +1,11 @@
-const files = {
-    '2017-07': ['gen1ou-1760.txt', 'gen2ou-1760.txt', 'gen3ou-1760.txt', 'gen3ubers-1760.txt', 'gen4ou-1760.txt', 'gen4ubers-1760.txt', 'gen4uu-1760.txt', 'gen5nu-1760.txt', 'gen5ou-1760.txt', 'gen5ru-1760.txt', 'gen5ubers-1760.txt', 'gen5uu-1760.txt', 'gen6nu-1760.txt', 'gen6ou-1760.txt', 'gen6ru-1760.txt', 'gen6ubers-1760.txt', 'gen6uu-1760.txt', 'gen7ou-1825.txt', 'gen7ru-1760.txt', 'gen7ubers-1760.txt', 'gen7uu-1760.txt'],
-    '2018-07': ['gen1ou-1760.txt', 'gen1ubers-1760.txt', 'gen2ou-1760.txt', 'gen2ubers-1760.txt', 'gen3ou-1760.txt', 'gen4ou-1760.txt', 'gen5ou-1760.txt', 'gen6ou-1760.txt', 'gen7nu-1760.txt', 'gen7ou-1825.txt', 'gen7ru-1760.txt', 'gen7ubers-1760.txt', 'gen7uu-1760.txt'],
-    '2019-07': ['gen1ou-1760.txt', 'gen1ubers-1760.txt', 'gen2ou-1760.txt', 'gen2ubers-1760.txt', 'gen3ou-1760.txt', 'gen4ou-1760.txt', 'gen5ou-1760.txt', 'gen6ou-1760.txt', 'gen7nu-1760.txt', 'gen7ou-1825.txt', 'gen7ru-1760.txt', 'gen7ubers-1760.txt', 'gen7uu-1760.txt'],
-    '2020-07': ['file1.txt', 'file2.txt', 'file3.txt'],
-    '2021-07': ['file1.txt', 'file2.txt', 'file3.txt'],
-    '2022-07': ['file4.txt', 'file5.txt', 'file6.txt'],
-    '2023-07': ['file7.txt', 'file8.txt', 'file9.txt'],
-};
+
 
 window.addEventListener("nodeClick", function(event) {
-    console.log("Node clicked:", event.detail.file);
-    dato = event.detail.file;
-    // Use event.detail.node to define the generation
-});
-document.getElementById('input-form-2').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the form from submitting normally
-
-    // Get the user input
-    let date = document.getElementById('date').value;
-    let gen = document.getElementById('gen').value;
-
-    // Get the select element
-    let select = document.getElementById('formats');
-
-    // Remove any existing options
-    while (select.firstChild) {
-        select.removeChild(select.firstChild);
-    }
-
-    // Add an option for each file
-    files[date].filter(file => file.startsWith("gen" + gen)).forEach(file => {
-        let option = document.createElement('option');
-        option.value = file;
-        option.text = file;
-        select.appendChild(option);
-    });
-});
-document.getElementById('file-form').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the form from submitting normally
+    console.log("File clicked:", event.detail.file);
+    DATOS = 'smogon_data/' + event.detail.date + '/' + event.detail.file;
     d3.select("#vis-2").selectAll("*").remove();
-    // Get the user input
-    let date = document.getElementById('date').value;
-    let format = document.getElementById('formats').value;
-    console.log(format);
-    let gen = document.getElementById('gen').value;
-    let DATOS = "smogon_data/"+date+"/"+format;
+
+
 
     let useIcons = document.getElementById('useIcons').checked;
 
@@ -71,12 +32,10 @@ function intToRoman(num) {
     }
     return roman.toLowerCase();
 }
-console.log('generation-'+intToRoman(gen))
 
-d3.text(DATOS).then(function(data) {
-
-    const parsed_data = d3.csvParse(data, d3.autoType).slice(0, 10);
-
+d3.csv(DATOS).then(function(data) {
+    const parsed_data = data.slice(0, 10);
+    console.log(parsed_data);
 
 
     let max_maximo = d3.max(parsed_data, d =>  Math.max(d['Real %'], d['Usage %']));
@@ -85,7 +44,7 @@ d3.text(DATOS).then(function(data) {
     // Definimos las escalas
     let esc_v = d3
       .scaleLinear()
-      .domain([max_maximo * 1.1, 0.9*min_minimo])
+      .domain([100, 0])
       .range([margins[0], HEIGHT - margins[1]]);
   
     let esc_h = d3
@@ -93,6 +52,17 @@ d3.text(DATOS).then(function(data) {
       .domain(parsed_data.map(d => d.Pokemon))
       .range([margins[2], WIDTH - margins[3]])
       .paddingInner(0.5);
+
+    // Agregamos un título
+
+    SVG.append("text")
+      .attr("x", WIDTH / 2)
+      .attr("y", margins[0]*1/4)
+      .attr("text-anchor", "middle")
+      .style("font-size", "15px")
+      .style("text-decoration", "underline")
+      .style("font-family", "monospace")
+      .text(`Top 10 Pokemon más usados en ${event.detail.format} en ${event.detail.date}`);
 
     // Definimos los ejes en relación a las escalas
     let ejeX = d3.axisBottom(esc_h);
@@ -172,6 +142,9 @@ d3.text(DATOS).then(function(data) {
                 if (pokemonName.startsWith('zygarde')) {
                     pokemonName = 'zygarde-50';
                 }
+                if (pokemonName.startsWith('keldeo')) {
+                    pokemonName = 'keldeo-ordinary';
+                }
                 return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
             }))
             .then(responses => Promise.all(responses.map(response => response.json())))
@@ -191,11 +164,81 @@ d3.text(DATOS).then(function(data) {
                 if (pokemonName.startsWith('arceus')) {
                     pokemonName = 'arceus';
                 }
-                if (pokemonName.startsWith('giratina')) {
-                    pokemonName = 'giratina';
-                }
+                
                 if (pokemonName.startsWith('zygarde')) {
                     pokemonName = 'zygarde-50';
+                }
+                if (pokemonName.startsWith('keldeo')) {
+                    pokemonName = 'keldeo-ordinary';
+                }
+                if (pokemonName.startsWith('aegislash')) {
+                    pokemonName = 'aegislash-shield';
+                }
+                if (pokemonName.startsWith('gourgeist')) {
+                    pokemonName = 'gourgeist-average';
+                }
+                if (pokemonName.startsWith('pumpkaboo')) {
+                    pokemonName = 'pumpkaboo-average';
+                }
+                if (pokemonName.startsWith('mimikyu')) {
+                    pokemonName = 'mimikyu-disguised';
+                }
+                if (pokemonName.startsWith('toxtricity')) {
+                    pokemonName = 'toxtricity-amped';
+                }
+                if (pokemonName.startsWith('urshifu')) {
+                    pokemonName = 'urshifu-single-strike';
+                }
+                if (pokemonName.startsWith('calyrex')) {
+                    pokemonName = 'calyrex-ice-rider';
+                }
+                if (pokemonName.startsWith('indeedee')) {
+                    pokemonName = 'indeedee-female';
+                }
+                if (pokemonName.startsWith('zacian')) {
+                    pokemonName = 'zacian-hero-of-many-battles';
+                }
+                if (pokemonName.startsWith('zamazenta')) {
+                    pokemonName = 'zamazenta-hero-of-many-battles';
+                }
+                if (pokemonName.startsWith('eternatus')) {
+                    pokemonName = 'eternatus-eternamax';
+                }
+                if (pokemonName.startsWith('glastrier')) {
+                    pokemonName = 'glastrier-ice-rider';
+                }
+                if (pokemonName.startsWith('spectrier')) {
+                    pokemonName = 'spectrier-glastrier';
+                }
+                if (pokemonName.startsWith('giratina')) {
+                    pokemonName = 'giratina-altered';
+                }
+                if (pokemonName.startsWith('darmanitan')) {
+                    pokemonName = 'darmanitan-standard';
+                }
+                if (pokemonName.startsWith('meowstic')) {
+                    pokemonName = 'meowstic-female';
+                }
+                if (pokemonName.startsWith('basculin')) {
+                    pokemonName = 'basculin-red-striped';
+                }
+                if (pokemonName.startsWith('thundurus')) {
+                    pokemonName = 'thundurus-incarnate';
+                }
+                if (pokemonName.startsWith('landorus')) {
+                    pokemonName = 'landorus-incarnate';
+                }
+                if (pokemonName.startsWith('tornadus')) {
+                    pokemonName = 'tornadus-incarnate';
+                }
+                if (pokemonName.startsWith('meloetta')) {
+                    pokemonName = 'meloetta-aria';
+                }
+                if (pokemonName.startsWith('necrozma')) {
+                    pokemonName = 'necrozma-dusk';
+                }
+                if (pokemonName.startsWith('sylvally')) {
+                    pokemonName = 'silvally-normal';
                 }
                 return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
             }))
@@ -218,8 +261,8 @@ d3.text(DATOS).then(function(data) {
                 .data(parsed_data)
                 .join("image")
                 .attr("xlink:href", d => d.imageUrl)
-                .attr("x", d => esc_h(d.Pokemon)-5)
-                .attr("y", d => esc_v(d3.max( d['Usage %'], d['Real %']))) // imageHeight is the height of your image
+                .attr("x", d => esc_h(d.Pokemon)-10)
+                .attr("y", d => esc_v(d3.max( d['Usage %'], d['Real %']))-30) // imageHeight is the height of your image
                 .attr("width", 60)
                 .attr("height", 60);
             });

@@ -3,10 +3,9 @@ import csv
 import os
 from urls_miner import get_max_links
 
-urldate = "2019-07"
+urldate = "2023-07"
 url_for_function = "https://www.smogon.com/stats/" + urldate + "/"
 urlnames = get_max_links(url_for_function)
-print(urlnames)
 
 
 for urlname in urlnames:
@@ -20,6 +19,8 @@ for urlname in urlnames:
     # Ensure the directory exists
     directory = os.path.join('smogon_data', urldate)
     os.makedirs(directory, exist_ok=True)
+
+    urlname = urlname.split('-')[0] + '.csv'
 
     with open(os.path.join(directory, urlname), 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
