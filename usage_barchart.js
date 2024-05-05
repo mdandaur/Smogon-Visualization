@@ -196,7 +196,7 @@ d3.csv(DATOS).then(function(data) {
                     pokemonName = 'indeedee-female';
                 }
                 if (pokemonName.startsWith('zacian')) {
-                    pokemonName = 'zacian-hero-of-many-battles';
+                    pokemonName = 'zacian-crowned';
                 }
                 if (pokemonName.startsWith('zamazenta')) {
                     pokemonName = 'zamazenta-hero-of-many-battles';
