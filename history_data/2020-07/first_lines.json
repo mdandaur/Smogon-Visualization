@@ -1,0 +1,253 @@
+{
+    "name": "Generaciones",
+    "children": [
+        {
+            "name": "Gen 1",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "15812"
+                },
+                {
+                    "name": "ubers",
+                    "value": "23"
+                }
+            ]
+        },
+        {
+            "name": "Gen 2",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "6576"
+                },
+                {
+                    "name": "ubers",
+                    "value": "924"
+                }
+            ]
+        },
+        {
+            "name": "Gen 3",
+            "children": [
+                {
+                    "name": "nu",
+                    "value": "1"
+                },
+                {
+                    "name": "ou",
+                    "value": "39074"
+                }
+            ]
+        },
+        {
+            "name": "Gen 4",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "52225"
+                },
+                {
+                    "name": "uu",
+                    "value": "2990"
+                }
+            ]
+        },
+        {
+            "name": "Gen 5",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "41788"
+                },
+                {
+                    "name": "pu",
+                    "value": "4"
+                }
+            ]
+        },
+        {
+            "name": "Gen 6",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "47299"
+                },
+                {
+                    "name": "purehackmons",
+                    "value": "11421"
+                }
+            ]
+        },
+        {
+            "name": "Gen 7",
+            "children": [
+                {
+                    "name": "anythinggoes",
+                    "value": "191215"
+                },
+                {
+                    "name": "doublesou",
+                    "value": "67348"
+                },
+                {
+                    "name": "monotype",
+                    "value": "38324"
+                },
+                {
+                    "name": "ou",
+                    "value": "450152"
+                },
+                {
+                    "name": "ubers",
+                    "value": "110297"
+                },
+                {
+                    "name": "uu",
+                    "value": "18298"
+                }
+            ]
+        },
+        {
+            "name": "Gen 8",
+            "children": [
+                {
+                    "name": "1v1",
+                    "value": "235382"
+                },
+                {
+                    "name": "2v2doubles",
+                    "value": "21"
+                },
+                {
+                    "name": "almostanyability",
+                    "value": "7338"
+                },
+                {
+                    "name": "armorbeginnings",
+                    "value": "9010"
+                },
+                {
+                    "name": "balancedhackmons",
+                    "value": "33583"
+                },
+                {
+                    "name": "battlestadiumsingles",
+                    "value": "152401"
+                },
+                {
+                    "name": "cap",
+                    "value": "2959"
+                },
+                {
+                    "name": "cap1v1",
+                    "value": "1727"
+                },
+                {
+                    "name": "crossevolution",
+                    "value": "18595"
+                },
+                {
+                    "name": "doublesou",
+                    "value": "204305"
+                },
+                {
+                    "name": "doublesoudynamaxlevel0",
+                    "value": "17667"
+                },
+                {
+                    "name": "doublesubers",
+                    "value": "33902"
+                },
+                {
+                    "name": "doublesuu",
+                    "value": "6301"
+                },
+                {
+                    "name": "lc",
+                    "value": "29807"
+                },
+                {
+                    "name": "linked",
+                    "value": "36038"
+                },
+                {
+                    "name": "megamax",
+                    "value": "660"
+                },
+                {
+                    "name": "metronomebattle",
+                    "value": "65592"
+                },
+                {
+                    "name": "mixandmega",
+                    "value": "6991"
+                },
+                {
+                    "name": "monotype",
+                    "value": "214644"
+                },
+                {
+                    "name": "nationaldex",
+                    "value": "416605"
+                },
+                {
+                    "name": "nationaldexag",
+                    "value": "378864"
+                },
+                {
+                    "name": "nationaldexbh",
+                    "value": "12868"
+                },
+                {
+                    "name": "nfe",
+                    "value": "550"
+                },
+                {
+                    "name": "nu",
+                    "value": "47219"
+                },
+                {
+                    "name": "ou",
+                    "value": "1791673"
+                },
+                {
+                    "name": "oublitz",
+                    "value": "64673"
+                },
+                {
+                    "name": "pu",
+                    "value": "59045"
+                },
+                {
+                    "name": "ru",
+                    "value": "67241"
+                },
+                {
+                    "name": "stabmons",
+                    "value": "1550"
+                },
+                {
+                    "name": "tiershift",
+                    "value": "35"
+                },
+                {
+                    "name": "ubers",
+                    "value": "198497"
+                },
+                {
+                    "name": "uu",
+                    "value": "254967"
+                },
+                {
+                    "name": "vgc2020",
+                    "value": "1908450"
+                },
+                {
+                    "name": "zu",
+                    "value": "7229"
+                }
+            ]
+        }
+    ]
+}

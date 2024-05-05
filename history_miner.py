@@ -5,7 +5,7 @@ import json
 import re
 import os
 
-date = "2019-07"
+date = "2023-07"
 
 url = "https://www.smogon.com/stats/2019-07/"  # Replace with your URL
 def get_all_links(date):
@@ -35,7 +35,6 @@ def get_first_lines(urlnames, date):
         print(first_line, "value")
 
         key = f"Gen {gen}"
-        print(gen_format_data, "gen_format_data")
         if (key not in gen_format_data):
             gen_format_data[key] = {'name': key, 'children': []}
                 

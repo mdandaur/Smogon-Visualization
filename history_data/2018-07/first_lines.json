@@ -1,0 +1,236 @@
+{
+    "name": "Generaciones",
+    "children": [
+        {
+            "name": "Gen 1",
+            "children": [
+                {
+                    "name": "challengecup",
+                    "value": "2047"
+                },
+                {
+                    "name": "ou",
+                    "value": "11527"
+                },
+                {
+                    "name": "ubers",
+                    "value": "3"
+                }
+            ]
+        },
+        {
+            "name": "Gen 2",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "4526"
+                },
+                {
+                    "name": "ubers",
+                    "value": "340"
+                }
+            ]
+        },
+        {
+            "name": "Gen 3",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "20632"
+                },
+                {
+                    "name": "stabmons",
+                    "value": "237"
+                }
+            ]
+        },
+        {
+            "name": "Gen 4",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "24663"
+                },
+                {
+                    "name": "outeampreview",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "name": "Gen 5",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "10378"
+                }
+            ]
+        },
+        {
+            "name": "Gen 6",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "34115"
+                }
+            ]
+        },
+        {
+            "name": "Gen 7",
+            "children": [
+                {
+                    "name": "1v1",
+                    "value": "251365"
+                },
+                {
+                    "name": "almostanyability",
+                    "value": "10774"
+                },
+                {
+                    "name": "anythinggoes",
+                    "value": "452535"
+                },
+                {
+                    "name": "balancedhackmons",
+                    "value": "21289"
+                },
+                {
+                    "name": "balancedhackmonssuspecttest",
+                    "value": "12031"
+                },
+                {
+                    "name": "battlefactory",
+                    "value": "110427"
+                },
+                {
+                    "name": "battlespotdoubles",
+                    "value": "9818"
+                },
+                {
+                    "name": "battlespotsingles",
+                    "value": "119749"
+                },
+                {
+                    "name": "battlespotspecial10",
+                    "value": "1"
+                },
+                {
+                    "name": "battlespotspecial11",
+                    "value": "721"
+                },
+                {
+                    "name": "bssfactory",
+                    "value": "20222"
+                },
+                {
+                    "name": "cap",
+                    "value": "6498"
+                },
+                {
+                    "name": "challengecup1v1",
+                    "value": "83100"
+                },
+                {
+                    "name": "doublesou",
+                    "value": "188769"
+                },
+                {
+                    "name": "doublesubers",
+                    "value": "26663"
+                },
+                {
+                    "name": "doublesuu",
+                    "value": "10823"
+                },
+                {
+                    "name": "hackmonscup",
+                    "value": "52626"
+                },
+                {
+                    "name": "lc",
+                    "value": "59665"
+                },
+                {
+                    "name": "letsgocup",
+                    "value": "59877"
+                },
+                {
+                    "name": "metagamiate",
+                    "value": "26395"
+                },
+                {
+                    "name": "mixandmega",
+                    "value": "34484"
+                },
+                {
+                    "name": "monotype",
+                    "value": "343185"
+                },
+                {
+                    "name": "nu",
+                    "value": "77902"
+                },
+                {
+                    "name": "nususpecttest",
+                    "value": "5073"
+                },
+                {
+                    "name": "ou",
+                    "value": "2059224"
+                },
+                {
+                    "name": "pu",
+                    "value": "133154"
+                },
+                {
+                    "name": "reversed",
+                    "value": "17491"
+                },
+                {
+                    "name": "ru",
+                    "value": "90091"
+                },
+                {
+                    "name": "rususpecttest",
+                    "value": "48083"
+                },
+                {
+                    "name": "scalemons",
+                    "value": "83"
+                },
+                {
+                    "name": "stabmons",
+                    "value": "109"
+                },
+                {
+                    "name": "suicidecup",
+                    "value": "89"
+                },
+                {
+                    "name": "ubers",
+                    "value": "223765"
+                },
+                {
+                    "name": "uberssuspecttest",
+                    "value": "76507"
+                },
+                {
+                    "name": "ultranoholdsbarred",
+                    "value": "31"
+                },
+                {
+                    "name": "uu",
+                    "value": "323245"
+                },
+                {
+                    "name": "vgc2018",
+                    "value": "438376"
+                },
+                {
+                    "name": "zu",
+                    "value": "23727"
+                }
+            ]
+        }
+    ]
+}

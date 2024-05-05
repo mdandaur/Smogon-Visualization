@@ -8,7 +8,7 @@ const files = {
     '2023-07': ['file7.txt', 'file8.txt', 'file9.txt'],
 };
 
-document.getElementById('input-form').addEventListener('submit', function(event) {
+document.getElementById('input-form-2').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the form from submitting normally
 
     // Get the user input

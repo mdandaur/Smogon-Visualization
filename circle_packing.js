@@ -1,16 +1,24 @@
-DATOS = 'history_data/2019-07/first_lines.json'
+
 
 WIDTH = 800;
 HEIGHT = 800;
 
-const date = '2019-07';
+document.getElementById('input-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the form from submitting normally
+    d3.select("#vis-1").selectAll("*").remove();
+    // Get the date from the form input
+    let date = document.getElementById('date').value;
 
-var diameter = 20,
-    format = d3.format(",d"),
-    color = d3.scaleOrdinal(d3.schemeCategory10);
+    // Construct the DATOS string
+    let DATOS = "history_data/" + date + "/first_lines.json";
 
 
-    console.log(d3.version);
+var diameter = 20;
+const color = d3.scaleLinear()
+    .domain([0, 5])
+    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+    .interpolate(d3.interpolateHcl);
+
     
 var bubble = d3.pack()
     .size([diameter, diameter])
@@ -22,11 +30,11 @@ const SVG = d3
     .attr('height', HEIGHT)
     .attr("viewBox", `-${WIDTH / 2} -${HEIGHT / 2} ${WIDTH} ${HEIGHT}`)
     .attr("style", `max-width: 100%; height: auto; display: block;
-     margin: 0 -14px; background: lightblue; cursor: pointer;`);
+     margin: 0 -14px; background: #99ffcc; cursor: pointer;`);
 
 const margins = [10, 10, 10, 10];
 
-d3.json('history_data/2019-07/first_lines.json').then(data => {
+d3.json(DATOS).then(data => {
 
     const format = d3.format(",d");
 
@@ -52,6 +60,10 @@ d3.json('history_data/2019-07/first_lines.json').then(data => {
         .on("mouseover", function() { d3.select(this).attr("stroke", "#000"); })
         .on("mouseout", function() { d3.select(this).attr("stroke", null); })
         .on("click", (event, d) => {
+            console.log(d)
+            if (d.depth === 2){
+                console.log("aquii")
+            }
             if (focus !== d) {
                 event.stopPropagation();
                 zoom(event, d);
@@ -101,7 +113,6 @@ d3.json('history_data/2019-07/first_lines.json').then(data => {
         .tween("zoom", d => {
             const i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2]);
             return t => {
-                console.log(focus);
                 zoomTo(i(t));
             };
         });
@@ -114,4 +125,5 @@ d3.json('history_data/2019-07/first_lines.json').then(data => {
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
   }
 
+});
 });

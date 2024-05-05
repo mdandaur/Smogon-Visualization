@@ -1,0 +1,300 @@
+{
+    "name": "Generaciones",
+    "children": [
+        {
+            "name": "Gen 1",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "11969"
+                },
+                {
+                    "name": "oumew",
+                    "value": "780"
+                }
+            ]
+        },
+        {
+            "name": "Gen 2",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "5256"
+                }
+            ]
+        },
+        {
+            "name": "Gen 3",
+            "children": [
+                {
+                    "name": "ou",
+                    "value": "11507"
+                },
+                {
+                    "name": "ubers",
+                    "value": "183"
+                }
+            ]
+        },
+        {
+            "name": "Gen 4",
+            "children": [
+                {
+                    "name": "lc",
+                    "value": "4"
+                },
+                {
+                    "name": "ou",
+                    "value": "14768"
+                },
+                {
+                    "name": "ubers",
+                    "value": "224"
+                },
+                {
+                    "name": "uu",
+                    "value": "40"
+                }
+            ]
+        },
+        {
+            "name": "Gen 5",
+            "children": [
+                {
+                    "name": "doublesou",
+                    "value": "70"
+                },
+                {
+                    "name": "lc",
+                    "value": "3"
+                },
+                {
+                    "name": "nu",
+                    "value": "6"
+                },
+                {
+                    "name": "ou",
+                    "value": "4553"
+                },
+                {
+                    "name": "ru",
+                    "value": "5"
+                },
+                {
+                    "name": "ubers",
+                    "value": "185"
+                },
+                {
+                    "name": "uu",
+                    "value": "6"
+                }
+            ]
+        },
+        {
+            "name": "Gen 6",
+            "children": [
+                {
+                    "name": "anythinggoes",
+                    "value": "13973"
+                },
+                {
+                    "name": "battlefactory",
+                    "value": "18519"
+                },
+                {
+                    "name": "battlespotdoubles",
+                    "value": "40"
+                },
+                {
+                    "name": "battlespotsingles",
+                    "value": "87"
+                },
+                {
+                    "name": "battlespottriples",
+                    "value": "522"
+                },
+                {
+                    "name": "doublesou",
+                    "value": "883"
+                },
+                {
+                    "name": "doublesuu",
+                    "value": "3"
+                },
+                {
+                    "name": "lc",
+                    "value": "33"
+                },
+                {
+                    "name": "nu",
+                    "value": "86"
+                },
+                {
+                    "name": "ou",
+                    "value": "71421"
+                },
+                {
+                    "name": "pu",
+                    "value": "187"
+                },
+                {
+                    "name": "ru",
+                    "value": "30"
+                },
+                {
+                    "name": "ubers",
+                    "value": "7261"
+                },
+                {
+                    "name": "uu",
+                    "value": "667"
+                },
+                {
+                    "name": "vgc2016",
+                    "value": "577"
+                }
+            ]
+        },
+        {
+            "name": "Gen 7",
+            "children": [
+                {
+                    "name": "1v1",
+                    "value": "134917"
+                },
+                {
+                    "name": "1v1suspecttest",
+                    "value": "92268"
+                },
+                {
+                    "name": "almostanyability",
+                    "value": "2115"
+                },
+                {
+                    "name": "almostanyabilitysuspecttest",
+                    "value": "3708"
+                },
+                {
+                    "name": "anythinggoes",
+                    "value": "507890"
+                },
+                {
+                    "name": "balancedhackmons",
+                    "value": "67135"
+                },
+                {
+                    "name": "balancedhackmonssuspecttest",
+                    "value": "14472"
+                },
+                {
+                    "name": "battlespotdoubles",
+                    "value": "69831"
+                },
+                {
+                    "name": "battlespotsingles",
+                    "value": "123407"
+                },
+                {
+                    "name": "battlespotspecial4",
+                    "value": "10"
+                },
+                {
+                    "name": "battlespotspecial5",
+                    "value": "1541"
+                },
+                {
+                    "name": "bssfactory",
+                    "value": "42542"
+                },
+                {
+                    "name": "cap",
+                    "value": "5961"
+                },
+                {
+                    "name": "challengecup1v1",
+                    "value": "85187"
+                },
+                {
+                    "name": "doublesou",
+                    "value": "194469"
+                },
+                {
+                    "name": "doublesubers",
+                    "value": "25292"
+                },
+                {
+                    "name": "doublesuu",
+                    "value": "7678"
+                },
+                {
+                    "name": "hackmonscup",
+                    "value": "43672"
+                },
+                {
+                    "name": "lc",
+                    "value": "60516"
+                },
+                {
+                    "name": "mixandmega",
+                    "value": "46054"
+                },
+                {
+                    "name": "monotype",
+                    "value": "212766"
+                },
+                {
+                    "name": "monotypesuspecttest",
+                    "value": "38880"
+                },
+                {
+                    "name": "nubeta",
+                    "value": "176137"
+                },
+                {
+                    "name": "ou",
+                    "value": "2096790"
+                },
+                {
+                    "name": "pualpha",
+                    "value": "99424"
+                },
+                {
+                    "name": "ru",
+                    "value": "73271"
+                },
+                {
+                    "name": "rususpecttest",
+                    "value": "53171"
+                },
+                {
+                    "name": "sketchmons",
+                    "value": "1006"
+                },
+                {
+                    "name": "stabmons",
+                    "value": "41276"
+                },
+                {
+                    "name": "ubers",
+                    "value": "306041"
+                },
+                {
+                    "name": "uu",
+                    "value": "150604"
+                },
+                {
+                    "name": "uususpecttest",
+                    "value": "127246"
+                },
+                {
+                    "name": "vgc2017",
+                    "value": "330052"
+                },
+                {
+                    "name": "weaknesscup",
+                    "value": "31581"
+                }
+            ]
+        }
+    ]
+}
