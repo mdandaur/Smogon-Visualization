@@ -158,8 +158,8 @@ for urlname in urlnames:
     # Ensure the directory exists
     directory = os.path.join('movesets_data', urldate)
     os.makedirs(directory, exist_ok=True)
-
-    with open(f'{directory}/{urlname}.json', 'w', newline='') as jsonfile:
+    format = urlname.split('-')[0]
+    with open(f'{directory}/{format}.json', 'w', newline='') as jsonfile:
         result = extract_pokemon_data(input_text)
         json.dump(result, jsonfile, indent=4)
 print("Done!")

@@ -54,24 +54,30 @@ d3.json(DATOS).then(data => {
     .join("circle")
     .attr("transform", d => `translate(${d.x - WIDTH / 2},${d.y - HEIGHT / 2})`)
         .attr("fill", d => d.children ?  color(d.depth):"white")
-        .attr("stroke", d => d.children ? "#fff" : "#000")
         .attr("r", d => d.r)
-        .attr("pointer-events", d => !d.children ? "none" : null)
         .on("mouseover", function() { d3.select(this).attr("stroke", "#000"); })
         .on("mouseout", function() { d3.select(this).attr("stroke", null); })
         .on("click", (event, d) => {
-            console.log(d)
             if (d.depth === 2){
-                console.log("aquii")
+                gen = d.parent.data.name.replace(" ", "").toLowerCase();
+                let nodeEvent = new CustomEvent("nodeClick", {
+                    detail: {
+                        date: date,
+                        gen: gen,
+                        format: d.data.name,
+                        file: gen + d.data.name.replace(" ", "") + ".json"
+                    }
+                });
+                window.dispatchEvent(nodeEvent);
             }
-            if (focus !== d) {
+            if (focus !== d & d.depth === 1) {
                 event.stopPropagation();
                 zoom(event, d);
             }
         });
       node.append("title")
       .text(d =>
-         `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}`);
+         `${d.ancestors().map(d => d.data.name).reverse().join("/")}\nBatallas totales: ${format(d.value)}`);
 
   // Append the text labels.
     const label = SVG.append("g")
@@ -82,7 +88,6 @@ d3.json(DATOS).then(data => {
         .data(root.descendants())
         .join("text")
         .style("fill-opacity", d => d.parent === root ? 1 : 0)
-        .style("display", d => d.parent === root ? "inline" : "none")
         .text(d => d.data.name);
 
     SVG.on("click", (event) => zoom(event, root));

@@ -8,6 +8,11 @@ const files = {
     '2023-07': ['file7.txt', 'file8.txt', 'file9.txt'],
 };
 
+window.addEventListener("nodeClick", function(event) {
+    console.log("Node clicked:", event.detail.file);
+    dato = event.detail.file;
+    // Use event.detail.node to define the generation
+});
 document.getElementById('input-form-2').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the form from submitting normally
 
