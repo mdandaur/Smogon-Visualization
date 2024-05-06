@@ -59,8 +59,7 @@ def extract_pokemon_data(text):
 
                 weight = re.search(r'\d+\.\d+%', teammate).group()
                 weight = float(weight[:-1])  # remove the '%' and convert to float
-                if len(teammates) < 2:
-                    teammates.append({'Name': name, 'Weight': weight})
+                teammates.append({'Name': name, 'Weight': weight})
             # Ensure pokemon_name is a key in the result dictionary
             if pokemon_name not in result:
                 result[pokemon_name] = {}
@@ -143,7 +142,7 @@ result_one = extract_pokemon_data(input_text)
 #print(result)
 print(result_one)
 '''
-urldate = "2017-07"
+urldate = "2019-07"
 url_for_function = "https://www.smogon.com/stats/" + urldate + "/moveset"
 urlnames = get_max_links(url_for_function)
 

@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Network Graph</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <title>Smogon Graph</title>
 </head>
 <body>
     <!-- <div id="network-graph">
     <script src="network.js"></script>
     </div> -->
+    <div class="input-form-1-container">
     <form id="input-form">
         <label for="date">Date:</label>
         <select name="dates" id="date">
@@ -21,27 +26,29 @@
         </select>
         <input type="submit" value="Submit">
     </form>
-        <div class="row">
-            <div class="columns">
-                <svg id="vis-1"></svg>
-            </div>
-        </div>
-        <script src="circle_packing.js"></script>
-    <form id="input-form">
-        <input type="checkbox" id="useIcons" name="useIcons" checked>
-        <label for="useIcons">Usar Iconos (recomendado). </label>
-    </form>
-     <div class="row">
-        <div class="columns">
-            <svg id="vis-2"></svg>
-        </div>
+    </div>
+
+    <div class="vis-1-container">
+        <svg id="vis-1"></svg>
+    </div>
+    <script src="circle_packing.js"></script>
+
+    <div class="input-form-2-container">
+        <form id="input-form">
+            <input type="checkbox" id="useIcons" name="useIcons" checked>
+            <label for="useIcons">Usar Iconos (recomendado). </label>
+        </form>
+    </div>
+
+    <div class="vis-2-container">
+        <svg id="vis-2"></svg>
     </div>
     <script src="usage_barchart.js"></script>
-    <div class="row">
-        <div class="columns">
-            <svg id="vis-3"></svg>
-        </div>
-    </div>  
+
+    <div class="vis-3-container">
+        <svg id="vis-3"></svg>
+    </div> 
     <script src="teammates.js"></script>
+
 </body>
 </html>

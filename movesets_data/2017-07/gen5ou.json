@@ -113,6 +113,46 @@
             {
                 "Name": "Landorus-Therian",
                 "Weight": 12.349
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 11.158
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 9.474
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 8.454
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 7.537
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 5.618
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 5.514
+            },
+            {
+                "Name": "Nidoqueen",
+                "Weight": 4.427
+            },
+            {
+                "Name": "Shaymin",
+                "Weight": 4.343
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 4.009
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 3.678
             }
         ]
     },
@@ -230,6 +270,46 @@
             {
                 "Name": "Tyranitar",
                 "Weight": 11.563
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 9.095
+            },
+            {
+                "Name": "Ludicolo",
+                "Weight": 8.573
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 7.622
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 7.619
+            },
+            {
+                "Name": "Latias",
+                "Weight": 6.596
+            },
+            {
+                "Name": "Celebi",
+                "Weight": 4.565
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 4.115
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 3.264
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 3.079
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 3.031
             }
         ]
     },
@@ -363,6 +443,46 @@
             {
                 "Name": "Ferrothorn",
                 "Weight": 26.51
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 13.931
+            },
+            {
+                "Name": "Celebi",
+                "Weight": 12.716
+            },
+            {
+                "Name": "Ludicolo",
+                "Weight": 10.395
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 9.788
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 7.684
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 6.712
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 5.706
+            },
+            {
+                "Name": "Latias",
+                "Weight": 4.646
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 3.332
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 1.633
             }
         ]
     },
@@ -492,6 +612,46 @@
             {
                 "Name": "Keldeo",
                 "Weight": 8.298
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 7.062
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 6.905
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 5.5
+            },
+            {
+                "Name": "Shaymin",
+                "Weight": 5.325
+            },
+            {
+                "Name": "Nidoqueen",
+                "Weight": 5.284
+            },
+            {
+                "Name": "Kyurem",
+                "Weight": 4.848
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 3.89
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 3.677
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 3.463
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 2.348
             }
         ]
     },
@@ -617,6 +777,46 @@
             {
                 "Name": "Ferrothorn",
                 "Weight": 8.644
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 7.496
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 7.483
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 7.327
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 5.9
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 5.769
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 5.301
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 5.26
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 4.794
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 4.161
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 3.526
             }
         ]
     },
@@ -770,6 +970,46 @@
             {
                 "Name": "Landorus-Therian",
                 "Weight": 11.268
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 8.306
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 7.548
+            },
+            {
+                "Name": "Latias",
+                "Weight": 7.199
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 6.782
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 6.781
+            },
+            {
+                "Name": "Latios",
+                "Weight": 6.484
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 5.586
+            },
+            {
+                "Name": "Sharpedo",
+                "Weight": 3.817
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 3.461
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 2.738
             }
         ]
     },
@@ -871,6 +1111,46 @@
             {
                 "Name": "Toxicroak",
                 "Weight": 19.424
+            },
+            {
+                "Name": "Latios",
+                "Weight": 10.522
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 8.242
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 7.181
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 6.157
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 3.955
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 3.738
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 3.361
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 2.418
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 2.289
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 2.16
             }
         ]
     },
@@ -972,6 +1252,46 @@
             {
                 "Name": "Garchomp",
                 "Weight": 15.974
+            },
+            {
+                "Name": "Celebi",
+                "Weight": 14.865
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 10.154
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 9.363
+            },
+            {
+                "Name": "Nidoqueen",
+                "Weight": 9.325
+            },
+            {
+                "Name": "Shaymin",
+                "Weight": 8.754
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 7.637
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 7.609
+            },
+            {
+                "Name": "Latias",
+                "Weight": 6.478
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 4.767
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 4.32
             }
         ]
     },
@@ -1093,6 +1413,46 @@
             {
                 "Name": "Kyurem-Black",
                 "Weight": 16.37
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 15.514
+            },
+            {
+                "Name": "Latios",
+                "Weight": 12.685
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 7.237
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 6.972
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 6.597
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 6.418
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 4.652
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 3.969
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 2.154
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 1.99
             }
         ]
     },
@@ -1214,6 +1574,46 @@
             {
                 "Name": "Magnezone",
                 "Weight": 16.253
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 14.618
+            },
+            {
+                "Name": "Kyurem",
+                "Weight": 13.297
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 10.807
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 10.111
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 6.915
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 6.234
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 5.23
+            },
+            {
+                "Name": "Mew",
+                "Weight": 4.618
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 4.062
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 3.617
             }
         ]
     },
@@ -1323,6 +1723,46 @@
             {
                 "Name": "Latios",
                 "Weight": 13.055
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 10.226
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 8.682
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 8.48
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 6.342
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 4.825
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 4.317
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 2.832
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 2.414
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 2.39
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 2.264
             }
         ]
     },
@@ -1416,6 +1856,46 @@
             {
                 "Name": "Celebi",
                 "Weight": 32.022
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 31.126
+            },
+            {
+                "Name": "Ludicolo",
+                "Weight": 27.5
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 25.235
+            },
+            {
+                "Name": "Latias",
+                "Weight": 23.231
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 12.509
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 9.974
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 4.067
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 1.672
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 0.551
+            },
+            {
+                "Name": "Suicune",
+                "Weight": 0.509
             }
         ]
     },
@@ -1549,6 +2029,46 @@
             {
                 "Name": "Starmie",
                 "Weight": 25.133
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 14.421
+            },
+            {
+                "Name": "Kyurem",
+                "Weight": 13.117
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 12.376
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 8.554
+            },
+            {
+                "Name": "Virizion",
+                "Weight": 8.164
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 7.426
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 6.788
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 6.662
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 5.932
+            },
+            {
+                "Name": "Mew",
+                "Weight": 4.566
             }
         ]
     },
@@ -1646,6 +2166,46 @@
             {
                 "Name": "Tangrowth",
                 "Weight": 25.138
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 23.33
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 19.535
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 16.814
+            },
+            {
+                "Name": "Virizion",
+                "Weight": 9.74
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 9.435
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 7.585
+            },
+            {
+                "Name": "Mandibuzz",
+                "Weight": 6.477
+            },
+            {
+                "Name": "Mew",
+                "Weight": 6.152
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 5.874
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 2.748
             }
         ]
     },
@@ -1751,6 +2311,46 @@
             {
                 "Name": "Latios",
                 "Weight": 27.851
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 12.36
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 11.238
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 10.763
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 10.739
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 10.706
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 7.295
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 4.336
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 4.124
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 3.866
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 1.808
             }
         ]
     },
@@ -1880,6 +2480,46 @@
             {
                 "Name": "Donphan",
                 "Weight": 12.533
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 11.633
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 11.175
+            },
+            {
+                "Name": "Mew",
+                "Weight": 9.644
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 9.237
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 7.43
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 4.326
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 3.402
+            },
+            {
+                "Name": "Latios",
+                "Weight": 3.331
+            },
+            {
+                "Name": "Azelf",
+                "Weight": 3.22
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 2.955
             }
         ]
     },
@@ -1989,6 +2629,46 @@
             {
                 "Name": "Terrakion",
                 "Weight": 17.549
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 14.909
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 12.774
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 10.206
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 8.882
+            },
+            {
+                "Name": "Sharpedo",
+                "Weight": 8.053
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 7.359
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 7.23
+            },
+            {
+                "Name": "Mandibuzz",
+                "Weight": 7.084
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 5.97
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 5.647
             }
         ]
     },
@@ -2102,6 +2782,46 @@
             {
                 "Name": "Mew",
                 "Weight": 23.745
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 15.548
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 12.66
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 12.492
+            },
+            {
+                "Name": "Virizion",
+                "Weight": 11.24
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 10.437
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 6.734
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 6.601
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 6.095
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 4.473
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 2.897
             }
         ]
     },
@@ -2211,6 +2931,46 @@
             {
                 "Name": "Tentacruel",
                 "Weight": 30.862
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 20.991
+            },
+            {
+                "Name": "Shaymin",
+                "Weight": 18.022
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 18.004
+            },
+            {
+                "Name": "Nidoqueen",
+                "Weight": 17.981
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 13.578
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 11.686
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 8.768
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 5.472
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 1.37
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 0.735
             }
         ]
     },
@@ -2308,6 +3068,46 @@
             {
                 "Name": "Alakazam",
                 "Weight": 25.457
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 20.995
+            },
+            {
+                "Name": "Latios",
+                "Weight": 13.609
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 12.775
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 10.781
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 7.906
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 5.508
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 5.106
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 4.968
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 1.47
+            },
+            {
+                "Name": "Alomomola",
+                "Weight": 0.844
             }
         ]
     },
@@ -2409,6 +3209,46 @@
             {
                 "Name": "Tangrowth",
                 "Weight": 29.999
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 26.996
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 23.513
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 10.948
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 10.604
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 8.764
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 7.707
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 6.13
+            },
+            {
+                "Name": "Crobat",
+                "Weight": 3.91
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 3.481
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 2.54
             }
         ]
     },
@@ -2518,6 +3358,46 @@
             {
                 "Name": "Starmie",
                 "Weight": 27.851
+            },
+            {
+                "Name": "Kyurem",
+                "Weight": 25.034
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 19.704
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 18.588
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 16.158
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 11.241
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 7.393
+            },
+            {
+                "Name": "Suicune",
+                "Weight": 4.934
+            },
+            {
+                "Name": "Staraptor",
+                "Weight": 4.015
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 3.251
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 2.811
             }
         ]
     },
@@ -2619,6 +3499,30 @@
             {
                 "Name": "Chansey",
                 "Weight": 43.654
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 42.595
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 32.467
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 16.638
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 9.699
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 3.065
+            },
+            {
+                "Name": "Sableye",
+                "Weight": 0.769
             }
         ]
     },
@@ -2732,6 +3636,46 @@
             {
                 "Name": "Donphan",
                 "Weight": 21.236
+            },
+            {
+                "Name": "Latios",
+                "Weight": 20.035
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 19.647
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 16.47
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 16.416
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 13.942
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 11.892
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 7.557
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 4.221
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 4.216
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 3.497
             }
         ]
     },
@@ -2841,6 +3785,38 @@
             {
                 "Name": "Politoed",
                 "Weight": 58.236
+            },
+            {
+                "Name": "Latios",
+                "Weight": 21.075
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 18.279
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 15.202
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 12.325
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 9.88
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 8.41
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 6.35
+            },
+            {
+                "Name": "Vaporeon",
+                "Weight": 1.73
             }
         ]
     },
@@ -2922,6 +3898,46 @@
             {
                 "Name": "Kyurem-Black",
                 "Weight": 25.847
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 25.373
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 22.258
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 21.708
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 20.84
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 18.26
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 14.841
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 11.581
+            },
+            {
+                "Name": "Vaporeon",
+                "Weight": 11.276
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 11.043
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 10.99
             }
         ]
     },
@@ -3039,6 +4055,46 @@
             {
                 "Name": "Ferrothorn",
                 "Weight": 22.667
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 22.234
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 14.489
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 13.227
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 12.995
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 11.756
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 10.986
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 8.898
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 4.997
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 4.053
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 3.939
             }
         ]
     },
@@ -3148,6 +4204,46 @@
             {
                 "Name": "Tyranitar",
                 "Weight": 29.31
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 27.777
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 23.477
+            },
+            {
+                "Name": "Latios",
+                "Weight": 22.271
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 12.683
+            },
+            {
+                "Name": "Xatu",
+                "Weight": 10.09
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 9.959
+            },
+            {
+                "Name": "Azelf",
+                "Weight": 3.411
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 3.348
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 2.429
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 2.198
             }
         ]
     },
@@ -3237,6 +4333,34 @@
             {
                 "Name": "Tentacruel",
                 "Weight": 65.101
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 59.491
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 52.849
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 46.227
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 2.884
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 1.672
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 1.275
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 1.072
             }
         ]
     },
@@ -3322,6 +4446,38 @@
             {
                 "Name": "Alakazam",
                 "Weight": 60.969
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 60.663
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 58.95
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 49.978
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 7.084
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 6.457
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 4.12
+            },
+            {
+                "Name": "Alomomola",
+                "Weight": 1.923
+            },
+            {
+                "Name": "Bisharp",
+                "Weight": 0.739
             }
         ]
     },
@@ -3427,6 +4583,46 @@
             {
                 "Name": "Jellicent",
                 "Weight": 17.357
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 16.991
+            },
+            {
+                "Name": "Celebi",
+                "Weight": 16.386
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 11.832
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 11.432
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 11.267
+            },
+            {
+                "Name": "Latias",
+                "Weight": 11.173
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 9.769
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 7.761
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 4.64
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 3.447
             }
         ]
     },
@@ -3496,6 +4692,38 @@
             {
                 "Name": "Tentacruel",
                 "Weight": 73.695
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 61.845
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 57.636
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 53.224
+            },
+            {
+                "Name": "Armaldo",
+                "Weight": 1.129
+            },
+            {
+                "Name": "Kingdra",
+                "Weight": 0.844
+            },
+            {
+                "Name": "Whimsicott",
+                "Weight": 0.774
+            },
+            {
+                "Name": "Cradily",
+                "Weight": 0.773
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 0.733
             }
         ]
     },
@@ -3617,6 +4845,46 @@
             {
                 "Name": "Virizion",
                 "Weight": 27.764
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 23.886
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 23.433
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 23.12
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 16.756
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 15.22
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 14.079
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 3.146
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 3.056
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 1.299
+            },
+            {
+                "Name": "Arbok",
+                "Weight": 1.299
             }
         ]
     },
@@ -3734,6 +5002,46 @@
             {
                 "Name": "Gastrodon",
                 "Weight": 13.793
+            },
+            {
+                "Name": "Staraptor",
+                "Weight": 13.417
+            },
+            {
+                "Name": "Suicune",
+                "Weight": 11.742
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 10.924
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 9.917
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 9.663
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 9.15
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 8.848
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 7.456
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 5.923
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 5.593
             }
         ]
     },
@@ -3839,6 +5147,46 @@
             {
                 "Name": "Conkeldurr",
                 "Weight": 22.83
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 19.635
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 18.08
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 15.593
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 15.247
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 13.724
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 11.683
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 11.18
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 8.667
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 8.315
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 7.998
             }
         ]
     },
@@ -3952,6 +5300,46 @@
             {
                 "Name": "Metagross",
                 "Weight": 22.376
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 20.806
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 20.263
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 20.019
+            },
+            {
+                "Name": "Vaporeon",
+                "Weight": 18.649
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 17.716
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 13.446
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 9.704
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 6.257
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 3.76
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 2.945
             }
         ]
     },
@@ -4049,6 +5437,46 @@
             {
                 "Name": "Heatran",
                 "Weight": 33.0
+            },
+            {
+                "Name": "Virizion",
+                "Weight": 30.651
+            },
+            {
+                "Name": "Mew",
+                "Weight": 27.053
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 23.536
+            },
+            {
+                "Name": "Mandibuzz",
+                "Weight": 20.646
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 9.324
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 7.94
+            },
+            {
+                "Name": "Parasect",
+                "Weight": 6.439
+            },
+            {
+                "Name": "Sharpedo",
+                "Weight": 5.199
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 5.002
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 4.86
             }
         ]
     },
@@ -4146,6 +5574,46 @@
             {
                 "Name": "Starmie",
                 "Weight": 58.449
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 45.83
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 41.566
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 35.73
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 10.306
+            },
+            {
+                "Name": "Crobat",
+                "Weight": 8.397
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 4.065
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 3.577
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 2.997
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 2.45
+            },
+            {
+                "Name": "Xatu",
+                "Weight": 1.632
             }
         ]
     },
@@ -4239,6 +5707,46 @@
             {
                 "Name": "Latios",
                 "Weight": 31.024
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 30.792
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 18.576
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 17.507
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 14.341
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 12.908
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 8.849
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 8.663
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 8.108
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 6.998
+            },
+            {
+                "Name": "Swampert",
+                "Weight": 2.01
             }
         ]
     },
@@ -4356,6 +5864,42 @@
             {
                 "Name": "Ferrothorn",
                 "Weight": 48.117
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 36.923
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 27.473
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 22.376
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 12.301
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 6.273
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 1.874
+            },
+            {
+                "Name": "Rhyperior",
+                "Weight": 1.443
+            },
+            {
+                "Name": "Heracross",
+                "Weight": 1.156
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 1.05
             }
         ]
     },
@@ -4469,6 +6013,46 @@
             {
                 "Name": "Magnezone",
                 "Weight": 20.954
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 20.093
+            },
+            {
+                "Name": "Azelf",
+                "Weight": 19.103
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 16.891
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 10.244
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 8.295
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 7.656
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 7.562
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 6.406
+            },
+            {
+                "Name": "Sableye",
+                "Weight": 3.21
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 2.696
             }
         ]
     },
@@ -4554,6 +6138,42 @@
             {
                 "Name": "Magnezone",
                 "Weight": 69.699
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 63.767
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 52.714
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 37.877
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 9.505
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 3.068
+            },
+            {
+                "Name": "Xatu",
+                "Weight": 2.138
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 0.967
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 0.811
+            },
+            {
+                "Name": "Garbodor",
+                "Weight": 0.647
             }
         ]
     },
@@ -4659,6 +6279,46 @@
             {
                 "Name": "Starmie",
                 "Weight": 18.241
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 16.921
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 13.287
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 12.21
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 11.773
+            },
+            {
+                "Name": "Kyurem",
+                "Weight": 10.262
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 9.604
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 9.534
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 9.057
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 8.659
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 2.577
             }
         ]
     },
@@ -4760,6 +6420,46 @@
             {
                 "Name": "Amoonguss",
                 "Weight": 58.339
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 57.517
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 34.492
+            },
+            {
+                "Name": "Latios",
+                "Weight": 34.083
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 5.877
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 5.856
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 4.355
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 3.894
+            },
+            {
+                "Name": "Magneton",
+                "Weight": 1.793
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 1.485
+            },
+            {
+                "Name": "Dusknoir",
+                "Weight": 1.475
             }
         ]
     },
@@ -4865,6 +6565,46 @@
             {
                 "Name": "Landorus-Therian",
                 "Weight": 43.604
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 35.885
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 30.706
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 21.088
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 19.972
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 19.938
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 13.851
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 13.693
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 7.648
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 5.91
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 5.552
             }
         ]
     },
@@ -4982,6 +6722,46 @@
             {
                 "Name": "Garchomp",
                 "Weight": 23.281
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 23.275
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 21.756
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 21.576
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 20.702
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 11.527
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 6.26
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 3.502
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 2.602
+            },
+            {
+                "Name": "Rhyperior",
+                "Weight": 2.197
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 2.018
             }
         ]
     },
@@ -5071,6 +6851,46 @@
             {
                 "Name": "Cofagrigus",
                 "Weight": 38.267
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 34.649
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 32.684
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 23.795
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 22.389
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 20.376
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 17.578
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 14.14
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 10.498
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 6.632
+            },
+            {
+                "Name": "Empoleon",
+                "Weight": 5.059
             }
         ]
     },
@@ -5148,6 +6968,18 @@
             {
                 "Name": "Latias",
                 "Weight": 83.174
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 78.669
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 64.801
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 64.038
             }
         ]
     },
@@ -5209,6 +7041,18 @@
             {
                 "Name": "Latias",
                 "Weight": 83.402
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 73.809
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 65.026
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 62.52
             }
         ]
     },
@@ -5318,6 +7162,46 @@
             {
                 "Name": "Reuniclus",
                 "Weight": 46.194
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 40.777
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 35.143
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 26.764
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 23.884
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 22.47
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 8.076
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 7.344
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 5.444
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 4.473
+            },
+            {
+                "Name": "Suicune",
+                "Weight": 2.328
             }
         ]
     },
@@ -5419,6 +7303,46 @@
             {
                 "Name": "Ninetales",
                 "Weight": 17.124
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 14.011
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 12.558
+            },
+            {
+                "Name": "Xatu",
+                "Weight": 11.486
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 10.118
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 9.91
+            },
+            {
+                "Name": "Mew",
+                "Weight": 7.793
+            },
+            {
+                "Name": "Victini",
+                "Weight": 7.142
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 7.072
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 6.597
+            },
+            {
+                "Name": "Sableye",
+                "Weight": 6.266
             }
         ]
     },
@@ -5520,6 +7444,46 @@
             {
                 "Name": "Tyranitar",
                 "Weight": 40.36
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 33.458
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 30.583
+            },
+            {
+                "Name": "Slaking",
+                "Weight": 9.891
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 9.716
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 9.426
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 9.126
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 8.403
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 4.312
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 4.107
+            },
+            {
+                "Name": "Bisharp",
+                "Weight": 2.482
             }
         ]
     },
@@ -5617,6 +7581,46 @@
             {
                 "Name": "Toxicroak",
                 "Weight": 31.383
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 26.01
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 15.738
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 15.394
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 11.78
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 9.422
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 8.044
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 6.003
+            },
+            {
+                "Name": "Sableye",
+                "Weight": 4.827
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 1.882
+            },
+            {
+                "Name": "Raikou",
+                "Weight": 1.034
             }
         ]
     },
@@ -5722,6 +7726,46 @@
             {
                 "Name": "Skarmory",
                 "Weight": 56.83
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 56.246
+            },
+            {
+                "Name": "Vaporeon",
+                "Weight": 56.121
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 50.08
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 9.799
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 9.455
+            },
+            {
+                "Name": "Entei",
+                "Weight": 8.607
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 6.948
+            },
+            {
+                "Name": "Raikou",
+                "Weight": 1.632
+            },
+            {
+                "Name": "Victini",
+                "Weight": 1.551
+            },
+            {
+                "Name": "Infernape",
+                "Weight": 0.795
             }
         ]
     },
@@ -5787,6 +7831,18 @@
             {
                 "Name": "Forretress",
                 "Weight": 88.292
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 83.587
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 79.599
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 78.482
             }
         ]
     },
@@ -5860,6 +7916,26 @@
             {
                 "Name": "Amoonguss",
                 "Weight": 66.546
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 57.301
+            },
+            {
+                "Name": "Latios",
+                "Weight": 48.707
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 48.518
+            },
+            {
+                "Name": "Parasect",
+                "Weight": 20.724
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 16.286
             }
         ]
     },
@@ -5929,6 +8005,30 @@
             {
                 "Name": "Magnezone",
                 "Weight": 78.294
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 74.266
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 61.977
+            },
+            {
+                "Name": "Latios",
+                "Weight": 59.046
+            },
+            {
+                "Name": "Rotom",
+                "Weight": 1.537
+            },
+            {
+                "Name": "Flygon",
+                "Weight": 1.535
+            },
+            {
+                "Name": "Scrafty",
+                "Weight": 1.494
             }
         ]
     },
@@ -6030,6 +8130,46 @@
             {
                 "Name": "Metagross",
                 "Weight": 66.152
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 62.678
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 60.245
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 46.145
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 10.054
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 6.674
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 6.512
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 5.337
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 1.739
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 1.333
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 1.319
             }
         ]
     },
@@ -6127,6 +8267,46 @@
             {
                 "Name": "Scizor",
                 "Weight": 22.246
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 21.469
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 21.169
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 17.355
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 16.121
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 14.341
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 11.589
+            },
+            {
+                "Name": "Victini",
+                "Weight": 8.145
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 8.072
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 7.385
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 5.982
             }
         ]
     },
@@ -6220,6 +8400,46 @@
             {
                 "Name": "Gengar",
                 "Weight": 46.748
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 46.146
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 36.256
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 32.12
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 16.556
+            },
+            {
+                "Name": "Slaking",
+                "Weight": 13.082
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 12.042
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 9.628
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 6.791
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 5.858
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 4.768
             }
         ]
     },
@@ -6293,6 +8513,46 @@
             {
                 "Name": "Bronzong",
                 "Weight": 86.618
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 84.757
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 82.293
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 36.555
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 6.88
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 3.106
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 2.528
+            },
+            {
+                "Name": "Garbodor",
+                "Weight": 2.157
+            },
+            {
+                "Name": "Sigilyph",
+                "Weight": 1.588
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 1.584
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 1.475
             }
         ]
     },
@@ -6382,6 +8642,46 @@
             {
                 "Name": "Skarmory",
                 "Weight": 42.092
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 38.746
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 33.795
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 27.028
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 17.935
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 12.027
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 10.022
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 5.24
+            },
+            {
+                "Name": "Latias",
+                "Weight": 4.275
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 2.268
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 1.219
             }
         ]
     },
@@ -6475,6 +8775,46 @@
             {
                 "Name": "Forretress",
                 "Weight": 17.285
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 14.257
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 14.069
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 13.568
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 12.795
+            },
+            {
+                "Name": "Suicune",
+                "Weight": 9.336
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 8.74
+            },
+            {
+                "Name": "Xatu",
+                "Weight": 7.808
+            },
+            {
+                "Name": "Crobat",
+                "Weight": 7.05
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 5.751
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 5.602
             }
         ]
     },
@@ -6560,6 +8900,46 @@
             {
                 "Name": "Vaporeon",
                 "Weight": 81.1
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 81.092
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 75.574
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 61.34
+            },
+            {
+                "Name": "Ninjask",
+                "Weight": 6.076
+            },
+            {
+                "Name": "Azumarill",
+                "Weight": 6.06
+            },
+            {
+                "Name": "Froslass",
+                "Weight": 5.486
+            },
+            {
+                "Name": "Cinccino",
+                "Weight": 2.549
+            },
+            {
+                "Name": "Krookodile",
+                "Weight": 2.517
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 2.239
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 0.786
             }
         ]
     },
@@ -6653,6 +9033,46 @@
             {
                 "Name": "Ferrothorn",
                 "Weight": 53.167
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 50.073
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 43.206
+            },
+            {
+                "Name": "Latios",
+                "Weight": 39.634
+            },
+            {
+                "Name": "Suicune",
+                "Weight": 7.488
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 5.907
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 5.03
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 4.696
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 2.084
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 1.791
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 0.661
             }
         ]
     },
@@ -6722,6 +9142,18 @@
             {
                 "Name": "Amoonguss",
                 "Weight": 86.259
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 84.893
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 62.838
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 62.374
             }
         ]
     },
@@ -6803,6 +9235,46 @@
             {
                 "Name": "Keldeo",
                 "Weight": 36.706
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 34.683
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 34.384
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 23.199
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 16.587
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 16.187
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 14.537
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 14.345
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 11.75
+            },
+            {
+                "Name": "Ninjask",
+                "Weight": 6.137
+            },
+            {
+                "Name": "Azumarill",
+                "Weight": 6.121
             }
         ]
     },
@@ -6876,6 +9348,46 @@
             {
                 "Name": "Magnezone",
                 "Weight": 62.41
+            },
+            {
+                "Name": "Staraptor",
+                "Weight": 59.451
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 53.19
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 46.105
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 12.453
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 10.231
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 9.498
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 7.053
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 2.99
+            },
+            {
+                "Name": "Empoleon",
+                "Weight": 1.938
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 1.345
             }
         ]
     },
@@ -6973,6 +9485,46 @@
             {
                 "Name": "Politoed",
                 "Weight": 40.45
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 21.797
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 20.671
+            },
+            {
+                "Name": "Staraptor",
+                "Weight": 20.004
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 18.958
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 11.984
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 8.473
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 7.128
+            },
+            {
+                "Name": "Typhlosion",
+                "Weight": 6.586
+            },
+            {
+                "Name": "Heracross",
+                "Weight": 6.485
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 6.392
             }
         ]
     },
@@ -7054,6 +9606,42 @@
             {
                 "Name": "Suicune",
                 "Weight": 63.48
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 62.975
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 54.341
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 52.522
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 22.451
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 22.385
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 5.452
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 3.887
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 2.043
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 1.888
             }
         ]
     },
@@ -7135,6 +9723,34 @@
             {
                 "Name": "Dragonite",
                 "Weight": 47.649
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 46.585
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 41.063
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 29.258
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 28.305
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 25.151
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 21.748
+            },
+            {
+                "Name": "Latios",
+                "Weight": 1.338
             }
         ]
     },
@@ -7244,6 +9860,46 @@
             {
                 "Name": "Magnezone",
                 "Weight": 39.533
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 32.433
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 24.316
+            },
+            {
+                "Name": "Staraptor",
+                "Weight": 23.612
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 23.394
+            },
+            {
+                "Name": "Latios",
+                "Weight": 19.941
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 18.25
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 7.046
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 3.883
+            },
+            {
+                "Name": "Cinccino",
+                "Weight": 3.769
+            },
+            {
+                "Name": "Krookodile",
+                "Weight": 3.763
             }
         ]
     },
@@ -7357,6 +10013,46 @@
             {
                 "Name": "Scizor",
                 "Weight": 41.864
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 40.625
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 31.724
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 23.322
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 16.519
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 14.959
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 14.349
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 10.369
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 7.607
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 7.293
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 5.755
             }
         ]
     },
@@ -7450,6 +10146,46 @@
             {
                 "Name": "Tentacruel",
                 "Weight": 46.126
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 42.744
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 39.19
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 31.4
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 30.169
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 27.257
+            },
+            {
+                "Name": "Entei",
+                "Weight": 25.134
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 21.5
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 15.596
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 2.845
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 2.55
             }
         ]
     },
@@ -7531,6 +10267,42 @@
             {
                 "Name": "Abomasnow",
                 "Weight": 67.805
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 54.566
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 45.512
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 42.273
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 14.025
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 13.448
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 5.007
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 2.197
+            },
+            {
+                "Name": "Heracross",
+                "Weight": 1.536
+            },
+            {
+                "Name": "Infernape",
+                "Weight": 1.415
             }
         ]
     },
@@ -7636,6 +10408,46 @@
             {
                 "Name": "Salamence",
                 "Weight": 49.658
+            },
+            {
+                "Name": "Azelf",
+                "Weight": 49.493
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 43.454
+            },
+            {
+                "Name": "Armaldo",
+                "Weight": 21.83
+            },
+            {
+                "Name": "Latios",
+                "Weight": 19.954
+            },
+            {
+                "Name": "Kingdra",
+                "Weight": 13.62
+            },
+            {
+                "Name": "Ludicolo",
+                "Weight": 8.739
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 8.616
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 7.41
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 6.117
+            },
+            {
+                "Name": "Roserade",
+                "Weight": 5.353
             }
         ]
     },
@@ -7757,6 +10569,46 @@
             {
                 "Name": "Xatu",
                 "Weight": 44.725
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 37.53
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 37.178
+            },
+            {
+                "Name": "Victini",
+                "Weight": 26.5
+            },
+            {
+                "Name": "Sceptile",
+                "Weight": 15.852
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 13.633
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 12.075
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 7.392
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 6.575
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 6.549
+            },
+            {
+                "Name": "Wobbuffet",
+                "Weight": 4.974
             }
         ]
     },
@@ -7882,6 +10734,46 @@
             {
                 "Name": "Feraligatr",
                 "Weight": 28.171
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 23.823
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 16.188
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 12.822
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 11.923
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 10.404
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 9.175
+            },
+            {
+                "Name": "Bisharp",
+                "Weight": 9.121
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 8.923
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 8.485
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 8.407
             }
         ]
     },
@@ -7963,6 +10855,46 @@
             {
                 "Name": "Forretress",
                 "Weight": 46.793
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 43.668
+            },
+            {
+                "Name": "Latias",
+                "Weight": 37.663
+            },
+            {
+                "Name": "Chansey",
+                "Weight": 23.545
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 20.801
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 7.249
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 6.866
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 6.251
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 6.194
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 5.908
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 5.484
             }
         ]
     },
@@ -8064,6 +10996,46 @@
             {
                 "Name": "Dragonite",
                 "Weight": 19.354
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 17.879
+            },
+            {
+                "Name": "Typhlosion",
+                "Weight": 15.487
+            },
+            {
+                "Name": "Heracross",
+                "Weight": 15.284
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 14.914
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 8.961
+            },
+            {
+                "Name": "Kyurem",
+                "Weight": 8.134
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 7.526
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 7.515
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 6.951
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 4.67
             }
         ]
     },
@@ -8121,6 +11093,26 @@
             {
                 "Name": "Forretress",
                 "Weight": 92.669
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 70.585
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 68.893
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 61.963
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 2.321
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 1.978
             }
         ]
     },
@@ -8214,6 +11206,46 @@
             {
                 "Name": "Latios",
                 "Weight": 33.991
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 33.802
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 25.782
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 25.317
+            },
+            {
+                "Name": "Armaldo",
+                "Weight": 21.415
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 21.02
+            },
+            {
+                "Name": "Ludicolo",
+                "Weight": 15.179
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 8.289
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 7.372
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 6.77
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 2.664
             }
         ]
     },
@@ -8295,6 +11327,46 @@
             {
                 "Name": "Dugtrio",
                 "Weight": 38.343
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 36.437
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 28.481
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 23.533
+            },
+            {
+                "Name": "Celebi",
+                "Weight": 21.149
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 19.518
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 18.421
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 13.874
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 12.859
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 12.435
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 9.151
             }
         ]
     },
@@ -8376,6 +11448,46 @@
             {
                 "Name": "Xatu",
                 "Weight": 59.185
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 58.596
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 34.532
+            },
+            {
+                "Name": "Victini",
+                "Weight": 34.31
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 30.623
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 12.28
+            },
+            {
+                "Name": "Bisharp",
+                "Weight": 11.639
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 11.276
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 6.704
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 5.548
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 4.857
             }
         ]
     },
@@ -8449,6 +11561,42 @@
             {
                 "Name": "Donphan",
                 "Weight": 74.776
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 71.671
+            },
+            {
+                "Name": "Slaking",
+                "Weight": 64.435
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 63.257
+            },
+            {
+                "Name": "Sableye",
+                "Weight": 16.508
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 15.426
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 10.299
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 7.266
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 6.774
+            },
+            {
+                "Name": "Umbreon",
+                "Weight": 3.48
             }
         ]
     },
@@ -8538,6 +11686,42 @@
             {
                 "Name": "Forretress",
                 "Weight": 67.515
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 66.652
+            },
+            {
+                "Name": "Jellicent",
+                "Weight": 63.353
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 55.725
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 9.78
+            },
+            {
+                "Name": "Stoutland",
+                "Weight": 4.656
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 3.592
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 2.541
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 1.948
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 0.746
             }
         ]
     },
@@ -8635,6 +11819,46 @@
             {
                 "Name": "Metagross",
                 "Weight": 68.238
+            },
+            {
+                "Name": "Entei",
+                "Weight": 60.968
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 60.453
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 58.306
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 6.469
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 5.717
+            },
+            {
+                "Name": "Parasect",
+                "Weight": 3.209
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 3.063
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 2.86
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 2.623
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 2.282
             }
         ]
     },
@@ -8768,6 +11992,46 @@
             {
                 "Name": "Ferrothorn",
                 "Weight": 36.982
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 29.384
+            },
+            {
+                "Name": "Latios",
+                "Weight": 14.938
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 14.484
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 13.94
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 9.538
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 8.712
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 8.267
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 7.95
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 7.059
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 6.774
             }
         ]
     },
@@ -8841,6 +12105,46 @@
             {
                 "Name": "Dugtrio",
                 "Weight": 61.206
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 50.829
+            },
+            {
+                "Name": "Xatu",
+                "Weight": 49.727
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 24.43
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 15.237
+            },
+            {
+                "Name": "Wobbuffet",
+                "Weight": 13.74
+            },
+            {
+                "Name": "Raikou",
+                "Weight": 11.673
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 10.121
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 8.286
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 7.323
+            },
+            {
+                "Name": "Golem",
+                "Weight": 0.874
             }
         ]
     },
@@ -8902,6 +12206,34 @@
             {
                 "Name": "Mienshao",
                 "Weight": 92.215
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 91.29
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 86.913
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 82.272
+            },
+            {
+                "Name": "Rotom-Heat",
+                "Weight": 0.986
+            },
+            {
+                "Name": "Primeape",
+                "Weight": 0.976
+            },
+            {
+                "Name": "Sceptile",
+                "Weight": 0.878
+            },
+            {
+                "Name": "Swampert",
+                "Weight": 0.869
             }
         ]
     },
@@ -8995,6 +12327,46 @@
             {
                 "Name": "Heatran",
                 "Weight": 68.437
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 61.999
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 58.973
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 53.429
+            },
+            {
+                "Name": "Suicune",
+                "Weight": 9.434
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 9.197
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 5.441
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 2.246
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 1.291
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 0.974
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 0.766
             }
         ]
     },
@@ -9064,6 +12436,30 @@
             {
                 "Name": "Machamp",
                 "Weight": 85.225
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 84.127
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 81.01
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 72.465
+            },
+            {
+                "Name": "Electivire",
+                "Weight": 6.006
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 5.966
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 2.107
             }
         ]
     },
@@ -9133,6 +12529,38 @@
             {
                 "Name": "Thundurus-Therian",
                 "Weight": 85.557
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 68.899
+            },
+            {
+                "Name": "Latios",
+                "Weight": 62.268
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 61.074
+            },
+            {
+                "Name": "Sceptile",
+                "Weight": 6.009
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 5.355
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 3.579
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 1.441
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 1.097
             }
         ]
     },
@@ -9234,6 +12662,46 @@
             {
                 "Name": "Cloyster",
                 "Weight": 43.309
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 42.856
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 37.785
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 35.758
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 29.464
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 28.641
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 20.372
+            },
+            {
+                "Name": "Infernape",
+                "Weight": 10.364
+            },
+            {
+                "Name": "Latios",
+                "Weight": 9.876
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 8.683
+            },
+            {
+                "Name": "Crobat",
+                "Weight": 6.505
             }
         ]
     },
@@ -9339,6 +12807,46 @@
             {
                 "Name": "Rhydon",
                 "Weight": 56.14
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 49.627
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 37.958
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 34.875
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 18.005
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 15.759
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 14.061
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 13.505
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 13.494
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 12.573
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 11.258
             }
         ]
     },
@@ -9424,6 +12932,46 @@
             {
                 "Name": "Rampardos",
                 "Weight": 46.99
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 43.093
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 38.456
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 32.474
+            },
+            {
+                "Name": "Sigilyph",
+                "Weight": 25.283
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 23.679
+            },
+            {
+                "Name": "Victini",
+                "Weight": 15.989
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 15.875
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 15.831
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 15.676
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 15.124
             }
         ]
     },
@@ -9497,6 +13045,46 @@
             {
                 "Name": "Mamoswine",
                 "Weight": 66.223
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 58.925
+            },
+            {
+                "Name": "Latios",
+                "Weight": 46.605
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 39.686
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 13.381
+            },
+            {
+                "Name": "Raikou",
+                "Weight": 13.314
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 12.854
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 10.217
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 5.688
+            },
+            {
+                "Name": "Marowak",
+                "Weight": 2.509
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 2.057
             }
         ]
     },
@@ -9566,6 +13154,22 @@
             {
                 "Name": "Excadrill",
                 "Weight": 88.016
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 64.14
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 63.676
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 58.194
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 2.712
             }
         ]
     },
@@ -9639,6 +13243,46 @@
             {
                 "Name": "Mamoswine",
                 "Weight": 67.533
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 60.133
+            },
+            {
+                "Name": "Latios",
+                "Weight": 48.029
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 40.555
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 16.03
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 10.184
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 7.698
+            },
+            {
+                "Name": "Dusclops",
+                "Weight": 2.002
+            },
+            {
+                "Name": "Heracross",
+                "Weight": 1.877
+            },
+            {
+                "Name": "Rotom-Heat",
+                "Weight": 1.579
+            },
+            {
+                "Name": "Primeape",
+                "Weight": 1.569
             }
         ]
     },
@@ -9704,6 +13348,34 @@
             {
                 "Name": "Rotom-Wash",
                 "Weight": 78.618
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 68.479
+            },
+            {
+                "Name": "Kingdra",
+                "Weight": 56.568
+            },
+            {
+                "Name": "Ludicolo",
+                "Weight": 52.447
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 22.84
+            },
+            {
+                "Name": "Scrafty",
+                "Weight": 10.316
+            },
+            {
+                "Name": "Durant",
+                "Weight": 5.063
+            },
+            {
+                "Name": "Azelf",
+                "Weight": 0.771
             }
         ]
     },
@@ -9817,6 +13489,46 @@
             {
                 "Name": "Metagross",
                 "Weight": 23.212
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 19.85
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 18.325
+            },
+            {
+                "Name": "Scrafty",
+                "Weight": 17.993
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 17.081
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 16.26
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 14.857
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 14.783
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 11.693
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 10.597
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 7.073
             }
         ]
     },
@@ -9914,6 +13626,46 @@
             {
                 "Name": "Mienshao",
                 "Weight": 37.105
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 36.103
+            },
+            {
+                "Name": "Cresselia",
+                "Weight": 33.675
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 33.51
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 33.239
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 29.086
+            },
+            {
+                "Name": "Emolga",
+                "Weight": 10.559
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 9.976
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 3.994
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 3.187
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 1.127
             }
         ]
     },
@@ -9991,6 +13743,34 @@
             {
                 "Name": "Vaporeon",
                 "Weight": 62.251
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 57.052
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 45.383
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 40.394
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 25.963
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 25.212
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 25.203
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 14.904
             }
         ]
     },
@@ -10072,6 +13852,46 @@
             {
                 "Name": "Salamence",
                 "Weight": 80.29
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 79.396
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 69.197
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 66.723
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 11.05
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 9.176
+            },
+            {
+                "Name": "Feraligatr",
+                "Weight": 7.735
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 4.476
+            },
+            {
+                "Name": "Rotom-Heat",
+                "Weight": 1.813
+            },
+            {
+                "Name": "Primeape",
+                "Weight": 1.803
+            },
+            {
+                "Name": "Swampert",
+                "Weight": 1.695
             }
         ]
     },
@@ -10145,6 +13965,38 @@
             {
                 "Name": "Arbok",
                 "Weight": 35.038
+            },
+            {
+                "Name": "Mismagius",
+                "Weight": 35.037
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 35.018
+            },
+            {
+                "Name": "Mew",
+                "Weight": 29.884
+            },
+            {
+                "Name": "Victini",
+                "Weight": 16.052
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 13.647
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 12.171
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 9.38
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 5.536
             }
         ]
     },
@@ -10210,6 +14062,18 @@
             {
                 "Name": "Gliscor",
                 "Weight": 94.278
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 84.985
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 73.136
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 68.893
             }
         ]
     },
@@ -10267,6 +14131,34 @@
             {
                 "Name": "Arbok",
                 "Weight": 40.59
+            },
+            {
+                "Name": "Mismagius",
+                "Weight": 40.589
+            },
+            {
+                "Name": "Wobbuffet",
+                "Weight": 40.554
+            },
+            {
+                "Name": "Mew",
+                "Weight": 35.435
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 2.148
+            },
+            {
+                "Name": "Durant",
+                "Weight": 1.801
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 1.432
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 1.301
             }
         ]
     },
@@ -10360,6 +14252,46 @@
             {
                 "Name": "Froslass",
                 "Weight": 69.246
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 69.105
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 55.449
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 40.164
+            },
+            {
+                "Name": "Vanilluxe",
+                "Weight": 8.958
+            },
+            {
+                "Name": "Sigilyph",
+                "Weight": 8.929
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 8.835
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 7.049
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 6.79
+            },
+            {
+                "Name": "Tornadus",
+                "Weight": 4.522
+            },
+            {
+                "Name": "Infernape",
+                "Weight": 3.251
             }
         ]
     },
@@ -10429,6 +14361,38 @@
             {
                 "Name": "Froslass",
                 "Weight": 82.891
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 82.75
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 65.619
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 57.238
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 3.199
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 2.855
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 2.606
+            },
+            {
+                "Name": "Honchkrow",
+                "Weight": 2.551
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 2.003
             }
         ]
     },
@@ -10490,6 +14454,18 @@
             {
                 "Name": "Liepard",
                 "Weight": 45.991
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 45.971
+            },
+            {
+                "Name": "Wobbuffet",
+                "Weight": 45.956
+            },
+            {
+                "Name": "Mew",
+                "Weight": 40.837
             }
         ]
     },
@@ -10555,6 +14531,18 @@
             {
                 "Name": "Liepard",
                 "Weight": 46.182
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 46.161
+            },
+            {
+                "Name": "Wobbuffet",
+                "Weight": 46.146
+            },
+            {
+                "Name": "Mew",
+                "Weight": 41.027
             }
         ]
     },
@@ -10624,6 +14612,18 @@
             {
                 "Name": "Mismagius",
                 "Weight": 46.189
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 46.169
+            },
+            {
+                "Name": "Wobbuffet",
+                "Weight": 46.154
+            },
+            {
+                "Name": "Mew",
+                "Weight": 41.035
             }
         ]
     },
@@ -10709,6 +14709,30 @@
             {
                 "Name": "Reuniclus",
                 "Weight": 79.27
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 78.397
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 71.347
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 48.168
+            },
+            {
+                "Name": "Primeape",
+                "Weight": 15.658
+            },
+            {
+                "Name": "Umbreon",
+                "Weight": 15.647
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 15.635
             }
         ]
     },
@@ -10806,6 +14830,46 @@
             {
                 "Name": "Flygon",
                 "Weight": 36.51
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 35.063
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 34.532
+            },
+            {
+                "Name": "Raikou",
+                "Weight": 31.256
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 22.796
+            },
+            {
+                "Name": "Armaldo",
+                "Weight": 19.258
+            },
+            {
+                "Name": "Gothitelle",
+                "Weight": 14.322
+            },
+            {
+                "Name": "Heracross",
+                "Weight": 10.142
+            },
+            {
+                "Name": "Durant",
+                "Weight": 9.461
+            },
+            {
+                "Name": "Infernape",
+                "Weight": 7.487
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 6.046
             }
         ]
     },
@@ -10871,6 +14935,22 @@
             {
                 "Name": "Tornadus",
                 "Weight": 94.94
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 81.161
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 72.107
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 63.753
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 0.694
             }
         ]
     },
@@ -10960,6 +15040,46 @@
             {
                 "Name": "Hydreigon",
                 "Weight": 74.397
+            },
+            {
+                "Name": "Cinccino",
+                "Weight": 45.683
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 45.288
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 44.566
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 33.444
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 24.844
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 21.886
+            },
+            {
+                "Name": "Serperior",
+                "Weight": 15.575
+            },
+            {
+                "Name": "Vaporeon",
+                "Weight": 14.16
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 13.667
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 5.26
             }
         ]
     },
@@ -11021,6 +15141,22 @@
             {
                 "Name": "Heracross",
                 "Weight": 96.953
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 96.282
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 82.137
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 74.315
+            },
+            {
+                "Name": "Ampharos",
+                "Weight": 0.852
             }
         ]
     },
@@ -11086,6 +15222,18 @@
             {
                 "Name": "Weavile",
                 "Weight": 98.692
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 91.377
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 88.39
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 85.41
             }
         ]
     },
@@ -11155,6 +15303,26 @@
             {
                 "Name": "Tentacruel",
                 "Weight": 82.078
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 70.228
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 68.404
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 61.455
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 2.578
+            },
+            {
+                "Name": "Empoleon",
+                "Weight": 2.24
             }
         ]
     },
@@ -11224,6 +15392,46 @@
             {
                 "Name": "Ludicolo",
                 "Weight": 89.412
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 82.772
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 82.099
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 71.588
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 3.89
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 2.846
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 2.471
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 2.254
+            },
+            {
+                "Name": "Flygon",
+                "Weight": 2.236
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 2.131
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 0.955
             }
         ]
     },
@@ -11333,6 +15541,46 @@
             {
                 "Name": "Raikou",
                 "Weight": 33.244
+            },
+            {
+                "Name": "Moltres",
+                "Weight": 33.237
+            },
+            {
+                "Name": "Gyarados",
+                "Weight": 30.147
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 26.971
+            },
+            {
+                "Name": "Pikachu",
+                "Weight": 26.577
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 26.556
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 26.545
+            },
+            {
+                "Name": "Electivire",
+                "Weight": 19.552
+            },
+            {
+                "Name": "Entei",
+                "Weight": 19.402
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 18.282
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 10.697
             }
         ]
     },
@@ -11394,6 +15642,30 @@
             {
                 "Name": "Ludicolo",
                 "Weight": 91.654
+            },
+            {
+                "Name": "Amoonguss",
+                "Weight": 85.013
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 84.341
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 73.83
+            },
+            {
+                "Name": "Rotom-Heat",
+                "Weight": 2.775
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 2.2
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 1.316
             }
         ]
     },
@@ -11475,6 +15747,46 @@
             {
                 "Name": "Walrein",
                 "Weight": 63.94
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 59.403
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 52.678
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 49.012
+            },
+            {
+                "Name": "Muk",
+                "Weight": 28.73
+            },
+            {
+                "Name": "Golbat",
+                "Weight": 28.73
+            },
+            {
+                "Name": "Victreebel",
+                "Weight": 28.73
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 13.731
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 2.802
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 2.274
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 1.723
             }
         ]
     },
@@ -11536,6 +15848,18 @@
             {
                 "Name": "Slowbro",
                 "Weight": 96.145
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 87.215
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 87.211
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 63.116
             }
         ]
     },
@@ -11633,6 +15957,46 @@
             {
                 "Name": "Conkeldurr",
                 "Weight": 37.86
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 37.66
+            },
+            {
+                "Name": "Reuniclus",
+                "Weight": 35.533
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Weight": 33.756
+            },
+            {
+                "Name": "Pikachu",
+                "Weight": 30.133
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 30.112
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 30.103
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 30.097
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 29.62
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 19.842
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 18.156
             }
         ]
     },
@@ -11702,6 +16066,26 @@
             {
                 "Name": "Alakazam",
                 "Weight": 81.567
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 79.709
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 77.699
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 74.698
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 2.543
+            },
+            {
+                "Name": "Metagross",
+                "Weight": 0.9
             }
         ]
     },
@@ -11799,6 +16183,46 @@
             {
                 "Name": "Arcanine",
                 "Weight": 43.493
+            },
+            {
+                "Name": "Vaporeon",
+                "Weight": 42.134
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 41.284
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 39.65
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 31.91
+            },
+            {
+                "Name": "Pikachu",
+                "Weight": 31.444
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 31.423
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 31.412
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 7.932
+            },
+            {
+                "Name": "Roserade",
+                "Weight": 4.745
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 3.881
             }
         ]
     },
@@ -11872,6 +16296,38 @@
             {
                 "Name": "Hippowdon",
                 "Weight": 48.616
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 47.864
+            },
+            {
+                "Name": "Celebi",
+                "Weight": 40.694
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 25.412
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 21.023
+            },
+            {
+                "Name": "Latios",
+                "Weight": 19.869
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 13.153
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 0.974
+            },
+            {
+                "Name": "Kingdra",
+                "Weight": 0.643
             }
         ]
     },
@@ -11969,6 +16425,46 @@
             {
                 "Name": "Mienshao",
                 "Weight": 80.922
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 53.487
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 49.458
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 36.015
+            },
+            {
+                "Name": "Vanilluxe",
+                "Weight": 23.082
+            },
+            {
+                "Name": "Azumarill",
+                "Weight": 22.996
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 19.291
+            },
+            {
+                "Name": "Registeel",
+                "Weight": 7.936
+            },
+            {
+                "Name": "Vaporeon",
+                "Weight": 6.513
+            },
+            {
+                "Name": "Cinccino",
+                "Weight": 3.517
+            },
+            {
+                "Name": "Electivire",
+                "Weight": 1.795
             }
         ]
     },
@@ -12082,6 +16578,46 @@
             {
                 "Name": "Snorlax",
                 "Weight": 32.964
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 32.962
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 32.958
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 32.431
+            },
+            {
+                "Name": "Umbreon",
+                "Weight": 26.238
+            },
+            {
+                "Name": "Primeape",
+                "Weight": 26.176
+            },
+            {
+                "Name": "Magneton",
+                "Weight": 26.117
+            },
+            {
+                "Name": "Exeggutor",
+                "Weight": 12.208
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 11.736
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 11.05
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 10.209
             }
         ]
     },
@@ -12155,6 +16691,46 @@
             {
                 "Name": "Machamp",
                 "Weight": 42.755
+            },
+            {
+                "Name": "Swampert",
+                "Weight": 33.867
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 33.51
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 31.979
+            },
+            {
+                "Name": "Conkeldurr",
+                "Weight": 31.466
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 30.556
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 24.327
+            },
+            {
+                "Name": "Skarmory",
+                "Weight": 12.668
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 10.061
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 9.345
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 6.972
             }
         ]
     },
@@ -12228,6 +16804,22 @@
             {
                 "Name": "Abomasnow",
                 "Weight": 94.132
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 92.775
+            },
+            {
+                "Name": "Heatran",
+                "Weight": 82.924
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 80.893
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 2.776
             }
         ]
     },
@@ -12305,6 +16897,46 @@
             {
                 "Name": "Haxorus",
                 "Weight": 91.227
+            },
+            {
+                "Name": "Chandelure",
+                "Weight": 90.826
+            },
+            {
+                "Name": "Hydreigon",
+                "Weight": 90.368
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 87.07
+            },
+            {
+                "Name": "Sigilyph",
+                "Weight": 4.264
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 4.17
+            },
+            {
+                "Name": "Jumpluff",
+                "Weight": 3.182
+            },
+            {
+                "Name": "Porygon-Z",
+                "Weight": 3.178
+            },
+            {
+                "Name": "Aggron",
+                "Weight": 2.628
+            },
+            {
+                "Name": "Machamp",
+                "Weight": 2.61
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 2.384
             }
         ]
     },
@@ -12402,6 +17034,46 @@
             {
                 "Name": "Infernape",
                 "Weight": 58.466
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 58.326
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 58.097
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 56.601
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 12.996
+            },
+            {
+                "Name": "Gliscor",
+                "Weight": 8.75
+            },
+            {
+                "Name": "Staraptor",
+                "Weight": 5.599
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 4.802
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 4.626
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 4.53
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 3.916
             }
         ]
     },
@@ -12471,6 +17143,18 @@
             {
                 "Name": "Kyurem",
                 "Weight": 96.17
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 96.089
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 73.136
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 69.897
             }
         ]
     },
@@ -12540,6 +17224,38 @@
             {
                 "Name": "Scrafty",
                 "Weight": 94.609
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 93.204
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 92.672
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 58.728
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 4.408
+            },
+            {
+                "Name": "Cradily",
+                "Weight": 4.365
+            },
+            {
+                "Name": "Darmanitan",
+                "Weight": 4.285
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 3.189
+            },
+            {
+                "Name": "Weavile",
+                "Weight": 3.109
             }
         ]
     },
@@ -12601,6 +17317,26 @@
             {
                 "Name": "Scrafty",
                 "Weight": 98.756
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 97.352
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 96.82
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 62.875
+            },
+            {
+                "Name": "Lucario",
+                "Weight": 0.697
+            },
+            {
+                "Name": "Roserade",
+                "Weight": 0.603
             }
         ]
     },
@@ -12694,6 +17430,46 @@
             {
                 "Name": "Primeape",
                 "Weight": 47.795
+            },
+            {
+                "Name": "Magneton",
+                "Weight": 47.736
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 44.058
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 39.449
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 33.351
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 30.792
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 29.999
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 17.706
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 4.893
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 3.401
+            },
+            {
+                "Name": "Ampharos",
+                "Weight": 0.961
             }
         ]
     },
@@ -12767,6 +17543,38 @@
             {
                 "Name": "Hydreigon",
                 "Weight": 82.073
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 81.733
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 78.012
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 77.542
+            },
+            {
+                "Name": "Scrafty",
+                "Weight": 2.169
+            },
+            {
+                "Name": "Carracosta",
+                "Weight": 1.378
+            },
+            {
+                "Name": "Galvantula",
+                "Weight": 0.859
+            },
+            {
+                "Name": "Kingdra",
+                "Weight": 0.808
+            },
+            {
+                "Name": "Roserade",
+                "Weight": 0.576
             }
         ]
     },
@@ -12836,6 +17644,34 @@
             {
                 "Name": "Metagross",
                 "Weight": 61.304
+            },
+            {
+                "Name": "Mamoswine",
+                "Weight": 58.846
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 51.365
+            },
+            {
+                "Name": "Riolu",
+                "Weight": 36.294
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 36.107
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 31.529
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 27.207
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 21.719
             }
         ]
     },
@@ -12937,6 +17773,46 @@
             {
                 "Name": "Infernape",
                 "Weight": 29.852
+            },
+            {
+                "Name": "Haxorus",
+                "Weight": 29.324
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 29.091
+            },
+            {
+                "Name": "Swellow",
+                "Weight": 21.934
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 21.562
+            },
+            {
+                "Name": "Porygon-Z",
+                "Weight": 20.738
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 20.711
+            },
+            {
+                "Name": "Slowking",
+                "Weight": 19.092
+            },
+            {
+                "Name": "Slowbro",
+                "Weight": 18.451
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 16.318
+            },
+            {
+                "Name": "Swampert",
+                "Weight": 13.669
             }
         ]
     },
@@ -13022,6 +17898,38 @@
             {
                 "Name": "Volcarona",
                 "Weight": 67.54
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 57.851
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 54.631
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 49.158
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 18.669
+            },
+            {
+                "Name": "Claydol",
+                "Weight": 16.028
+            },
+            {
+                "Name": "Alakazam",
+                "Weight": 9.928
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 8.631
+            },
+            {
+                "Name": "Scizor",
+                "Weight": 3.11
             }
         ]
     },
@@ -13111,6 +18019,46 @@
             {
                 "Name": "Thundurus-Therian",
                 "Weight": 50.02
+            },
+            {
+                "Name": "Donphan",
+                "Weight": 49.424
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 49.351
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 30.701
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 27.34
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 26.151
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 25.538
+            },
+            {
+                "Name": "Kyurem-Black",
+                "Weight": 22.403
+            },
+            {
+                "Name": "Swellow",
+                "Weight": 6.146
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 5.282
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 4.939
             }
         ]
     },
@@ -13176,6 +18124,18 @@
             {
                 "Name": "Abomasnow",
                 "Weight": 95.429
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 93.899
+            },
+            {
+                "Name": "Keldeo",
+                "Weight": 82.921
+            },
+            {
+                "Name": "Tyranitar",
+                "Weight": 64.05
             }
         ]
     },
@@ -13237,6 +18197,18 @@
             {
                 "Name": "Golbat",
                 "Weight": 88.729
+            },
+            {
+                "Name": "Weezing",
+                "Weight": 88.694
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 86.739
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 73.73
             }
         ]
     },
@@ -13298,6 +18270,18 @@
             {
                 "Name": "Victreebel",
                 "Weight": 89.368
+            },
+            {
+                "Name": "Weezing",
+                "Weight": 89.333
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 87.378
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 74.369
             }
         ]
     },
@@ -13367,6 +18351,18 @@
             {
                 "Name": "Victreebel",
                 "Weight": 89.368
+            },
+            {
+                "Name": "Weezing",
+                "Weight": 89.333
+            },
+            {
+                "Name": "Dugtrio",
+                "Weight": 87.378
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 74.369
             }
         ]
     },
@@ -13436,6 +18432,22 @@
             {
                 "Name": "Snorlax",
                 "Weight": 95.214
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 95.212
+            },
+            {
+                "Name": "Blastoise",
+                "Weight": 95.207
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 94.68
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 94.68
             }
         ]
     },
@@ -13517,6 +18529,46 @@
             {
                 "Name": "Cloyster",
                 "Weight": 47.65
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 46.867
+            },
+            {
+                "Name": "Forretress",
+                "Weight": 43.8
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 34.458
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 33.444
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 32.227
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 26.659
+            },
+            {
+                "Name": "Victini",
+                "Weight": 12.184
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 6.022
+            },
+            {
+                "Name": "Wobbuffet",
+                "Weight": 0.782
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 0.774
             }
         ]
     },
@@ -13606,6 +18658,46 @@
             {
                 "Name": "Cloyster",
                 "Weight": 47.542
+            },
+            {
+                "Name": "Scrafty",
+                "Weight": 45.766
+            },
+            {
+                "Name": "Armaldo",
+                "Weight": 45.715
+            },
+            {
+                "Name": "Breloom",
+                "Weight": 35.153
+            },
+            {
+                "Name": "Rotom-Wash",
+                "Weight": 32.501
+            },
+            {
+                "Name": "Jirachi",
+                "Weight": 27.295
+            },
+            {
+                "Name": "Kingdra",
+                "Weight": 24.444
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 23.593
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 17.148
+            },
+            {
+                "Name": "Azelf",
+                "Weight": 13.722
+            },
+            {
+                "Name": "Dragonite",
+                "Weight": 6.509
             }
         ]
     },
@@ -13671,6 +18763,18 @@
             {
                 "Name": "Haxorus",
                 "Weight": 99.254
+            },
+            {
+                "Name": "Tentacruel",
+                "Weight": 84.985
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 76.717
+            },
+            {
+                "Name": "Politoed",
+                "Weight": 68.893
             }
         ]
     },
@@ -13740,6 +18844,18 @@
             {
                 "Name": "Hippowdon",
                 "Weight": 98.176
+            },
+            {
+                "Name": "Bronzong",
+                "Weight": 96.622
+            },
+            {
+                "Name": "Latias",
+                "Weight": 87.617
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 63.858
             }
         ]
     },
@@ -13821,6 +18937,38 @@
             {
                 "Name": "Charizard",
                 "Weight": 71.397
+            },
+            {
+                "Name": "Magneton",
+                "Weight": 71.361
+            },
+            {
+                "Name": "Starmie",
+                "Weight": 53.623
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 41.331
+            },
+            {
+                "Name": "Rotom-Heat",
+                "Weight": 13.061
+            },
+            {
+                "Name": "Sceptile",
+                "Weight": 12.953
+            },
+            {
+                "Name": "Swampert",
+                "Weight": 12.944
+            },
+            {
+                "Name": "Slaking",
+                "Weight": 12.865
+            },
+            {
+                "Name": "Cofagrigus",
+                "Weight": 11.837
             }
         ]
     },
@@ -13882,6 +19030,18 @@
             {
                 "Name": "Excadrill",
                 "Weight": 88.39
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 76.717
+            },
+            {
+                "Name": "Latios",
+                "Weight": 70.086
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 64.514
             }
         ]
     },
@@ -13967,6 +19127,46 @@
             {
                 "Name": "Entei",
                 "Weight": 87.284
+            },
+            {
+                "Name": "Salamence",
+                "Weight": 86.211
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 66.838
+            },
+            {
+                "Name": "Landorus-Therian",
+                "Weight": 51.96
+            },
+            {
+                "Name": "Sigilyph",
+                "Weight": 6.024
+            },
+            {
+                "Name": "Kingdra",
+                "Weight": 5.732
+            },
+            {
+                "Name": "Ninetales",
+                "Weight": 5.551
+            },
+            {
+                "Name": "Gengar",
+                "Weight": 3.328
+            },
+            {
+                "Name": "Azumarill",
+                "Weight": 2.58
+            },
+            {
+                "Name": "Porygon-Z",
+                "Weight": 2.27
+            },
+            {
+                "Name": "Infernape",
+                "Weight": 2.058
             }
         ]
     },
@@ -14032,6 +19232,22 @@
             {
                 "Name": "Vaporeon",
                 "Weight": 86.297
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 85.805
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 83.659
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 77.398
+            },
+            {
+                "Name": "Carracosta",
+                "Weight": 0.697
             }
         ]
     }

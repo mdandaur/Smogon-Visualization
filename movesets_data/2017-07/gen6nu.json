@@ -57,6 +57,18 @@
             {
                 "Name": "Gastrodon",
                 "Weight": 2.043
+            },
+            {
+                "Name": "Skuntank",
+                "Weight": 2.043
+            },
+            {
+                "Name": "Pyroar",
+                "Weight": 2.043
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 2.043
             }
         ]
     },
@@ -114,6 +126,18 @@
             {
                 "Name": "Pyroar",
                 "Weight": 2.05
+            },
+            {
+                "Name": "Skuntank",
+                "Weight": 2.05
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 2.05
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 2.046
             }
         ]
     },
@@ -183,6 +207,18 @@
             {
                 "Name": "Leafeon",
                 "Weight": 2.18
+            },
+            {
+                "Name": "Skuntank",
+                "Weight": 2.18
+            },
+            {
+                "Name": "Audino-Mega",
+                "Weight": 2.04
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 2.032
             }
         ]
     },
@@ -248,6 +284,18 @@
             {
                 "Name": "Gastrodon",
                 "Weight": 2.18
+            },
+            {
+                "Name": "Skuntank",
+                "Weight": 2.18
+            },
+            {
+                "Name": "Audino-Mega",
+                "Weight": 2.04
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 2.032
             }
         ]
     },
@@ -313,6 +361,18 @@
             {
                 "Name": "Pyroar",
                 "Weight": 2.18
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 2.18
+            },
+            {
+                "Name": "Audino-Mega",
+                "Weight": 2.04
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 2.032
             }
         ]
     },
@@ -378,6 +438,18 @@
             {
                 "Name": "Pyroar",
                 "Weight": 2.18
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 2.18
+            },
+            {
+                "Name": "Audino-Mega",
+                "Weight": 2.04
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 2.032
             }
         ]
     },
@@ -439,6 +511,30 @@
             {
                 "Name": "Magmortar",
                 "Weight": 87.339
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 87.339
+            },
+            {
+                "Name": "Porygon",
+                "Weight": 87.339
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 87.339
+            },
+            {
+                "Name": "Hitmonchan",
+                "Weight": 1.071
+            },
+            {
+                "Name": "Omastar",
+                "Weight": 1.071
+            },
+            {
+                "Name": "Mismagius",
+                "Weight": 1.067
             }
         ]
     },
@@ -500,6 +596,18 @@
             {
                 "Name": "Porygon",
                 "Weight": 88.551
+            },
+            {
+                "Name": "Magmortar",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 88.41
             }
         ]
     },
@@ -565,6 +673,18 @@
             {
                 "Name": "Magmortar",
                 "Weight": 88.551
+            },
+            {
+                "Name": "Porygon",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 88.41
             }
         ]
     },
@@ -630,6 +750,18 @@
             {
                 "Name": "Magmortar",
                 "Weight": 88.551
+            },
+            {
+                "Name": "Rhydon",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Gourgeist-Super",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 88.41
             }
         ]
     },
@@ -679,6 +811,18 @@
             {
                 "Name": "Gourgeist-Super",
                 "Weight": 88.551
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Magmortar",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 88.41
             }
         ]
     },
@@ -748,6 +892,18 @@
             {
                 "Name": "Porygon",
                 "Weight": 88.551
+            },
+            {
+                "Name": "Gourgeist-Super",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 88.551
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 88.41
             }
         ]
     },
@@ -821,6 +977,38 @@
             {
                 "Name": "Omastar",
                 "Weight": 89.184
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 77.735
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 2.775
+            },
+            {
+                "Name": "Smeargle",
+                "Weight": 2.775
+            },
+            {
+                "Name": "Claydol",
+                "Weight": 2.775
+            },
+            {
+                "Name": "Golduck",
+                "Weight": 2.775
+            },
+            {
+                "Name": "Mesprit",
+                "Weight": 2.768
+            },
+            {
+                "Name": "Audino-Mega",
+                "Weight": 0.785
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 0.778
             }
         ]
     },
@@ -886,6 +1074,18 @@
             {
                 "Name": "Mismagius",
                 "Weight": 99.855
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 88.41
+            },
+            {
+                "Name": "Audino-Mega",
+                "Weight": 11.461
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 11.453
             }
         ]
     },
@@ -947,6 +1147,18 @@
             {
                 "Name": "Mismagius",
                 "Weight": 99.855
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 88.41
+            },
+            {
+                "Name": "Audino-Mega",
+                "Weight": 11.461
+            },
+            {
+                "Name": "Archeops",
+                "Weight": 11.453
             }
         ]
     },
@@ -1020,6 +1232,34 @@
             {
                 "Name": "Butterfree",
                 "Weight": 30.743
+            },
+            {
+                "Name": "Ariados",
+                "Weight": 30.743
+            },
+            {
+                "Name": "Vespiquen",
+                "Weight": 30.743
+            },
+            {
+                "Name": "Jynx",
+                "Weight": 18.025
+            },
+            {
+                "Name": "Smeargle",
+                "Weight": 18.025
+            },
+            {
+                "Name": "Claydol",
+                "Weight": 18.025
+            },
+            {
+                "Name": "Golduck",
+                "Weight": 18.025
+            },
+            {
+                "Name": "Mismagius",
+                "Weight": 17.884
             }
         ]
     }

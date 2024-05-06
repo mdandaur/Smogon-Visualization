@@ -1,0 +1,627 @@
+{
+    "Marshadow": {
+        "Name": "Marshadow",
+        "Abilities": [
+            {
+                "Name": "Technician",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Marshadium Z",
+                "Weight": 99.903
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.097
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 99.903
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.097
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Ice Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Sneak",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Spectral Thief",
+                "Weight": 99.903
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 99.903
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.194
+            }
+        ],
+        "Teammates": []
+    },
+    "Genesect": {
+        "Name": "Genesect",
+        "Abilities": [
+            {
+                "Name": "Download",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Chill Drive",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hasty:0/252/0/4/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Iron Head",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blaze Kick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shift Gear",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Techno Blast",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": []
+    },
+    "Vivillon": {
+        "Name": "Vivillon",
+        "Abilities": [
+            {
+                "Name": "Compound Eyes",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Focus Sash",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Quiver Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bug Buzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hurricane",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sleep Powder",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": []
+    },
+    "Blaziken-Mega": {
+        "Name": "Blaziken-Mega",
+        "Abilities": [
+            {
+                "Name": "Speed Boost",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Blazikenite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flare Blitz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "High Jump Kick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": []
+    },
+    "Zygarde": {
+        "Name": "Zygarde",
+        "Abilities": [
+            {
+                "Name": "Power Construct",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:32/252/0/0/0/224",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Extreme Speed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thousand Arrows",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Coil",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": []
+    },
+    "Necrozma-Dawn-Wings": {
+        "Name": "Necrozma-Dawn-Wings",
+        "Abilities": [
+            {
+                "Name": "Prism Armor",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Ultranecrozium Z",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earth Power",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Moongeist Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Photon Geyser",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heat Wave",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": []
+    },
+    "Volcarona": {
+        "Name": "Volcarona",
+        "Abilities": [
+            {
+                "Name": "Flame Body",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swarm",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:4/0/0/252/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Quiver Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fiery Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bug Buzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pelipper",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Electivire",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 69.621
+            }
+        ]
+    },
+    "Garchomp": {
+        "Name": "Garchomp",
+        "Abilities": [
+            {
+                "Name": "Rough Skin",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sand Veil",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Rocky Helmet",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:136/180/60/0/0/132",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Stone Edge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Draco Meteor",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Volcarona",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Electivire",
+                "Weight": 69.621
+            }
+        ]
+    },
+    "Ferrothorn": {
+        "Name": "Ferrothorn",
+        "Abilities": [
+            {
+                "Name": "Iron Barbs",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:208/0/152/0/148/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Leech Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gyro Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pelipper",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Electivire",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 69.621
+            }
+        ]
+    },
+    "Pelipper": {
+        "Name": "Pelipper",
+        "Abilities": [
+            {
+                "Name": "Rain Dish",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Figy Berry",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:100/0/0/252/0/156",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rain Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Air Slash",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Volcarona",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Electivire",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 69.621
+            }
+        ]
+    },
+    "Electivire": {
+        "Name": "Electivire",
+        "Abilities": [
+            {
+                "Name": "Motor Drive",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Vital Spirit",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:4/252/0/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pelipper",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Volcarona",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Garchomp",
+                "Weight": 69.621
+            },
+            {
+                "Name": "Ferrothorn",
+                "Weight": 69.621
+            }
+        ]
+    }
+}

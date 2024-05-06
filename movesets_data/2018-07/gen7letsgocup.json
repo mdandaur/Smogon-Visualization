@@ -1,0 +1,330 @@
+{
+    "Eevee": {
+        "Name": "Eevee",
+        "Abilities": [
+            {
+                "Name": "Adaptability",
+                "Weight": 96.855
+            },
+            {
+                "Name": "Anticipation",
+                "Weight": 1.898
+            },
+            {
+                "Name": "Run Away",
+                "Weight": 1.247
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 40.003
+            },
+            {
+                "Name": "Eevium Z",
+                "Weight": 28.367
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 18.604
+            },
+            {
+                "Name": "Focus Sash",
+                "Weight": 6.813
+            },
+            {
+                "Name": "Normalium Z",
+                "Weight": 3.924
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.289
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:4/252/0/0/0/252",
+                "Weight": 6.493
+            },
+            {
+                "Name": "Impish:252/92/124/0/4/36",
+                "Weight": 5.442
+            },
+            {
+                "Name": "Adamant:0/252/0/0/0/252",
+                "Weight": 5.161
+            },
+            {
+                "Name": "Impish:252/4/252/0/0/0",
+                "Weight": 4.961
+            },
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 2.766
+            },
+            {
+                "Name": "Adamant:252/252/0/0/4/0",
+                "Weight": 2.692
+            },
+            {
+                "Name": "Other",
+                "Weight": 72.484
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Nothing",
+                "Weight": 65.891
+            },
+            {
+                "Name": "Protect",
+                "Weight": 53.016
+            },
+            {
+                "Name": "Last Resort",
+                "Weight": 46.154
+            },
+            {
+                "Name": "Yawn",
+                "Weight": 37.158
+            },
+            {
+                "Name": "Quick Attack",
+                "Weight": 29.995
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 27.394
+            },
+            {
+                "Name": "Return",
+                "Weight": 26.701
+            },
+            {
+                "Name": "Hyper Voice",
+                "Weight": 15.075
+            },
+            {
+                "Name": "Rest",
+                "Weight": 13.671
+            },
+            {
+                "Name": "Stored Power",
+                "Weight": 11.789
+            },
+            {
+                "Name": "Snore",
+                "Weight": 8.815
+            },
+            {
+                "Name": "Wish",
+                "Weight": 8.789
+            },
+            {
+                "Name": "Sleep Talk",
+                "Weight": 6.9
+            },
+            {
+                "Name": "Laser Focus",
+                "Weight": 5.087
+            },
+            {
+                "Name": "Charm",
+                "Weight": 5.008
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 4.821
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 4.623
+            },
+            {
+                "Name": "Curse",
+                "Weight": 3.194
+            },
+            {
+                "Name": "Facade",
+                "Weight": 2.875
+            },
+            {
+                "Name": "Detect",
+                "Weight": 2.795
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 2.684
+            },
+            {
+                "Name": "Other",
+                "Weight": 17.565
+            }
+        ],
+        "Teammates": []
+    },
+    "Pikachu": {
+        "Name": "Pikachu",
+        "Abilities": [
+            {
+                "Name": "Static",
+                "Weight": 70.65
+            },
+            {
+                "Name": "Lightning Rod",
+                "Weight": 29.35
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Light Ball",
+                "Weight": 64.314
+            },
+            {
+                "Name": "Fightinium Z",
+                "Weight": 22.569
+            },
+            {
+                "Name": "Focus Sash",
+                "Weight": 5.815
+            },
+            {
+                "Name": "Eviolite",
+                "Weight": 4.034
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.268
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 19.253
+            },
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 7.818
+            },
+            {
+                "Name": "Jolly:0/252/4/0/0/252",
+                "Weight": 5.572
+            },
+            {
+                "Name": "Adamant:0/252/196/0/0/60",
+                "Weight": 4.513
+            },
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 2.431
+            },
+            {
+                "Name": "Adamant:4/252/252/0/0/0",
+                "Weight": 2.304
+            },
+            {
+                "Name": "Other",
+                "Weight": 58.109
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Volt Tackle",
+                "Weight": 46.058
+            },
+            {
+                "Name": "Extreme Speed",
+                "Weight": 43.14
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 38.749
+            },
+            {
+                "Name": "Protect",
+                "Weight": 35.975
+            },
+            {
+                "Name": "Focus Punch",
+                "Weight": 33.908
+            },
+            {
+                "Name": "Brick Break",
+                "Weight": 32.849
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 21.037
+            },
+            {
+                "Name": "Feint",
+                "Weight": 17.07
+            },
+            {
+                "Name": "Dig",
+                "Weight": 16.294
+            },
+            {
+                "Name": "Quick Attack",
+                "Weight": 15.739
+            },
+            {
+                "Name": "Sleep Talk",
+                "Weight": 13.909
+            },
+            {
+                "Name": "Hidden Power Ground",
+                "Weight": 12.226
+            },
+            {
+                "Name": "Encore",
+                "Weight": 11.394
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 9.271
+            },
+            {
+                "Name": "Return",
+                "Weight": 6.893
+            },
+            {
+                "Name": "Nuzzle",
+                "Weight": 4.169
+            },
+            {
+                "Name": "Counter",
+                "Weight": 4.085
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 3.937
+            },
+            {
+                "Name": "Nothing",
+                "Weight": 3.798
+            },
+            {
+                "Name": "Electric Terrain",
+                "Weight": 3.048
+            },
+            {
+                "Name": "Thunder",
+                "Weight": 2.949
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 2.849
+            },
+            {
+                "Name": "Charm",
+                "Weight": 2.166
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.488
+            }
+        ],
+        "Teammates": []
+    }
+}

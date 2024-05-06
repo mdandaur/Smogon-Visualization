@@ -161,6 +161,10 @@
             {
                 "Name": "Trevenant",
                 "Weight": 1.02
+            },
+            {
+                "Name": "Aromatisse",
+                "Weight": 1.02
             }
         ]
     },
@@ -209,6 +213,10 @@
             },
             {
                 "Name": "Manectric",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Trevenant",
                 "Weight": 1.02
             }
         ]
@@ -271,6 +279,10 @@
             {
                 "Name": "Drapion",
                 "Weight": 1.02
+            },
+            {
+                "Name": "Aromatisse",
+                "Weight": 1.02
             }
         ]
     },
@@ -331,6 +343,10 @@
             },
             {
                 "Name": "Manectric",
+                "Weight": 1.02
+            },
+            {
+                "Name": "Aromatisse",
                 "Weight": 1.02
             }
         ]
@@ -393,6 +409,10 @@
             {
                 "Name": "Virizion",
                 "Weight": 98.98
+            },
+            {
+                "Name": "Cinccino",
+                "Weight": 98.98
             }
         ]
     },
@@ -453,6 +473,10 @@
             },
             {
                 "Name": "Banette-Mega",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Virizion",
                 "Weight": 98.98
             }
         ]
@@ -515,6 +539,10 @@
             {
                 "Name": "Banette-Mega",
                 "Weight": 98.98
+            },
+            {
+                "Name": "Ambipom",
+                "Weight": 98.98
             }
         ]
     },
@@ -571,6 +599,10 @@
             },
             {
                 "Name": "Virizion",
+                "Weight": 98.98
+            },
+            {
+                "Name": "Cinccino",
                 "Weight": 98.98
             }
         ]

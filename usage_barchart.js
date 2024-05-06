@@ -3,6 +3,8 @@
 window.addEventListener("nodeClick", function(event) {
     console.log("File clicked:", event.detail.file);
     DATOS = 'smogon_data/' + event.detail.date + '/' + event.detail.file;
+    console.log(event.detail.date, "date listener")
+    file_json = 'movesets_data/' + event.detail.date + '/' + event.detail.gen + event.detail.format + '.json';
     d3.select("#vis-2").selectAll("*").remove();
 
 
@@ -10,15 +12,16 @@ window.addEventListener("nodeClick", function(event) {
     let useIcons = document.getElementById('useIcons').checked;
 
 
-const WIDTH = 900;
-const HEIGHT = 600;
+const margins = [40, 40, 40, 60];
+
+const WIDTH = 800 + margins[1] + margins[3];
+const HEIGHT = 500 + margins[0] + margins[2];
 
 const SVG = d3
     .select("#vis-2")
     .attr('width', WIDTH)
     .attr('height', HEIGHT);
 
-const margins = [40, 40, 40, 40];
 
 // para las imagenes
 function intToRoman(num) {
@@ -38,19 +41,19 @@ d3.csv(DATOS).then(function(data) {
     console.log(parsed_data);
 
 
-    let max_maximo = d3.max(parsed_data, d =>  Math.max(d['Real %'], d['Usage %']));
-    let min_minimo = d3.min(parsed_data, d => Math.min(d['Real %'], d['Usage %']));
+    let maximo = d3.max(parsed_data, d =>  Math.max(d['Real %'], d['Usage %']));
+    let minimo = d3.min(parsed_data, d => Math.min(d['Real %'], d['Usage %']));
   
     // Definimos las escalas
     let esc_v = d3
       .scaleLinear()
-      .domain([100, 0])
+      .domain([maximo*1.1, 0.9*minimo])
       .range([margins[0], HEIGHT - margins[1]]);
   
     let esc_h = d3
       .scaleBand()
       .domain(parsed_data.map(d => d.Pokemon))
-      .range([margins[2], WIDTH - margins[3]])
+      .range([margins[3], WIDTH - margins[1]])
       .paddingInner(0.5);
 
     // Agregamos un título
@@ -70,13 +73,13 @@ d3.csv(DATOS).then(function(data) {
     SVG
         .append("g")
         .attr("id", "ejeX") // Le damos un ID
-        .attr("transform", `translate(0,${HEIGHT - margins[3]})`) // Trasladamos el G
+        .attr("transform", `translate(0,${HEIGHT - margins[0]})`) // Trasladamos el G
         .call(ejeX); // Usamos call para crear el eje
 
     SVG
         .append("g")
         .attr("id", "ejeY") // Le damos un ID
-        .attr("transform", `translate(${margins[0]-5},0)`) // Trasladamos el G
+        .attr("transform", `translate(${margins[3]-5},0)`) // Trasladamos el G
         .call(ejeY); // Usamos call para crear el eje
 
     //Seleccionamos nuestro Eje X y luego cada línea (los ticks)
@@ -90,7 +93,7 @@ d3.csv(DATOS).then(function(data) {
         d3.select("#ejeX")
         .selectAll("text")
         .attr("font-size", 15) // Le cambiamos su tamaño
-        .attr("transform", `rotate(8)`)
+        .attr("transform", `rotate(8) translate(0, 10)`) 
         .attr("font-family", "monospace")
         .attr("font-weight", "bold");
         d3.select("#ejeY")
@@ -114,9 +117,45 @@ d3.csv(DATOS).then(function(data) {
         .attr("y", d => esc_v(d['Usage %']))
         .attr("width", esc_h.bandwidth()/2)
         .attr("height", d => HEIGHT-esc_v(d['Usage %'])-margins[2])
-        .attr("fill", "yellow");
+        .attr("fill", "yellow")
+        .each(function(d, i) {
+            d3.select(this)
+                .on("mouseover", function(event) { 
+                    d3.select(this).attr("stroke", "#000"); 
+                    let respectiveRealBar = RealBars.selectAll("rect").filter((d, index) => index === i);
+                    respectiveRealBar.attr("stroke", "#000");
+                })
+                .on("mouseout", function(event) { 
+                    d3.select(this).attr("stroke", null);
+                    let respectiveRealBar = RealBars.selectAll("rect").filter((d, index) => index === i);
+                    respectiveRealBar.attr("stroke", null); 
+                })
+                .on("click", function(pokemon_event, d) {
+                    let respectiveRealBar = RealBars.selectAll("rect").filter((d, index) => index === i);
+                    let respectiveImage = Images.selectAll("image").filter((d, index) => index === i);
+                    let respectiveLine = SVG.selectAll("line").filter((d, index) => index === i);
+                    d3.selectAll("rect").attr("opacity", 0.4);
+                    d3.selectAll("image").attr("opacity", 0.4);
+                    d3.selectAll("line").attr("opacity", 0.1);
+                    d3.select(this).attr("opacity", 1);
+                    respectiveRealBar.attr("opacity", 1);
+                    respectiveImage.attr("opacity", 1);
+                    respectiveLine.attr("opacity", 0.7);
+                    let pokemonEvent = new CustomEvent("pokemonClick", {
+                        detail: {
+                            date: pokemon_event.detail.date,
+                            gen: pokemon_event.detail.gen,
+                            format: pokemon_event.detail.format,
+                            pokemon_name: d.Pokemon,
+                            file: file_json
+                        }
+                    });
+                    window.dispatchEvent(pokemonEvent);
+                });
+        });
 
-        const RealBars = SVG.append("g").attr('id', 'RealBars');
+
+    const RealBars = SVG.append("g").attr('id', 'RealBars');
     
     RealBars
         .selectAll("rect")
@@ -126,7 +165,44 @@ d3.csv(DATOS).then(function(data) {
         .attr("y", d => esc_v(d['Real %']))
         .attr("width", esc_h.bandwidth()/2)
         .attr("height", d => HEIGHT-esc_v(d['Real %'])-margins[2])
-        .attr("fill", "green");
+        .attr("fill", "green")
+        .each(function(d, i) {
+            d3.select(this)
+                .on("mouseover", function(event) { 
+                    d3.select(this).attr("stroke", "#000"); 
+                    let respectiveUsageBar = UsageBars.selectAll("rect").filter((d, index) => index === i);
+                    respectiveUsageBar.attr("stroke", "#000");
+                })
+                .on("mouseout", function(event) { 
+                    d3.select(this).attr("stroke", null);
+                    let respectiveUsageBar = UsageBars.selectAll("rect").filter((d, index) => index === i);
+                    respectiveUsageBar.attr("stroke", null); 
+                })
+                .on("click", function(pokemon_event, d) {
+                    let respectiveUsageBar = UsageBars.selectAll("rect").filter((d, index) => index === i);
+                    let respectiveImage = Images.selectAll("image").filter((d, index) => index === i);
+                    let respectiveLine = SVG.selectAll("line").filter((d, index) => index === i);
+                    d3.selectAll("rect").attr("opacity", 0.4);
+                    d3.selectAll("image").attr("opacity", 0.4);
+                    d3.selectAll("line").attr("opacity", 0.1);
+                    d3.select(this).attr("opacity", 1);
+                    respectiveUsageBar.attr("opacity", 1);
+                    respectiveImage.attr("opacity", 1);
+                    respectiveLine.attr("opacity", 0.7);
+                    let pokemonEvent = new CustomEvent("pokemonClick", {
+                        detail: {
+                            date: pokemon_event.detail.date,
+                            gen: pokemon_event.detail.gen,
+                            format: pokemon_event.detail.format,
+                            pokemon_name: d.Pokemon,
+                            file: file_json
+                        }
+                    });
+                    window.dispatchEvent(pokemonEvent);
+                });
+        });
+
+
 
         const Images = SVG.append("g").attr('id', 'Images');
 

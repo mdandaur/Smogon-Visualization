@@ -1,0 +1,1673 @@
+{
+    "Aerodactyl-Mega": {
+        "Name": "Aerodactyl-Mega",
+        "Abilities": [
+            {
+                "Name": "Tough Claws",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Aerodactylite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/0/0/0/0/0",
+                "Weight": 99.418
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.582
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 99.418
+            },
+            {
+                "Name": "Crunch",
+                "Weight": 97.407
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.175
+            }
+        ],
+        "Teammates": []
+    },
+    "Zapdos": {
+        "Name": "Zapdos",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Naive:0/0/0/0/0/0",
+                "Weight": 87.849
+            },
+            {
+                "Name": "Timid:0/0/0/0/0/0",
+                "Weight": 7.18
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.971
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drill Peck",
+                "Weight": 99.522
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 85.927
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.551
+            }
+        ],
+        "Teammates": []
+    },
+    "Venusaur": {
+        "Name": "Venusaur",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Leech Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sleep Powder",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sludge Bomb",
+                "Weight": 99.512
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 99.512
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.977
+            }
+        ],
+        "Teammates": []
+    },
+    "Melmetal": {
+        "Name": "Melmetal",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/0/0/0/0/0",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.48
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Brick Break",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Double Iron Bash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Ice Punch",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.959
+            }
+        ],
+        "Teammates": []
+    },
+    "Raichu-Alola": {
+        "Name": "Raichu-Alola",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunderbolt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": []
+    },
+    "Persian": {
+        "Name": "Persian",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/0/0/0/0/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Headbutt",
+                "Weight": 99.395
+            },
+            {
+                "Name": "Hypnosis",
+                "Weight": 99.395
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.21
+            }
+        ],
+        "Teammates": []
+    },
+    "Rhydon": {
+        "Name": "Rhydon",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/0/0/0/0/0",
+                "Weight": 99.857
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.143
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 99.857
+            },
+            {
+                "Name": "Drill Run",
+                "Weight": 99.857
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.286
+            }
+        ],
+        "Teammates": []
+    },
+    "Alakazam-Mega": {
+        "Name": "Alakazam-Mega",
+        "Abilities": [
+            {
+                "Name": "Trace",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Alakazite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:0/0/0/0/0/0",
+                "Weight": 66.874
+            },
+            {
+                "Name": "Modest:0/0/0/0/0/0",
+                "Weight": 18.391
+            },
+            {
+                "Name": "Timid:0/0/0/0/0/0",
+                "Weight": 14.735
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dazzling Gleam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 85.265
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 81.609
+            },
+            {
+                "Name": "Encore",
+                "Weight": 66.874
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 33.126
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 18.391
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.735
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Muk-Alola",
+                "Weight": 44.408
+            },
+            {
+                "Name": "Persian-Alola",
+                "Weight": 44.408
+            },
+            {
+                "Name": "Dugtrio-Alola",
+                "Weight": 44.408
+            },
+            {
+                "Name": "Eevee-Starter",
+                "Weight": 31.997
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 17.764
+            },
+            {
+                "Name": "Charizard-Mega-Y",
+                "Weight": 17.764
+            },
+            {
+                "Name": "Venusaur-Mega",
+                "Weight": 17.764
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 14.232
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 14.232
+            },
+            {
+                "Name": "Mew",
+                "Weight": 14.232
+            }
+        ]
+    },
+    "Persian-Alola": {
+        "Name": "Persian-Alola",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dark Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Dugtrio-Alola",
+                "Weight": 67.182
+            },
+            {
+                "Name": "Muk-Alola",
+                "Weight": 67.182
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 66.053
+            }
+        ]
+    },
+    "Muk-Alola": {
+        "Name": "Muk-Alola",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/0/0/0/0/0",
+                "Weight": 98.744
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.256
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Crunch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 98.744
+            },
+            {
+                "Name": "Ice Punch",
+                "Weight": 98.744
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.511
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Persian-Alola",
+                "Weight": 66.319
+            },
+            {
+                "Name": "Dugtrio-Alola",
+                "Weight": 66.319
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 65.19
+            }
+        ]
+    },
+    "Dugtrio-Alola": {
+        "Name": "Dugtrio-Alola",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sucker Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Persian-Alola",
+                "Weight": 67.182
+            },
+            {
+                "Name": "Muk-Alola",
+                "Weight": 67.182
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 66.053
+            }
+        ]
+    },
+    "Eevee-Starter": {
+        "Name": "Eevee-Starter",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Relaxed:0/0/0/0/0/0",
+                "Weight": 55.519
+            },
+            {
+                "Name": "Adamant:0/0/0/0/0/0",
+                "Weight": 44.481
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sizzly Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sappy Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Baddy Bad",
+                "Weight": 55.519
+            },
+            {
+                "Name": "Glitzy Glow",
+                "Weight": 55.519
+            },
+            {
+                "Name": "Sparkly Swirl",
+                "Weight": 44.481
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 44.481
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 97.304
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 54.892
+            },
+            {
+                "Name": "Charizard-Mega-Y",
+                "Weight": 54.892
+            },
+            {
+                "Name": "Venusaur-Mega",
+                "Weight": 54.892
+            },
+            {
+                "Name": "Snorlax",
+                "Weight": 43.978
+            },
+            {
+                "Name": "Mew",
+                "Weight": 43.978
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 43.978
+            }
+        ]
+    },
+    "Cloyster": {
+        "Name": "Cloyster",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Surf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shell Smash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-Y",
+                "Weight": 99.373
+            },
+            {
+                "Name": "Venusaur-Mega",
+                "Weight": 99.373
+            },
+            {
+                "Name": "Eevee-Starter",
+                "Weight": 98.871
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 97.304
+            },
+            {
+                "Name": "Aerodactyl-Mega",
+                "Weight": 0.518
+            }
+        ]
+    },
+    "Charizard-Mega-Y": {
+        "Name": "Charizard-Mega-Y",
+        "Abilities": [
+            {
+                "Name": "Drought",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Charizardite Y",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heat Wave",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Cloyster",
+                "Weight": 99.373
+            },
+            {
+                "Name": "Venusaur-Mega",
+                "Weight": 99.373
+            },
+            {
+                "Name": "Eevee-Starter",
+                "Weight": 98.871
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 97.304
+            },
+            {
+                "Name": "Aerodactyl-Mega",
+                "Weight": 0.518
+            }
+        ]
+    },
+    "Venusaur-Mega": {
+        "Name": "Venusaur-Mega",
+        "Abilities": [
+            {
+                "Name": "Thick Fat",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Venusaurite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Power Whip",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Leech Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sleep Powder",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Cloyster",
+                "Weight": 99.373
+            },
+            {
+                "Name": "Charizard-Mega-Y",
+                "Weight": 99.373
+            },
+            {
+                "Name": "Eevee-Starter",
+                "Weight": 98.871
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 97.304
+            },
+            {
+                "Name": "Aerodactyl-Mega",
+                "Weight": 0.518
+            }
+        ]
+    },
+    "Kangaskhan": {
+        "Name": "Kangaskhan",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sucker Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Helping Hand",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Dragonite",
+                "Weight": 99.489
+            },
+            {
+                "Name": "Persian",
+                "Weight": 17.881
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 2.712
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 1.145
+            },
+            {
+                "Name": "Aerodactyl-Mega",
+                "Weight": 0.518
+            }
+        ]
+    },
+    "Dragonite": {
+        "Name": "Dragonite",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Superpower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Outrage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Agility",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Kangaskhan",
+                "Weight": 99.489
+            },
+            {
+                "Name": "Persian",
+                "Weight": 17.881
+            },
+            {
+                "Name": "Venusaur",
+                "Weight": 2.712
+            },
+            {
+                "Name": "Zapdos",
+                "Weight": 1.145
+            },
+            {
+                "Name": "Aerodactyl-Mega",
+                "Weight": 0.518
+            }
+        ]
+    },
+    "Snorlax": {
+        "Name": "Snorlax",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Sassy:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Crunch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mew",
+                "Weight": 99.498
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 99.498
+            },
+            {
+                "Name": "Eevee-Starter",
+                "Weight": 98.871
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 97.304
+            },
+            {
+                "Name": "Melmetal",
+                "Weight": 2.721
+            }
+        ]
+    },
+    "Mew": {
+        "Name": "Mew",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mega Drain",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Snorlax",
+                "Weight": 99.498
+            },
+            {
+                "Name": "Aerodactyl",
+                "Weight": 99.498
+            },
+            {
+                "Name": "Eevee-Starter",
+                "Weight": 98.871
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 97.304
+            },
+            {
+                "Name": "Melmetal",
+                "Weight": 2.721
+            }
+        ]
+    },
+    "Aerodactyl": {
+        "Name": "Aerodactyl",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Crunch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Snorlax",
+                "Weight": 99.498
+            },
+            {
+                "Name": "Mew",
+                "Weight": 99.498
+            },
+            {
+                "Name": "Eevee-Starter",
+                "Weight": 98.871
+            },
+            {
+                "Name": "Alakazam-Mega",
+                "Weight": 97.304
+            },
+            {
+                "Name": "Melmetal",
+                "Weight": 2.721
+            }
+        ]
+    },
+    "Victreebel": {
+        "Name": "Victreebel",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/0/0/0/0/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Power Whip",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Arcanine",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Blastoise-Mega",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 27.046
+            }
+        ]
+    },
+    "Pidgeot": {
+        "Name": "Pidgeot",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heat Wave",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Air Slash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Victreebel",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Blastoise-Mega",
+                "Weight": 27.046
+            }
+        ]
+    },
+    "Blastoise-Mega": {
+        "Name": "Blastoise-Mega",
+        "Abilities": [
+            {
+                "Name": "Mega Launcher",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Blastoisinite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dark Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Victreebel",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 27.046
+            }
+        ]
+    },
+    "Arcanine": {
+        "Name": "Arcanine",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Agility",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flare Blitz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Victreebel",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Blastoise-Mega",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 27.046
+            }
+        ]
+    },
+    "Nidoking": {
+        "Name": "Nidoking",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Tail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Brick Break",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Victreebel",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Blastoise-Mega",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Electrode",
+                "Weight": 27.046
+            }
+        ]
+    },
+    "Electrode": {
+        "Name": "Electrode",
+        "Abilities": [
+            {
+                "Name": "No Ability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Nothing",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hasty:0/0/0/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunderbolt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Explosion",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Light Screen",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Victreebel",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Nidoking",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Pidgeot",
+                "Weight": 27.046
+            },
+            {
+                "Name": "Blastoise-Mega",
+                "Weight": 27.046
+            }
+        ]
+    }
+}

@@ -353,6 +353,14 @@
             {
                 "Name": "Espeon",
                 "Weight": 89.254
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 89.254
+            },
+            {
+                "Name": "Feraligatr",
+                "Weight": 89.254
             }
         ]
     },
@@ -422,6 +430,14 @@
             {
                 "Name": "Feraligatr",
                 "Weight": 89.254
+            },
+            {
+                "Name": "Steelix",
+                "Weight": 89.254
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 89.254
             }
         ]
     },
@@ -482,6 +498,14 @@
             },
             {
                 "Name": "Steelix",
+                "Weight": 89.254
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 89.254
+            },
+            {
+                "Name": "Arcanine",
                 "Weight": 89.254
             }
         ]
@@ -548,6 +572,14 @@
             {
                 "Name": "Ambipom",
                 "Weight": 89.254
+            },
+            {
+                "Name": "Feraligatr",
+                "Weight": 89.254
+            },
+            {
+                "Name": "Espeon",
+                "Weight": 89.254
             }
         ]
     },
@@ -608,6 +640,14 @@
             },
             {
                 "Name": "Steelix",
+                "Weight": 85.977
+            },
+            {
+                "Name": "Ambipom",
+                "Weight": 85.977
+            },
+            {
+                "Name": "Feraligatr",
                 "Weight": 85.977
             }
         ]

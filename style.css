@@ -1,28 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0 auto;
+    padding: 0 20px;
     /* Puedes cambiar el color de fondo (background-color) si lo deseas */
     background-color: lightblue;
     text-align: center;
 }
 
-.row {
+
+
+.vis-1-container {
     display: flex;
     justify-content: center;
-
+    align-items: center;
+    margin: 30px;
 }
 
-.columns {
+.vis-2-container {
     display: flex;
     justify-content: center;
+    margin: 30px;
 }
-
-svg,
-img {
-    border: 1px solid gray;
+.vis-3-container {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
 }
-
-.links{
-    color:black;
+.vis-4-container {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
 }
 
 .tooltip {
