@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <title>Smogon Graph</title>
 </head>
@@ -12,9 +13,13 @@
     <!-- <div id="network-graph">
     <script src="network.js"></script>
     </div> -->
+    <div class="header">
+        <h1>Smogon Stats</h1>
+        <p>Visualización de datos de Smogon</p>
+    </div>
     <div class="input-form-1-container">
     <form id="input-form">
-        <label for="date">Date:</label>
+        <label class="label" for="date">Date:</label>
         <select name="dates" id="date">
             <option value="2017-07">2017</option>
             <option value="2018-07">2018</option>
@@ -24,7 +29,7 @@
             <option value="2022-07">2022</option>
             <option value="2023-07">2023</option>
         </select>
-        <input type="submit" value="Submit">
+        <input class="pixel" type="submit" value="Submit">
     </form>
     </div>
 
@@ -36,7 +41,7 @@
     <div class="input-form-2-container">
         <form id="input-form">
             <input type="checkbox" id="useIcons" name="useIcons" checked>
-            <label for="useIcons">Usar Iconos (recomendado). </label>
+            <label class="label" for="useIcons">Usar Iconos (recomendado). </label>
         </form>
     </div>
 

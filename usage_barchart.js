@@ -1,5 +1,5 @@
 
-// Definí la función que 
+// Definí la función que busca los íconos en PokeApi
 async function fetchPokemonDataAndAddIcons(parsed_data, gen) {
     const responses = await Promise.all(parsed_data.map(d => {
         let pokemonName = d.Pokemon.toLowerCase().replace(' ', '-').replace('.', '').replace("'", '').replace('♀', '-f').replace('♂', '-m');
