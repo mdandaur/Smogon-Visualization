@@ -1,0 +1,2991 @@
+{
+    "Electabuzz": {
+        "Name": "Electabuzz",
+        "Abilities": [
+            {
+                "Name": "Static",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Vital Spirit",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 99.266
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.734
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 51.341
+            },
+            {
+                "Name": "Timid:0/0/4/252/0/252",
+                "Weight": 46.287
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.372
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Volt Switch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 99.008
+            },
+            {
+                "Name": "Focus Blast",
+                "Weight": 97.771
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 74.007
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 23.764
+            },
+            {
+                "Name": "Other",
+                "Weight": 5.45
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Vullaby",
+                "Weight": 90.745
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 75.042
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 55.154
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 46.329
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 46.287
+            },
+            {
+                "Name": "Duosion",
+                "Weight": 28.958
+            },
+            {
+                "Name": "Torracat",
+                "Weight": 27.721
+            },
+            {
+                "Name": "Machoke",
+                "Weight": 27.721
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 24.267
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 16.78
+            },
+            {
+                "Name": "Marshtomp",
+                "Weight": 15.745
+            }
+        ]
+    },
+    "Vullaby": {
+        "Name": "Vullaby",
+        "Abilities": [
+            {
+                "Name": "Overcoat",
+                "Weight": 98.939
+            },
+            {
+                "Name": "Weak Armor",
+                "Weight": 1.061
+            },
+            {
+                "Name": "Big Pecks",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Careful:248/0/136/0/124/0",
+                "Weight": 49.518
+            },
+            {
+                "Name": "Careful:252/0/84/0/172/0",
+                "Weight": 29.656
+            },
+            {
+                "Name": "Impish:252/4/252/0/0/0",
+                "Weight": 16.844
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.982
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Defog",
+                "Weight": 97.08
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 82.094
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 17.906
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.92
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Electabuzz",
+                "Weight": 97.08
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 83.156
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 51.64
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 51.377
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 49.518
+            },
+            {
+                "Name": "Duosion",
+                "Weight": 29.656
+            },
+            {
+                "Name": "Torracat",
+                "Weight": 29.656
+            },
+            {
+                "Name": "Machoke",
+                "Weight": 29.656
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 19.765
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 17.906
+            },
+            {
+                "Name": "Marshtomp",
+                "Weight": 16.844
+            }
+        ]
+    },
+    "Piloswine": {
+        "Name": "Piloswine",
+        "Abilities": [
+            {
+                "Name": "Thick Fat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Oblivious",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 98.514
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.486
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:240/236/0/0/0/32",
+                "Weight": 59.298
+            },
+            {
+                "Name": "Adamant:252/68/0/0/164/24",
+                "Weight": 35.514
+            },
+            {
+                "Name": "Adamant:240/68/0/0/164/36",
+                "Weight": 2.227
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.961
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Icicle Crash",
+                "Weight": 99.817
+            },
+            {
+                "Name": "Ice Shard",
+                "Weight": 99.785
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 98.729
+            },
+            {
+                "Name": "High Horsepower",
+                "Weight": 60.573
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 39.427
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.67
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Vullaby",
+                "Weight": 99.58
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 96.137
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 61.857
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 61.596
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 59.316
+            },
+            {
+                "Name": "Duosion",
+                "Weight": 35.685
+            },
+            {
+                "Name": "Machoke",
+                "Weight": 35.685
+            },
+            {
+                "Name": "Torracat",
+                "Weight": 35.514
+            },
+            {
+                "Name": "Torracat",
+                "Weight": 35.514
+            }
+        ]
+    },
+    "Wartortle": {
+        "Name": "Wartortle",
+        "Abilities": [
+            {
+                "Name": "Torrent",
+                "Weight": 97.886
+            },
+            {
+                "Name": "Rain Dish",
+                "Weight": 2.114
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Impish:252/0/136/0/120/0",
+                "Weight": 81.536
+            },
+            {
+                "Name": "Modest:176/0/0/252/0/80",
+                "Weight": 12.832
+            },
+            {
+                "Name": "Modest:0/0/0/252/4/252",
+                "Weight": 2.114
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.518
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rapid Spin",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flip Turn",
+                "Weight": 85.031
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 85.031
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 83.283
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 14.969
+            },
+            {
+                "Name": "Shell Smash",
+                "Weight": 14.969
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.717
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Electabuzz",
+                "Weight": 97.156
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 85.054
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 85.031
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 81.559
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 81.559
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 15.62
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 14.946
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 14.579
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 14.579
+            }
+        ]
+    },
+    "Raboot": {
+        "Name": "Raboot",
+        "Abilities": [
+            {
+                "Name": "Libero",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blaze",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 91.755
+            },
+            {
+                "Name": "Expert Belt",
+                "Weight": 4.49
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.755
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/4/0/0/252",
+                "Weight": 91.755
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 4.8
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.445
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Flare Blitz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "High Jump Kick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Assurance",
+                "Weight": 91.755
+            },
+            {
+                "Name": "Other",
+                "Weight": 8.245
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Tangela",
+                "Weight": 96.271
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 95.311
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 95.2
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 91.839
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 91.781
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 8.019
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 8.019
+            }
+        ]
+    },
+    "Tangela": {
+        "Name": "Tangela",
+        "Abilities": [
+            {
+                "Name": "Regenerator",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Chlorophyll",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/156/0/72/28",
+                "Weight": 95.309
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.691
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sludge Bomb",
+                "Weight": 99.972
+            },
+            {
+                "Name": "Sleep Powder",
+                "Weight": 95.336
+            },
+            {
+                "Name": "Giga Drain",
+                "Weight": 95.336
+            },
+            {
+                "Name": "Other",
+                "Weight": 9.355
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Raboot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 95.336
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 95.336
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 95.309
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 95.309
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 95.309
+            }
+        ]
+    },
+    "Duosion": {
+        "Name": "Duosion",
+        "Abilities": [
+            {
+                "Name": "Regenerator",
+                "Weight": 95.753
+            },
+            {
+                "Name": "Magic Guard",
+                "Weight": 4.247
+            },
+            {
+                "Name": "Overcoat",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/0/0/212/44",
+                "Weight": 95.176
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.824
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 95.176
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 95.176
+            },
+            {
+                "Name": "Future Sight",
+                "Weight": 95.176
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.472
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Electabuzz",
+                "Weight": 99.423
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 95.636
+            },
+            {
+                "Name": "Machoke",
+                "Weight": 95.636
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 95.176
+            },
+            {
+                "Name": "Torracat",
+                "Weight": 95.176
+            },
+            {
+                "Name": "Torracat",
+                "Weight": 95.176
+            }
+        ]
+    },
+    "Machoke": {
+        "Name": "Machoke",
+        "Abilities": [
+            {
+                "Name": "Guts",
+                "Weight": 100.0
+            },
+            {
+                "Name": "No Guard",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 99.397
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.603
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:88/252/0/0/0/168",
+                "Weight": 99.397
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.603
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heavy Slam",
+                "Weight": 99.397
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 99.397
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.205
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Duosion",
+                "Weight": 99.877
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 99.877
+            },
+            {
+                "Name": "Torracat",
+                "Weight": 99.397
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 99.397
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 99.397
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 99.397
+            }
+        ]
+    },
+    "Torracat": {
+        "Name": "Torracat",
+        "Abilities": [
+            {
+                "Name": "Intimidate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:252/0/172/0/0/84",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Flamethrower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Duosion",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Machoke",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Corsola-Galar": {
+        "Name": "Corsola-Galar",
+        "Abilities": [
+            {
+                "Name": "Cursed Body",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Weak Armor",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/4/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Night Shade",
+                "Weight": 95.103
+            },
+            {
+                "Name": "Strength Sap",
+                "Weight": 95.103
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 91.176
+            },
+            {
+                "Name": "Haze",
+                "Weight": 62.337
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 32.766
+            },
+            {
+                "Name": "Rest",
+                "Weight": 4.897
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.619
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Electabuzz",
+                "Weight": 96.073
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 66.264
+            },
+            {
+                "Name": "Marshtomp",
+                "Weight": 62.337
+            },
+            {
+                "Name": "Togetic",
+                "Weight": 62.337
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 62.337
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 33.736
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 32.766
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 32.766
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 28.839
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 28.839
+            }
+        ]
+    },
+    "Gurdurr": {
+        "Name": "Gurdurr",
+        "Abilities": [
+            {
+                "Name": "Guts",
+                "Weight": 92.602
+            },
+            {
+                "Name": "Iron Fist",
+                "Weight": 4.588
+            },
+            {
+                "Name": "Sheer Force",
+                "Weight": 2.81
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 98.473
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.527
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/252/0/0/4/0",
+                "Weight": 86.618
+            },
+            {
+                "Name": "Adamant:248/20/236/0/0/4",
+                "Weight": 12.59
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.792
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 99.912
+            },
+            {
+                "Name": "Drain Punch",
+                "Weight": 96.412
+            },
+            {
+                "Name": "Mach Punch",
+                "Weight": 88.119
+            },
+            {
+                "Name": "Bulk Up",
+                "Weight": 72.614
+            },
+            {
+                "Name": "Defog",
+                "Weight": 18.461
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 13.255
+            },
+            {
+                "Name": "Other",
+                "Weight": 11.227
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Vullaby",
+                "Weight": 85.204
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 77.385
+            },
+            {
+                "Name": "Marshtomp",
+                "Weight": 72.614
+            },
+            {
+                "Name": "Togetic",
+                "Weight": 72.614
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 72.614
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 18.656
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 13.417
+            },
+            {
+                "Name": "Hattrem",
+                "Weight": 12.603
+            },
+            {
+                "Name": "Frillish",
+                "Weight": 10.446
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 10.446
+            },
+            {
+                "Name": "Linoone-Galar",
+                "Weight": 10.446
+            }
+        ]
+    },
+    "Togetic": {
+        "Name": "Togetic",
+        "Abilities": [
+            {
+                "Name": "Super Luck",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Serene Grace",
+                "Weight": 0.0
+            },
+            {
+                "Name": "Hustle",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.085
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/0/4/252/0",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.085
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dazzling Gleam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.17
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Marshtomp",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 99.915
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 99.915
+            }
+        ]
+    },
+    "Marshtomp": {
+        "Name": "Marshtomp",
+        "Abilities": [
+            {
+                "Name": "Torrent",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Damp",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Careful:252/4/0/0/252/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rest",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Waterfall",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togetic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Roselia": {
+        "Name": "Roselia",
+        "Abilities": [
+            {
+                "Name": "Natural Cure",
+                "Weight": 74.265
+            },
+            {
+                "Name": "Poison Point",
+                "Weight": 25.735
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/4/0/252/0",
+                "Weight": 68.696
+            },
+            {
+                "Name": "Calm:248/0/40/0/180/40",
+                "Weight": 16.383
+            },
+            {
+                "Name": "Calm:252/0/24/0/224/8",
+                "Weight": 9.351
+            },
+            {
+                "Name": "Modest:248/0/0/252/8/0",
+                "Weight": 5.57
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sludge Bomb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Giga Drain",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Synthesis",
+                "Weight": 94.43
+            },
+            {
+                "Name": "Spikes",
+                "Weight": 94.403
+            },
+            {
+                "Name": "Other",
+                "Weight": 11.167
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Wartortle",
+                "Weight": 83.589
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 78.019
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 74.238
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 74.238
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 68.668
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 25.762
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 25.735
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 16.411
+            },
+            {
+                "Name": "Hattrem",
+                "Weight": 16.411
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 16.383
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 16.383
+            }
+        ]
+    },
+    "Thwackey": {
+        "Name": "Thwackey",
+        "Abilities": [
+            {
+                "Name": "Grassy Surge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Overgrow",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 98.131
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.869
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 85.534
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 14.466
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Grassy Glide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 99.779
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 85.534
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 84.107
+            },
+            {
+                "Name": "Wood Hammer",
+                "Weight": 14.245
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.335
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Electabuzz",
+                "Weight": 98.62
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 98.131
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 83.886
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 83.886
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 83.886
+            },
+            {
+                "Name": "Duosion",
+                "Weight": 14.245
+            },
+            {
+                "Name": "Zweilous",
+                "Weight": 14.245
+            },
+            {
+                "Name": "Zweilous",
+                "Weight": 14.245
+            }
+        ]
+    },
+    "Fraxure": {
+        "Name": "Fraxure",
+        "Abilities": [
+            {
+                "Name": "Mold Breaker",
+                "Weight": 93.036
+            },
+            {
+                "Name": "Rivalry",
+                "Weight": 6.964
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 85.855
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 7.181
+            },
+            {
+                "Name": "Eviolite",
+                "Weight": 6.964
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/4/0/0/252",
+                "Weight": 85.855
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 7.181
+            },
+            {
+                "Name": "Adamant:248/252/0/0/8/0",
+                "Weight": 6.964
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "First Impression",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 93.036
+            },
+            {
+                "Name": "Outrage",
+                "Weight": 93.036
+            },
+            {
+                "Name": "Dragon Claw",
+                "Weight": 85.855
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 14.145
+            },
+            {
+                "Name": "Other",
+                "Weight": 13.928
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Wartortle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 92.819
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 92.819
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 85.855
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 85.855
+            },
+            {
+                "Name": "Morgrem",
+                "Weight": 7.181
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 7.181
+            },
+            {
+                "Name": "Charjabug",
+                "Weight": 7.181
+            },
+            {
+                "Name": "Charjabug",
+                "Weight": 7.181
+            }
+        ]
+    },
+    "Hattrem": {
+        "Name": "Hattrem",
+        "Abilities": [
+            {
+                "Name": "Magic Bounce",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Healer",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/204/0/0/52",
+                "Weight": 63.594
+            },
+            {
+                "Name": "Calm:252/0/48/0/188/20",
+                "Weight": 36.298
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.107
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Healing Wish",
+                "Weight": 63.702
+            },
+            {
+                "Name": "Mystical Fire",
+                "Weight": 63.702
+            },
+            {
+                "Name": "Giga Drain",
+                "Weight": 63.594
+            },
+            {
+                "Name": "Rest",
+                "Weight": 36.298
+            },
+            {
+                "Name": "Aromatherapy",
+                "Weight": 36.298
+            },
+            {
+                "Name": "Sleep Talk",
+                "Weight": 36.298
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.107
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Piloswine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 99.893
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 63.702
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 63.594
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 36.298
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 36.298
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 36.298
+            }
+        ]
+    },
+    "Frillish": {
+        "Name": "Frillish",
+        "Abilities": [
+            {
+                "Name": "Cursed Body",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/0/4/252/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Brine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hex",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poipole",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Linoone-Galar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Linoone-Galar",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Linoone-Galar": {
+        "Name": "Linoone-Galar",
+        "Abilities": [
+            {
+                "Name": "Quick Feet",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gluttony",
+                "Weight": 0.0
+            },
+            {
+                "Name": "Pickup",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Flame Orb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/252/0/0/0/4",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Facade",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Parting Shot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Trick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Frillish",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poipole",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poipole",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Poipole": {
+        "Name": "Poipole",
+        "Abilities": [
+            {
+                "Name": "Beast Boost",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Fell Stinger",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gunk Shot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic Spikes",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Iron Tail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Frillish",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Linoone-Galar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tangela",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Clefairy": {
+        "Name": "Clefairy",
+        "Abilities": [
+            {
+                "Name": "Magic Guard",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cute Charm",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/0/4",
+                "Weight": 55.495
+            },
+            {
+                "Name": "Bold:252/0/144/0/112/0",
+                "Weight": 44.505
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Soft-Boiled",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Trick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Moonblast",
+                "Weight": 55.495
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 55.495
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 44.505
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 44.505
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Duosion",
+                "Weight": 55.495
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 55.495
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 55.495
+            },
+            {
+                "Name": "Zweilous",
+                "Weight": 55.495
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 44.505
+            },
+            {
+                "Name": "Vullaby",
+                "Weight": 44.505
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 44.505
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 44.505
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 44.505
+            }
+        ]
+    },
+    "Zweilous": {
+        "Name": "Zweilous",
+        "Abilities": [
+            {
+                "Name": "Hustle",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Crunch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Outrage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Duosion",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Clefairy",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Corsola-Galar",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Drakloak": {
+        "Name": "Drakloak",
+        "Abilities": [
+            {
+                "Name": "Infiltrator",
+                "Weight": 96.924
+            },
+            {
+                "Name": "Cursed Body",
+                "Weight": 3.076
+            },
+            {
+                "Name": "Clear Body",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 94.775
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 3.076
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.149
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 94.775
+            },
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 3.076
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.149
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Shadow Ball",
+                "Weight": 97.185
+            },
+            {
+                "Name": "Draco Meteor",
+                "Weight": 96.924
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 96.924
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 94.775
+            },
+            {
+                "Name": "Other",
+                "Weight": 14.192
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Wartortle",
+                "Weight": 96.924
+            },
+            {
+                "Name": "Lampent",
+                "Weight": 94.775
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 94.775
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 94.775
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 94.775
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 94.775
+            }
+        ]
+    },
+    "Morgrem": {
+        "Name": "Morgrem",
+        "Abilities": [
+            {
+                "Name": "Prankster",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Pickpocket",
+                "Weight": 0.48
+            },
+            {
+                "Name": "Frisk",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.48
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:252/0/0/252/4/0",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.48
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dark Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dazzling Gleam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.959
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Boldore",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Charjabug",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 99.52
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 99.52
+            }
+        ]
+    },
+    "Charjabug": {
+        "Name": "Charjabug",
+        "Abilities": [
+            {
+                "Name": "Battery",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/4/0/0",
+                "Weight": 99.885
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.115
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sticky Web",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Volt Switch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Discharge",
+                "Weight": 99.885
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.115
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Morgrem",
+                "Weight": 99.885
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 99.885
+            },
+            {
+                "Name": "Boldore",
+                "Weight": 99.885
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 99.885
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 99.885
+            }
+        ]
+    },
+    "Boldore": {
+        "Name": "Boldore",
+        "Abilities": [
+            {
+                "Name": "Sturdy",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sand Force",
+                "Weight": 0.0
+            },
+            {
+                "Name": "Weak Armor",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:248/252/0/0/8/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Explosion",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Morgrem",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Charjabug",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Lampent": {
+        "Name": "Lampent",
+        "Abilities": [
+            {
+                "Name": "Infiltrator",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flame Body",
+                "Weight": 0.0
+            },
+            {
+                "Name": "Flash Fire",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/252/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Shadow Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Energy Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Fraxure",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Wartortle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drakloak",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roselia",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Porygon": {
+        "Name": "Porygon",
+        "Abilities": [
+            {
+                "Name": "Download",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Analytic",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Sassy:252/0/4/0/252/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Teleport",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tri Attack",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Trick Room",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Duosion",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Machoke",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Spritzee",
+                "Weight": 79.661
+            }
+        ]
+    },
+    "Spritzee": {
+        "Name": "Spritzee",
+        "Abilities": [
+            {
+                "Name": "Healer",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aroma Veil",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/4/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Trick Room",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Wish",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Draining Kiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psych Up",
+                "Weight": 65.097
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 34.903
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Duosion",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Machoke",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Porygon",
+                "Weight": 79.661
+            },
+            {
+                "Name": "Piloswine",
+                "Weight": 79.661
+            }
+        ]
+    },
+    "Ferroseed": {
+        "Name": "Ferroseed",
+        "Abilities": [
+            {
+                "Name": "Iron Barbs",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Relaxed:252/4/252/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Gyro Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Leech Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Piloswine",
+                "Weight": 29.643
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 29.643
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 29.643
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 29.643
+            },
+            {
+                "Name": "Electabuzz",
+                "Weight": 29.643
+            }
+        ]
+    },
+    "Woobat": {
+        "Name": "Woobat",
+        "Abilities": [
+            {
+                "Name": "Simple",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Unaware",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Defog",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Air Slash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Krokorok",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Combusken",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drakloak",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drakloak",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Krokorok": {
+        "Name": "Krokorok",
+        "Abilities": [
+            {
+                "Name": "Moxie",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Intimidate",
+                "Weight": 0.0
+            },
+            {
+                "Name": "Anger Point",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hone Claws",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Combusken",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Woobat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drakloak",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drakloak",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Combusken": {
+        "Name": "Combusken",
+        "Abilities": [
+            {
+                "Name": "Speed Boost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blaze",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Expert Belt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Brick Break",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blaze Kick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Woobat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drakloak",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Krokorok",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 100.0
+            }
+        ]
+    }
+}

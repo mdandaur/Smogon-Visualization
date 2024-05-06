@@ -1,0 +1,679 @@
+{
+    "Charizard-Mega-X": {
+        "Name": "Charizard-Mega-X",
+        "Abilities": [
+            {
+                "Name": "Tough Claws",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Charizardite X",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:76/76/68/76/80/76",
+                "Weight": 82.44
+            },
+            {
+                "Name": "Hardy:108/96/96/120/88/0",
+                "Weight": 17.56
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dual Wingbeat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hidden Power Fire",
+                "Weight": 82.44
+            },
+            {
+                "Name": "Other",
+                "Weight": 17.56
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 30.272
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 30.272
+            },
+            {
+                "Name": "Gardevoir-Mega",
+                "Weight": 25.298
+            },
+            {
+                "Name": "Sceptile-Mega",
+                "Weight": 25.298
+            },
+            {
+                "Name": "Salamence-Mega",
+                "Weight": 25.298
+            },
+            {
+                "Name": "Gyarados-Mega",
+                "Weight": 4.974
+            },
+            {
+                "Name": "Darkrai",
+                "Weight": 4.974
+            },
+            {
+                "Name": "Mewtwo-Mega-X",
+                "Weight": 4.974
+            }
+        ]
+    },
+    "Greninja-Ash": {
+        "Name": "Greninja-Ash",
+        "Abilities": [
+            {
+                "Name": "Battle Bond",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 74.702
+            },
+            {
+                "Name": "Lum Berry",
+                "Weight": 25.298
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:120/72/84/92/76/64",
+                "Weight": 82.44
+            },
+            {
+                "Name": "Hardy:96/100/92/120/100/0",
+                "Weight": 17.56
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Surf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Water Shuriken",
+                "Weight": 82.44
+            },
+            {
+                "Name": "Other",
+                "Weight": 17.56
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 30.272
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 30.272
+            },
+            {
+                "Name": "Gardevoir-Mega",
+                "Weight": 25.298
+            },
+            {
+                "Name": "Sceptile-Mega",
+                "Weight": 25.298
+            },
+            {
+                "Name": "Salamence-Mega",
+                "Weight": 25.298
+            },
+            {
+                "Name": "Darkrai",
+                "Weight": 4.974
+            },
+            {
+                "Name": "Gyarados-Mega",
+                "Weight": 4.974
+            },
+            {
+                "Name": "Mewtwo-Mega-X",
+                "Weight": 4.974
+            }
+        ]
+    },
+    "Lucario-Mega": {
+        "Name": "Lucario-Mega",
+        "Abilities": [
+            {
+                "Name": "Adaptability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Lucarionite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:104/124/100/100/80/0",
+                "Weight": 59.027
+            },
+            {
+                "Name": "Hardy:136/108/124/132/8/0",
+                "Weight": 40.973
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Extreme Speed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aura Sphere",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 59.027
+            },
+            {
+                "Name": "Blaze Kick",
+                "Weight": 40.973
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 70.632
+            },
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 70.632
+            },
+            {
+                "Name": "Sceptile-Mega",
+                "Weight": 59.027
+            },
+            {
+                "Name": "Gardevoir-Mega",
+                "Weight": 59.027
+            },
+            {
+                "Name": "Salamence-Mega",
+                "Weight": 59.027
+            },
+            {
+                "Name": "Mewtwo-Mega-X",
+                "Weight": 11.605
+            },
+            {
+                "Name": "Darkrai",
+                "Weight": 11.605
+            },
+            {
+                "Name": "Gyarados-Mega",
+                "Weight": 11.605
+            }
+        ]
+    },
+    "Gardevoir-Mega": {
+        "Name": "Gardevoir-Mega",
+        "Abilities": [
+            {
+                "Name": "Pixilate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Gardevoirite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:84/88/88/92/96/60",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hidden Power Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psyshock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Energy Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Sceptile-Mega",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Salamence-Mega",
+                "Weight": 30.687
+            }
+        ]
+    },
+    "Sceptile-Mega": {
+        "Name": "Sceptile-Mega",
+        "Abilities": [
+            {
+                "Name": "Lightning Rod",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Sceptilite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:128/116/108/104/52/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hidden Power Grass",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Energy Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Gardevoir-Mega",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 30.687
+            },
+            {
+                "Name": "Salamence-Mega",
+                "Weight": 30.687
+            }
+        ]
+    },
+    "Salamence-Mega": {
+        "Name": "Salamence-Mega",
+        "Abilities": [
+            {
+                "Name": "Aerilate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Salamencite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:132/96/84/100/84/12",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hone Claws",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Claw",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gardevoir-Mega",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sceptile-Mega",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Gyarados-Mega": {
+        "Name": "Gyarados-Mega",
+        "Abilities": [
+            {
+                "Name": "Mold Breaker",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Gyaradosite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:104/92/92/92/100/28",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hydro Pump",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragon Pulse",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Mewtwo-Mega-X",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Darkrai",
+                "Weight": 28.324
+            }
+        ]
+    },
+    "Darkrai": {
+        "Name": "Darkrai",
+        "Abilities": [
+            {
+                "Name": "Bad Dreams",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Lum Berry",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:128/100/112/116/52/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Night Shade",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dark Void",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Gyarados-Mega",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Mewtwo-Mega-X",
+                "Weight": 28.324
+            }
+        ]
+    },
+    "Mewtwo-Mega-X": {
+        "Name": "Mewtwo-Mega-X",
+        "Abilities": [
+            {
+                "Name": "Steadfast",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Mewtwonite X",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hardy:112/100/100/100/96/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Drain Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aura Sphere",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Energy Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Darkrai",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Charizard-Mega-X",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Gyarados-Mega",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Greninja-Ash",
+                "Weight": 28.324
+            },
+            {
+                "Name": "Lucario-Mega",
+                "Weight": 28.324
+            }
+        ]
+    }
+}

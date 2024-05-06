@@ -1,0 +1,659 @@
+{
+    "Gastrodon": {
+        "Name": "Gastrodon",
+        "Abilities": [
+            {
+                "Name": "Storm Drain",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/4/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Yawn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earth Power",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Arcanine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Togekiss": {
+        "Name": "Togekiss",
+        "Abilities": [
+            {
+                "Name": "Serene Grace",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Lum Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:252/0/0/28/0/228",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Air Slash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dazzling Gleam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Ditto",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gastrodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Dragapult": {
+        "Name": "Dragapult",
+        "Abilities": [
+            {
+                "Name": "Infiltrator",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cursed Body",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Weakness Policy",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:164/236/4/0/12/92",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Fly",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragon Darts",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Steel Wing",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Phantom Force",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gastrodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Ditto": {
+        "Name": "Ditto",
+        "Abilities": [
+            {
+                "Name": "Imposter",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:252/4/252/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Nothing",
+                "Weight": 300.0
+            },
+            {
+                "Name": "Transform",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gastrodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Arcanine": {
+        "Name": "Arcanine",
+        "Abilities": [
+            {
+                "Name": "Intimidate",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flash Fire",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Impish:252/0/156/0/100/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Flare Blitz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Extreme Speed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Morning Sun",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gastrodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magnezone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Magnezone": {
+        "Name": "Magnezone",
+        "Abilities": [
+            {
+                "Name": "Sturdy",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Custap Berry",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/244/252/0/12",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunderbolt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Iron Defense",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Press",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gastrodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ditto",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Arcanine",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Mimikyu": {
+        "Name": "Mimikyu",
+        "Abilities": [
+            {
+                "Name": "Disguise",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Power Herb",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Custap Berry",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Weakness Policy",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:4/252/0/0/0/252",
+                "Weight": 50.0
+            },
+            {
+                "Name": "Jolly:252/0/4/0/0/252",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Adamant:252/252/0/0/4/0",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Curse",
+                "Weight": 50.0
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 50.0
+            },
+            {
+                "Name": "Shadow Sneak",
+                "Weight": 50.0
+            },
+            {
+                "Name": "Phantom Force",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Wood Hammer",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Endure",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Leech Life",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Destiny Bond",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Drain Punch",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 25.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mimikyu",
+                "Weight": 150.0
+            },
+            {
+                "Name": "Zoroark",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Zorua",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Zoroark": {
+        "Name": "Zoroark",
+        "Abilities": [
+            {
+                "Name": "Illusion",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Focus Sash",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:4/0/0/252/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Night Daze",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Counter",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mimikyu",
+                "Weight": 400.0
+            },
+            {
+                "Name": "Zorua",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Zorua": {
+        "Name": "Zorua",
+        "Abilities": [
+            {
+                "Name": "Illusion",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Trick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Memento",
+                "Weight": 100.0
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mimikyu",
+                "Weight": 400.0
+            },
+            {
+                "Name": "Zoroark",
+                "Weight": 100.0
+            }
+        ]
+    }
+}

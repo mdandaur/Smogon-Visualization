@@ -1,7 +1,13 @@
 window.addEventListener("pokemonClick", function(event) {
     console.log("File clicked:", event.detail.pokemon_name);
     DATOS = 'movesets_data/' + event.detail.date + '/' + event.detail.gen + event.detail.format +'.json';
-    pokemon_name = event.detail.pokemon_name;
+    let pokemon_name;  // Declare pokemon_name variable
+    if (event.detail.pokemon_name.startsWith("Tapu")) {
+        pokemon_name = event.detail.pokemon_name.replace("-", " ");
+    }
+    else {
+        pokemon_name = event.detail.pokemon_name;
+    }
 
     d3.json(DATOS).then(data => {
         const margins = [10, 10, 10, 10];

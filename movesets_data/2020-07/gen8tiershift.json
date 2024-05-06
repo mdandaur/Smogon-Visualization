@@ -1,0 +1,3245 @@
+{
+    "Mr. Rime": {
+        "Name": "Mr. Rime",
+        "Abilities": [
+            {
+                "Name": "Screen Cleaner",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 99.993
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.007
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:4/0/0/252/0/252",
+                "Weight": 99.993
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.007
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Freeze-Dry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rapid Spin",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Focus Blast",
+                "Weight": 99.993
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 99.993
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.014
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mawile",
+                "Weight": 27.542
+            },
+            {
+                "Name": "Seaking",
+                "Weight": 14.151
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 14.002
+            },
+            {
+                "Name": "Dubwool",
+                "Weight": 13.391
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 13.391
+            },
+            {
+                "Name": "Morpeko",
+                "Weight": 13.39
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 12.885
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 12.884
+            }
+        ]
+    },
+    "Mawile": {
+        "Name": "Mawile",
+        "Abilities": [
+            {
+                "Name": "Intimidate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Impish:252/0/252/0/4/0",
+                "Weight": 51.381
+            },
+            {
+                "Name": "Impish:252/0/80/0/176/0",
+                "Weight": 48.619
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Rime",
+                "Weight": 27.543
+            },
+            {
+                "Name": "Seaking",
+                "Weight": 14.155
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 14.006
+            },
+            {
+                "Name": "Dubwool",
+                "Weight": 13.394
+            },
+            {
+                "Name": "Gurdurr",
+                "Weight": 13.394
+            },
+            {
+                "Name": "Morpeko",
+                "Weight": 13.393
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 12.888
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 12.888
+            }
+        ]
+    },
+    "Manectric": {
+        "Name": "Manectric",
+        "Abilities": [
+            {
+                "Name": "Lightning Rod",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 73.575
+            },
+            {
+                "Name": "Expert Belt",
+                "Weight": 26.425
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:4/0/0/252/0/252",
+                "Weight": 59.524
+            },
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 26.426
+            },
+            {
+                "Name": "Timid:0/0/4/252/0/252",
+                "Weight": 14.049
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Volt Switch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 99.999
+            },
+            {
+                "Name": "Switcheroo",
+                "Weight": 73.575
+            },
+            {
+                "Name": "Overheat",
+                "Weight": 73.575
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 26.425
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 26.425
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.001
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 24.299
+            },
+            {
+                "Name": "Dubwool",
+                "Weight": 24.299
+            },
+            {
+                "Name": "Morpeko",
+                "Weight": 24.298
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 10.787
+            },
+            {
+                "Name": "Umbreon",
+                "Weight": 10.787
+            },
+            {
+                "Name": "Gourgeist-Super",
+                "Weight": 10.787
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 10.782
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 10.778
+            },
+            {
+                "Name": "Swoobat",
+                "Weight": 5.735
+            },
+            {
+                "Name": "Crustle",
+                "Weight": 5.735
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 5.2
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 4.881
+            }
+        ]
+    },
+    "Pelipper": {
+        "Name": "Pelipper",
+        "Abilities": [
+            {
+                "Name": "Drizzle",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.002
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Relaxed:252/0/252/0/4/0",
+                "Weight": 96.709
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.291
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Hurricane",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.004
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Drednaw",
+                "Weight": 61.506
+            },
+            {
+                "Name": "Seaking",
+                "Weight": 59.483
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 59.334
+            },
+            {
+                "Name": "Mawile",
+                "Weight": 24.257
+            },
+            {
+                "Name": "Rime",
+                "Weight": 24.252
+            },
+            {
+                "Name": "Arctovish",
+                "Weight": 2.023
+            },
+            {
+                "Name": "Mantine",
+                "Weight": 2.023
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 2.023
+            },
+            {
+                "Name": "Barraskewda",
+                "Weight": 2.023
+            }
+        ]
+    },
+    "Drednaw": {
+        "Name": "Drednaw",
+        "Abilities": [
+            {
+                "Name": "Swift Swim",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 96.711
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.289
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Relaxed:4/252/0/0/0/252",
+                "Weight": 96.711
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.289
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Liquidation",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 96.711
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 96.711
+            },
+            {
+                "Name": "Other",
+                "Weight": 6.579
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pelipper",
+                "Weight": 61.507
+            },
+            {
+                "Name": "Seaking",
+                "Weight": 59.485
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 59.336
+            },
+            {
+                "Name": "Mawile",
+                "Weight": 24.259
+            },
+            {
+                "Name": "Rime",
+                "Weight": 24.254
+            },
+            {
+                "Name": "Arctovish",
+                "Weight": 2.023
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 2.023
+            },
+            {
+                "Name": "Mantine",
+                "Weight": 2.023
+            },
+            {
+                "Name": "Barraskewda",
+                "Weight": 2.023
+            }
+        ]
+    },
+    "Liepard": {
+        "Name": "Liepard",
+        "Abilities": [
+            {
+                "Name": "Prankster",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Lagging Tail",
+                "Weight": 99.602
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.398
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Careful:252/0/64/0/192/0",
+                "Weight": 99.602
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.398
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 99.602
+            },
+            {
+                "Name": "Rain Dance",
+                "Weight": 99.602
+            },
+            {
+                "Name": "Encore",
+                "Weight": 99.602
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.195
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Seaking",
+                "Weight": 62.376
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 61.11
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 61.109
+            },
+            {
+                "Name": "Mawile",
+                "Weight": 27.15
+            },
+            {
+                "Name": "Rime",
+                "Weight": 27.145
+            }
+        ]
+    },
+    "Seaking": {
+        "Name": "Seaking",
+        "Abilities": [
+            {
+                "Name": "Swift Swim",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:4/252/0/0/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Megahorn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drill Run",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Waterfall",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Liepard",
+                "Weight": 62.625
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 61.508
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 61.507
+            },
+            {
+                "Name": "Mawile",
+                "Weight": 27.548
+            },
+            {
+                "Name": "Rime",
+                "Weight": 27.544
+            }
+        ]
+    },
+    "Morpeko": {
+        "Name": "Morpeko",
+        "Abilities": [
+            {
+                "Name": "Hunger Switch",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Expert Belt",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.002
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:4/252/0/0/0/252",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.002
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Aura Wheel",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic Fangs",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Seed Bomb",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Brick Break",
+                "Weight": 99.998
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.004
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 64.773
+            },
+            {
+                "Name": "Dubwool",
+                "Weight": 64.773
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.82
+            },
+            {
+                "Name": "Mawile",
+                "Weight": 27.547
+            },
+            {
+                "Name": "Rime",
+                "Weight": 27.542
+            }
+        ]
+    },
+    "Dubwool": {
+        "Name": "Dubwool",
+        "Abilities": [
+            {
+                "Name": "Fluffy",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bulletproof",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Careful:252/0/4/0/252/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Cotton Guard",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rest",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sleep Talk",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Press",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gurdurr",
+                "Weight": 64.774
+            },
+            {
+                "Name": "Morpeko",
+                "Weight": 64.774
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.822
+            },
+            {
+                "Name": "Mawile",
+                "Weight": 27.548
+            },
+            {
+                "Name": "Rime",
+                "Weight": 27.543
+            }
+        ]
+    },
+    "Gurdurr": {
+        "Name": "Gurdurr",
+        "Abilities": [
+            {
+                "Name": "Guts",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Flame Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:140/252/0/0/88/28",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Drain Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mach Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bulk Up",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Dubwool",
+                "Weight": 64.774
+            },
+            {
+                "Name": "Morpeko",
+                "Weight": 64.774
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.822
+            },
+            {
+                "Name": "Mawile",
+                "Weight": 27.548
+            },
+            {
+                "Name": "Rime",
+                "Weight": 27.543
+            }
+        ]
+    },
+    "Charizard": {
+        "Name": "Charizard",
+        "Abilities": [
+            {
+                "Name": "Blaze",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:252/0/0/4/0/252",
+                "Weight": 99.931
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.069
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Defog",
+                "Weight": 99.995
+            },
+            {
+                "Name": "Scorching Sands",
+                "Weight": 99.995
+            },
+            {
+                "Name": "Roost",
+                "Weight": 99.936
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 99.931
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.143
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gourgeist-Super",
+                "Weight": 84.293
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 84.293
+            },
+            {
+                "Name": "Umbreon",
+                "Weight": 84.293
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 84.288
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.758
+            }
+        ]
+    },
+    "Quagsire": {
+        "Name": "Quagsire",
+        "Abilities": [
+            {
+                "Name": "Unaware",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 99.968
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.032
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Relaxed:252/0/252/0/4/0",
+                "Weight": 99.968
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.032
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scald",
+                "Weight": 99.968
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.032
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Leafeon",
+                "Weight": 84.331
+            },
+            {
+                "Name": "Umbreon",
+                "Weight": 84.331
+            },
+            {
+                "Name": "Gourgeist-Super",
+                "Weight": 84.331
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 84.32
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.79
+            }
+        ]
+    },
+    "Gourgeist-Super": {
+        "Name": "Gourgeist-Super",
+        "Abilities": [
+            {
+                "Name": "Frisk",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/252/4/0/0/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rock Smash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Grassy Glide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Sneak",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poltergeist",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Umbreon",
+                "Weight": 84.362
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 84.362
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 84.357
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 84.352
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.822
+            }
+        ]
+    },
+    "Leafeon": {
+        "Name": "Leafeon",
+        "Abilities": [
+            {
+                "Name": "Chlorophyll",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Leaf Guard",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Leaf Blade",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Umbreon",
+                "Weight": 84.362
+            },
+            {
+                "Name": "Gourgeist-Super",
+                "Weight": 84.362
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 84.357
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 84.352
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.822
+            }
+        ]
+    },
+    "Umbreon": {
+        "Name": "Umbreon",
+        "Abilities": [
+            {
+                "Name": "Synchronize",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/4/0/252/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Foul Play",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Wish",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heal Bell",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Gourgeist-Super",
+                "Weight": 84.362
+            },
+            {
+                "Name": "Leafeon",
+                "Weight": 84.362
+            },
+            {
+                "Name": "Quagsire",
+                "Weight": 84.357
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 84.352
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.822
+            }
+        ]
+    },
+    "Silvally-Electric": {
+        "Name": "Silvally-Electric",
+        "Abilities": [
+            {
+                "Name": "RKS System",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Electric Memory",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:248/252/0/0/8/0",
+                "Weight": 88.704
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 11.296
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Fang",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Multi-Attack",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flame Charge",
+                "Weight": 88.704
+            },
+            {
+                "Name": "Other",
+                "Weight": 11.296
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Swoobat",
+                "Weight": 80.389
+            },
+            {
+                "Name": "Crustle",
+                "Weight": 80.389
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 79.854
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 79.535
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 29.525
+            },
+            {
+                "Name": "Golurk",
+                "Weight": 10.238
+            },
+            {
+                "Name": "Heatmor",
+                "Weight": 10.238
+            },
+            {
+                "Name": "Basculin",
+                "Weight": 10.238
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 10.233
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 9.532
+            }
+        ]
+    },
+    "Rapidash-Galar": {
+        "Name": "Rapidash-Galar",
+        "Abilities": [
+            {
+                "Name": "Pastel Veil",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 90.684
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 7.693
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.623
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/4/0/0/252",
+                "Weight": 90.684
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 7.693
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.623
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "High Horsepower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Zen Headbutt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 98.377
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.623
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Hitmontop",
+                "Weight": 83.457
+            },
+            {
+                "Name": "Swoobat",
+                "Weight": 82.37
+            },
+            {
+                "Name": "Crustle",
+                "Weight": 82.37
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 81.311
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 31.506
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 8.452
+            },
+            {
+                "Name": "Boltund",
+                "Weight": 6.987
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 6.987
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 6.987
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 5.929
+            },
+            {
+                "Name": "Bellossom",
+                "Weight": 1.474
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 1.464
+            }
+        ]
+    },
+    "Hitmontop": {
+        "Name": "Hitmontop",
+        "Abilities": [
+            {
+                "Name": "Intimidate",
+                "Weight": 95.628
+            },
+            {
+                "Name": "Technician",
+                "Weight": 4.372
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 98.318
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.682
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:248/252/0/0/8/0",
+                "Weight": 93.947
+            },
+            {
+                "Name": "Adamant:248/252/0/0/0/8",
+                "Weight": 4.372
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.682
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rapid Spin",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 95.628
+            },
+            {
+                "Name": "Bullet Punch",
+                "Weight": 93.947
+            },
+            {
+                "Name": "Other",
+                "Weight": 10.425
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 86.46
+            },
+            {
+                "Name": "Swoobat",
+                "Weight": 85.633
+            },
+            {
+                "Name": "Crustle",
+                "Weight": 85.633
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 84.574
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 34.768
+            },
+            {
+                "Name": "Orbeetle",
+                "Weight": 3.985
+            },
+            {
+                "Name": "Kadabra",
+                "Weight": 3.985
+            },
+            {
+                "Name": "Cubone",
+                "Weight": 3.985
+            },
+            {
+                "Name": "Marill",
+                "Weight": 3.985
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 3.975
+            },
+            {
+                "Name": "Bellossom",
+                "Weight": 1.533
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 1.523
+            }
+        ]
+    },
+    "Swoobat": {
+        "Name": "Swoobat",
+        "Abilities": [
+            {
+                "Name": "Simple",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:248/0/0/8/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Calm Mind",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stored Power",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Air Slash",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Crustle",
+                "Weight": 91.686
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.627
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.822
+            }
+        ]
+    },
+    "Crustle": {
+        "Name": "Crustle",
+        "Abilities": [
+            {
+                "Name": "Sturdy",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Shell Smash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "X-Scissor",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Swoobat",
+                "Weight": 91.686
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.627
+            },
+            {
+                "Name": "Manectric",
+                "Weight": 40.822
+            }
+        ]
+    },
+    "Gourgeist": {
+        "Name": "Gourgeist",
+        "Abilities": [
+            {
+                "Name": "Frisk",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Expert Belt",
+                "Weight": 60.02
+            },
+            {
+                "Name": "Leftovers",
+                "Weight": 39.98
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 60.02
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 39.98
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Giga Drain",
+                "Weight": 60.02
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 60.02
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 60.02
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 60.02
+            },
+            {
+                "Name": "Power Whip",
+                "Weight": 39.98
+            },
+            {
+                "Name": "Leech Seed",
+                "Weight": 39.98
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 39.98
+            },
+            {
+                "Name": "Shadow Sneak",
+                "Weight": 39.98
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Golurk",
+                "Weight": 58.961
+            },
+            {
+                "Name": "Heatmor",
+                "Weight": 58.961
+            },
+            {
+                "Name": "Basculin",
+                "Weight": 58.961
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 58.957
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 50.647
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 39.275
+            },
+            {
+                "Name": "Boltund",
+                "Weight": 39.275
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 39.275
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 39.116
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 30.812
+            }
+        ]
+    },
+    "Barraskewda": {
+        "Name": "Barraskewda",
+        "Abilities": [
+            {
+                "Name": "Swift Swim",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 99.95
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.05
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Liquidation",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic Fangs",
+                "Weight": 99.95
+            },
+            {
+                "Name": "Aqua Jet",
+                "Weight": 99.95
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.1
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Arctovish",
+                "Weight": 98.684
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 98.684
+            },
+            {
+                "Name": "Mantine",
+                "Weight": 98.684
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 61.458
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 61.457
+            }
+        ]
+    },
+    "Mantine": {
+        "Name": "Mantine",
+        "Abilities": [
+            {
+                "Name": "Swift Swim",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hurricane",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Defog",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Arctovish",
+                "Weight": 98.734
+            },
+            {
+                "Name": "Lanturn",
+                "Weight": 98.734
+            },
+            {
+                "Name": "Barraskewda",
+                "Weight": 98.733
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 61.508
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 61.507
+            }
+        ]
+    },
+    "Lanturn": {
+        "Name": "Lanturn",
+        "Abilities": [
+            {
+                "Name": "Volt Absorb",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/0/4/252/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rain Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Volt Switch",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Arctovish",
+                "Weight": 98.734
+            },
+            {
+                "Name": "Mantine",
+                "Weight": 98.734
+            },
+            {
+                "Name": "Barraskewda",
+                "Weight": 98.733
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 61.508
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 61.507
+            }
+        ]
+    },
+    "Arctovish": {
+        "Name": "Arctovish",
+        "Abilities": [
+            {
+                "Name": "Water Absorb",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Crunch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic Fangs",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fishious Rend",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Icicle Crash",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Lanturn",
+                "Weight": 98.734
+            },
+            {
+                "Name": "Mantine",
+                "Weight": 98.734
+            },
+            {
+                "Name": "Barraskewda",
+                "Weight": 98.733
+            },
+            {
+                "Name": "Drednaw",
+                "Weight": 61.508
+            },
+            {
+                "Name": "Pelipper",
+                "Weight": 61.507
+            }
+        ]
+    },
+    "Fraxure": {
+        "Name": "Fraxure",
+        "Abilities": [
+            {
+                "Name": "Mold Breaker",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Lum Berry",
+                "Weight": 99.598
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.402
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 99.598
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.402
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dual Chop",
+                "Weight": 99.598
+            },
+            {
+                "Name": "Aqua Tail",
+                "Weight": 99.598
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.804
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Golurk",
+                "Weight": 98.539
+            },
+            {
+                "Name": "Heatmor",
+                "Weight": 98.539
+            },
+            {
+                "Name": "Basculin",
+                "Weight": 98.539
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 97.834
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.225
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.225
+            }
+        ]
+    },
+    "Heatmor": {
+        "Name": "Heatmor",
+        "Abilities": [
+            {
+                "Name": "White Smoke",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Fire Lash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stomping Tantrum",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Punch",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Golurk",
+                "Weight": 98.941
+            },
+            {
+                "Name": "Basculin",
+                "Weight": 98.941
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 98.937
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 98.236
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.627
+            }
+        ]
+    },
+    "Basculin": {
+        "Name": "Basculin",
+        "Abilities": [
+            {
+                "Name": "Adaptability",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Aqua Jet",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Liquidation",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic Fangs",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Heatmor",
+                "Weight": 98.941
+            },
+            {
+                "Name": "Golurk",
+                "Weight": 98.941
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 98.937
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 98.236
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.627
+            }
+        ]
+    },
+    "Golurk": {
+        "Name": "Golurk",
+        "Abilities": [
+            {
+                "Name": "Iron Fist",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Colbur Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/252/0/0/4/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Shadow Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Magic Coat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Heatmor",
+                "Weight": 98.941
+            },
+            {
+                "Name": "Basculin",
+                "Weight": 98.941
+            },
+            {
+                "Name": "Fraxure",
+                "Weight": 98.937
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 98.236
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.627
+            },
+            {
+                "Name": "Silvally-Electric",
+                "Weight": 90.627
+            }
+        ]
+    },
+    "Scyther": {
+        "Name": "Scyther",
+        "Abilities": [
+            {
+                "Name": "Technician",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 98.842
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.158
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dual Wingbeat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bug Bite",
+                "Weight": 82.777
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 81.619
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 17.223
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.381
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 89.674
+            },
+            {
+                "Name": "Boltund",
+                "Weight": 80.914
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 80.914
+            },
+            {
+                "Name": "Raboot",
+                "Weight": 80.914
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 79.855
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 18.222
+            },
+            {
+                "Name": "Bellossom",
+                "Weight": 17.074
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 8.373
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 1.148
+            },
+            {
+                "Name": "Steelix",
+                "Weight": 1.148
+            },
+            {
+                "Name": "Unfezant",
+                "Weight": 1.148
+            }
+        ]
+    },
+    "Raboot": {
+        "Name": "Raboot",
+        "Abilities": [
+            {
+                "Name": "Libero",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blaze Kick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sucker Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "High Jump Kick",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Boltund",
+                "Weight": 99.295
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 99.295
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 98.236
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            }
+        ]
+    },
+    "Excadrill": {
+        "Name": "Excadrill",
+        "Abilities": [
+            {
+                "Name": "Mold Breaker",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Focus Sash",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/4/0/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rapid Spin",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Raboot",
+                "Weight": 99.295
+            },
+            {
+                "Name": "Boltund",
+                "Weight": 99.295
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 98.236
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            }
+        ]
+    },
+    "Boltund": {
+        "Name": "Boltund",
+        "Abilities": [
+            {
+                "Name": "Strong Jaw",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Crunch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bulk Up",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Fang",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Raboot",
+                "Weight": 99.295
+            },
+            {
+                "Name": "Excadrill",
+                "Weight": 99.295
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Gourgeist",
+                "Weight": 98.236
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            }
+        ]
+    },
+    "Thwackey": {
+        "Name": "Thwackey",
+        "Abilities": [
+            {
+                "Name": "Grassy Surge",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 97.654
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.346
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/252/0/0/4/0",
+                "Weight": 97.654
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.346
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 97.654
+            },
+            {
+                "Name": "Grassy Glide",
+                "Weight": 97.654
+            },
+            {
+                "Name": "Drain Punch",
+                "Weight": 97.654
+            },
+            {
+                "Name": "Other",
+                "Weight": 7.039
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Kadabra",
+                "Weight": 97.267
+            },
+            {
+                "Name": "Orbeetle",
+                "Weight": 97.267
+            },
+            {
+                "Name": "Cubone",
+                "Weight": 97.267
+            },
+            {
+                "Name": "Marill",
+                "Weight": 97.267
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 88.804
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 88.804
+            }
+        ]
+    },
+    "Kadabra": {
+        "Name": "Kadabra",
+        "Abilities": [
+            {
+                "Name": "Magic Guard",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Focus Sash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Energy Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dazzling Gleam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Marill",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Orbeetle",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Cubone",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 99.604
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            }
+        ]
+    },
+    "Marill": {
+        "Name": "Marill",
+        "Abilities": [
+            {
+                "Name": "Huge Power",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/4/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aqua Jet",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Belly Drum",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Kadabra",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Orbeetle",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Cubone",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 99.604
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            }
+        ]
+    },
+    "Orbeetle": {
+        "Name": "Orbeetle",
+        "Abilities": [
+            {
+                "Name": "Frisk",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swarm",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Impish:248/0/252/0/0/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sticky Web",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Press",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Marill",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Kadabra",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Cubone",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 99.604
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            }
+        ]
+    },
+    "Cubone": {
+        "Name": "Cubone",
+        "Abilities": [
+            {
+                "Name": "Battle Armor",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rock Head",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Thick Club",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/4/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Bonemerang",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fire Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunder Punch",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Marill",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Kadabra",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Orbeetle",
+                "Weight": 99.613
+            },
+            {
+                "Name": "Thwackey",
+                "Weight": 99.604
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            }
+        ]
+    },
+    "Jolteon": {
+        "Name": "Jolteon",
+        "Abilities": [
+            {
+                "Name": "Volt Absorb",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Shadow Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Volt Switch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 93.7
+            },
+            {
+                "Name": "Weather Ball",
+                "Weight": 93.7
+            },
+            {
+                "Name": "Other",
+                "Weight": 12.6
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Bellossom",
+                "Weight": 93.551
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 84.85
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 84.532
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 56.325
+            },
+            {
+                "Name": "Toxicroak",
+                "Weight": 6.29
+            },
+            {
+                "Name": "Steelix",
+                "Weight": 6.29
+            },
+            {
+                "Name": "Unfezant",
+                "Weight": 6.29
+            }
+        ]
+    },
+    "Bellossom": {
+        "Name": "Bellossom",
+        "Abilities": [
+            {
+                "Name": "Chlorophyll",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Healer",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/136/120/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Quiver Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sludge Bomb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Moonblast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Giga Drain",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Jolteon",
+                "Weight": 99.841
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Hitmontop",
+                "Weight": 91.15
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Weight": 90.832
+            },
+            {
+                "Name": "Liepard",
+                "Weight": 62.625
+            }
+        ]
+    },
+    "Toxicroak": {
+        "Name": "Toxicroak",
+        "Abilities": [
+            {
+                "Name": "Dry Skin",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Drain Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gunk Shot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bullet Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Unfezant",
+                "Weight": 99.99
+            },
+            {
+                "Name": "Steelix",
+                "Weight": 99.99
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 99.841
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 84.352
+            }
+        ]
+    },
+    "Unfezant": {
+        "Name": "Unfezant",
+        "Abilities": [
+            {
+                "Name": "Super Luck",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Scope Lens",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Night Slash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Work Up",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Brave Bird",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Toxicroak",
+                "Weight": 99.99
+            },
+            {
+                "Name": "Steelix",
+                "Weight": 99.99
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 99.841
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 84.352
+            }
+        ]
+    },
+    "Steelix": {
+        "Name": "Steelix",
+        "Abilities": [
+            {
+                "Name": "Sturdy",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heavy Slam",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Toxicroak",
+                "Weight": 99.99
+            },
+            {
+                "Name": "Unfezant",
+                "Weight": 99.99
+            },
+            {
+                "Name": "Jolteon",
+                "Weight": 99.841
+            },
+            {
+                "Name": "Scyther",
+                "Weight": 99.136
+            },
+            {
+                "Name": "Charizard",
+                "Weight": 84.352
+            }
+        ]
+    }
+}

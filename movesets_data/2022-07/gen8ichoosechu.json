@@ -1,0 +1,590 @@
+{
+    "Pichu": {
+        "Name": "Pichu",
+        "Abilities": [
+            {
+                "Name": "Lightning Rod",
+                "Weight": 96.632
+            },
+            {
+                "Name": "Static",
+                "Weight": 3.368
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Focus Sash",
+                "Weight": 78.515
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 8.763
+            },
+            {
+                "Name": "Eviolite",
+                "Weight": 8.264
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.458
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 31.568
+            },
+            {
+                "Name": "Jolly:0/252/0/0/0/252",
+                "Weight": 19.867
+            },
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 5.937
+            },
+            {
+                "Name": "Impish:252/0/252/0/4/0",
+                "Weight": 4.4
+            },
+            {
+                "Name": "Adamant:4/252/0/0/0/252",
+                "Weight": 4.393
+            },
+            {
+                "Name": "Hasty:0/252/0/0/4/252",
+                "Weight": 4.327
+            },
+            {
+                "Name": "Other",
+                "Weight": 29.508
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Flail",
+                "Weight": 58.841
+            },
+            {
+                "Name": "Encore",
+                "Weight": 55.26
+            },
+            {
+                "Name": "Protect",
+                "Weight": 43.27
+            },
+            {
+                "Name": "Charm",
+                "Weight": 40.147
+            },
+            {
+                "Name": "Endure",
+                "Weight": 36.338
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 31.662
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 31.123
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 23.209
+            },
+            {
+                "Name": "Light Screen",
+                "Weight": 13.729
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 11.628
+            },
+            {
+                "Name": "Wish",
+                "Weight": 9.326
+            },
+            {
+                "Name": "Fling",
+                "Weight": 8.002
+            },
+            {
+                "Name": "Electric Terrain",
+                "Weight": 7.702
+            },
+            {
+                "Name": "Electroweb",
+                "Weight": 7.157
+            },
+            {
+                "Name": "Facade",
+                "Weight": 6.479
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.128
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pikachu",
+                "Weight": 95.647
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 55.411
+            },
+            {
+                "Name": "Raichu-Alola",
+                "Weight": 40.236
+            }
+        ]
+    },
+    "Pikachu": {
+        "Name": "Pikachu",
+        "Abilities": [
+            {
+                "Name": "Lightning Rod",
+                "Weight": 96.51
+            },
+            {
+                "Name": "Static",
+                "Weight": 3.49
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Light Ball",
+                "Weight": 68.615
+            },
+            {
+                "Name": "Eviolite",
+                "Weight": 25.252
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 4.513
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.62
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:0/252/188/0/0/68",
+                "Weight": 12.741
+            },
+            {
+                "Name": "Jolly:252/0/236/0/0/20",
+                "Weight": 10.996
+            },
+            {
+                "Name": "Impish:252/4/252/0/0/0",
+                "Weight": 9.183
+            },
+            {
+                "Name": "Jolly:244/4/4/0/4/252",
+                "Weight": 7.441
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 6.3
+            },
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 5.43
+            },
+            {
+                "Name": "Other",
+                "Weight": 47.909
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 71.238
+            },
+            {
+                "Name": "Dig",
+                "Weight": 48.889
+            },
+            {
+                "Name": "Quick Attack",
+                "Weight": 48.435
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 32.786
+            },
+            {
+                "Name": "Feint",
+                "Weight": 28.895
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 28.804
+            },
+            {
+                "Name": "Wish",
+                "Weight": 28.317
+            },
+            {
+                "Name": "Brick Break",
+                "Weight": 22.871
+            },
+            {
+                "Name": "Mega Kick",
+                "Weight": 21.622
+            },
+            {
+                "Name": "Thief",
+                "Weight": 14.199
+            },
+            {
+                "Name": "Charm",
+                "Weight": 13.998
+            },
+            {
+                "Name": "Encore",
+                "Weight": 9.452
+            },
+            {
+                "Name": "Agility",
+                "Weight": 9.361
+            },
+            {
+                "Name": "Tickle",
+                "Weight": 4.327
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.805
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pichu",
+                "Weight": 95.647
+            },
+            {
+                "Name": "Raichu",
+                "Weight": 55.411
+            },
+            {
+                "Name": "Raichu-Alola",
+                "Weight": 40.236
+            }
+        ]
+    },
+    "Raichu": {
+        "Name": "Raichu",
+        "Abilities": [
+            {
+                "Name": "Lightning Rod",
+                "Weight": 81.482
+            },
+            {
+                "Name": "Static",
+                "Weight": 18.518
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Weakness Policy",
+                "Weight": 51.52
+            },
+            {
+                "Name": "Shuca Berry",
+                "Weight": 13.844
+            },
+            {
+                "Name": "White Herb",
+                "Weight": 11.196
+            },
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 9.313
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 6.792
+            },
+            {
+                "Name": "Aguav Berry",
+                "Weight": 2.38
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.953
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/156/244/0/0/108",
+                "Weight": 22.038
+            },
+            {
+                "Name": "Timid:156/0/252/0/0/100",
+                "Weight": 18.292
+            },
+            {
+                "Name": "Impish:252/140/116/0/0/0",
+                "Weight": 8.272
+            },
+            {
+                "Name": "Jolly:0/124/132/0/0/252",
+                "Weight": 7.599
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 6.919
+            },
+            {
+                "Name": "Timid:148/0/252/0/0/108",
+                "Weight": 6.671
+            },
+            {
+                "Name": "Other",
+                "Weight": 30.208
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dig",
+                "Weight": 99.925
+            },
+            {
+                "Name": "Brick Break",
+                "Weight": 79.563
+            },
+            {
+                "Name": "Giga Impact",
+                "Weight": 69.411
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 33.167
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 28.999
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 16.295
+            },
+            {
+                "Name": "Quick Attack",
+                "Weight": 12.293
+            },
+            {
+                "Name": "Protect",
+                "Weight": 10.986
+            },
+            {
+                "Name": "Feint",
+                "Weight": 10.436
+            },
+            {
+                "Name": "Encore",
+                "Weight": 8.741
+            },
+            {
+                "Name": "Agility",
+                "Weight": 7.354
+            },
+            {
+                "Name": "Iron Tail",
+                "Weight": 7.177
+            },
+            {
+                "Name": "Other",
+                "Weight": 15.652
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pichu",
+                "Weight": 95.748
+            },
+            {
+                "Name": "Pikachu",
+                "Weight": 95.748
+            }
+        ]
+    },
+    "Raichu-Alola": {
+        "Name": "Raichu-Alola",
+        "Abilities": [
+            {
+                "Name": "Surge Surfer",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Shuca Berry",
+                "Weight": 23.909
+            },
+            {
+                "Name": "Leftovers",
+                "Weight": 22.005
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 12.67
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 11.005
+            },
+            {
+                "Name": "Air Balloon",
+                "Weight": 10.063
+            },
+            {
+                "Name": "White Herb",
+                "Weight": 8.355
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 6.403
+            },
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 2.1
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.49
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:20/0/4/228/0/252",
+                "Weight": 15.057
+            },
+            {
+                "Name": "Rash:0/28/228/252/0/0",
+                "Weight": 12.088
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 8.78
+            },
+            {
+                "Name": "Adamant:12/204/252/0/4/36",
+                "Weight": 6.619
+            },
+            {
+                "Name": "Bold:252/0/252/4/0/0",
+                "Weight": 6.451
+            },
+            {
+                "Name": "Naive:4/252/0/0/0/252",
+                "Weight": 5.008
+            },
+            {
+                "Name": "Other",
+                "Weight": 45.997
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dig",
+                "Weight": 47.602
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 42.602
+            },
+            {
+                "Name": "Agility",
+                "Weight": 33.747
+            },
+            {
+                "Name": "Protect",
+                "Weight": 27.61
+            },
+            {
+                "Name": "Stored Power",
+                "Weight": 24.825
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 24.263
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 23.39
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 20.581
+            },
+            {
+                "Name": "Thief",
+                "Weight": 20.492
+            },
+            {
+                "Name": "Psyshock",
+                "Weight": 16.415
+            },
+            {
+                "Name": "Expanding Force",
+                "Weight": 15.233
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 13.4
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 13.326
+            },
+            {
+                "Name": "Feint",
+                "Weight": 13.282
+            },
+            {
+                "Name": "Encore",
+                "Weight": 12.159
+            },
+            {
+                "Name": "Wish",
+                "Weight": 8.346
+            },
+            {
+                "Name": "Brick Break",
+                "Weight": 8.302
+            },
+            {
+                "Name": "Sleep Talk",
+                "Weight": 5.852
+            },
+            {
+                "Name": "Charm",
+                "Weight": 5.602
+            },
+            {
+                "Name": "Surf",
+                "Weight": 4.796
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.173
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Pichu",
+                "Weight": 95.508
+            },
+            {
+                "Name": "Pikachu",
+                "Weight": 95.508
+            }
+        ]
+    }
+}

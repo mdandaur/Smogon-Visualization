@@ -1,0 +1,838 @@
+{
+    "Croconaw": {
+        "Name": "Croconaw",
+        "Abilities": [
+            {
+                "Name": "Sheer Force",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Waterfall",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Bastiodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simipour",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simisage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Lunatone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Hypno": {
+        "Name": "Hypno",
+        "Abilities": [
+            {
+                "Name": "Insomnia",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/0/4/252/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Wish",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Simisage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simipour",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Croconaw",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Lunatone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bastiodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bastiodon",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Bastiodon": {
+        "Name": "Bastiodon",
+        "Abilities": [
+            {
+                "Name": "Sturdy",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Rocky Helmet",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/4/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Lunatone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simipour",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Croconaw",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simisage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simisage",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Simipour": {
+        "Name": "Simipour",
+        "Abilities": [
+            {
+                "Name": "Torrent",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gluttony",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:4/0/0/252/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Surf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Grass Knot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Lunatone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Croconaw",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simisage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bastiodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bastiodon",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Lunatone": {
+        "Name": "Lunatone",
+        "Abilities": [
+            {
+                "Name": "Levitate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:4/0/0/252/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earth Power",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Moonblast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Bastiodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simipour",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Croconaw",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simisage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Simisage": {
+        "Name": "Simisage",
+        "Abilities": [
+            {
+                "Name": "Overgrow",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Gunk Shot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Seed Bomb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Bastiodon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Simipour",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Croconaw",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Lunatone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hypno",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Huntail": {
+        "Name": "Huntail",
+        "Abilities": [
+            {
+                "Name": "Swift Swim",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Water Veil",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "White Herb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/252/4/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Surf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hidden Power Grass",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shell Smash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Whiscash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Persian",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dewgong",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Murkrow",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gourgeist-Large",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gourgeist-Large",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Whiscash": {
+        "Name": "Whiscash",
+        "Abilities": [
+            {
+                "Name": "Anticipation",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Oblivious",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Rindo Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:172/144/0/0/0/192",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dragon Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Waterfall",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Huntail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gourgeist-Large",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Persian",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dewgong",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Murkrow",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Murkrow",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Dewgong": {
+        "Name": "Dewgong",
+        "Abilities": [
+            {
+                "Name": "Thick Fat",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Sassy:252/4/0/0/252/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Perish Song",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Whirlpool",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Whiscash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gourgeist-Large",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Persian",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Huntail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Murkrow",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Murkrow": {
+        "Name": "Murkrow",
+        "Abilities": [
+            {
+                "Name": "Prankster",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Hasty:0/252/0/4/0/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Heat Wave",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sucker Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Pursuit",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Drill Peck",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Whiscash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gourgeist-Large",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Huntail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Persian",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dewgong",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Gourgeist-Large": {
+        "Name": "Gourgeist-Large",
+        "Abilities": [
+            {
+                "Name": "Frisk",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:164/212/104/0/16/12",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Seed Bomb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Foul Play",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Sneak",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flame Charge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Whiscash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Persian",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Huntail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dewgong",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Murkrow",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Murkrow",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Persian": {
+        "Name": "Persian",
+        "Abilities": [
+            {
+                "Name": "Technician",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Silk Scarf",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hidden Power Ghost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Water Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swift",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Nasty Plot",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Whiscash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Gourgeist-Large",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Huntail",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dewgong",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Murkrow",
+                "Weight": 100.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,472 @@
+{
+    "Mankey": {
+        "Name": "Mankey",
+        "Abilities": [
+            {
+                "Name": "Vital Spirit",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Defiant",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/196/0/0/76/196",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Snubbull",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Squirtle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Natu",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ponyta",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Snubbull": {
+        "Name": "Snubbull",
+        "Abilities": [
+            {
+                "Name": "Intimidate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Berry Juice",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Impish:0/116/196/0/196/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bulk Up",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Squirtle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Natu",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mankey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ponyta",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Squirtle": {
+        "Name": "Squirtle",
+        "Abilities": [
+            {
+                "Name": "Torrent",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rain Dish",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Berry Juice",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:72/0/236/36/164/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Scald",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Haze",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rapid Spin",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Snubbull",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ponyta",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Natu",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mankey",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Ponyta": {
+        "Name": "Ponyta",
+        "Abilities": [
+            {
+                "Name": "Flame Body",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flash Fire",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Berry Juice",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Impish:0/156/156/0/156/36",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "High Horsepower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flare Blitz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Morning Sun",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flame Charge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Natu",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Squirtle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mankey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Snubbull",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Snubbull",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Meowth": {
+        "Name": "Meowth",
+        "Abilities": [
+            {
+                "Name": "Technician",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Lonely:0/236/0/36/0/196",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aerial Ace",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Water Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Snubbull",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Squirtle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Natu",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mankey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ponyta",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ponyta",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Natu": {
+        "Name": "Natu",
+        "Abilities": [
+            {
+                "Name": "Magic Bounce",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Berry Juice",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:36/0/0/196/76/196",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Snubbull",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Squirtle",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mankey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ponyta",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Meowth",
+                "Weight": 100.0
+            }
+        ]
+    }
+}

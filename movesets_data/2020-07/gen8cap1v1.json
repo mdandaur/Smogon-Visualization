@@ -1,0 +1,2171 @@
+{
+    "Krilowatt": {
+        "Name": "Krilowatt",
+        "Abilities": [
+            {
+                "Name": "Magic Guard",
+                "Weight": 63.97
+            },
+            {
+                "Name": "Minus",
+                "Weight": 36.03
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 80.862
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 19.138
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:252/0/4/0/252/0",
+                "Weight": 44.832
+            },
+            {
+                "Name": "Timid:252/0/32/0/0/224",
+                "Weight": 36.03
+            },
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 19.138
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 44.832
+            },
+            {
+                "Name": "Counter",
+                "Weight": 44.832
+            },
+            {
+                "Name": "Mirror Coat",
+                "Weight": 44.832
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 44.832
+            },
+            {
+                "Name": "Magnetic Flux",
+                "Weight": 36.03
+            },
+            {
+                "Name": "Imprison",
+                "Weight": 36.03
+            },
+            {
+                "Name": "Rest",
+                "Weight": 36.03
+            },
+            {
+                "Name": "Whirlpool",
+                "Weight": 36.03
+            },
+            {
+                "Name": "Surf",
+                "Weight": 19.138
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 19.138
+            },
+            {
+                "Name": "Earth Power",
+                "Weight": 19.138
+            },
+            {
+                "Name": "Other",
+                "Weight": 19.138
+            }
+        ],
+        "Teammates": []
+    },
+    "Fidgit": {
+        "Name": "Fidgit",
+        "Abilities": [
+            {
+                "Name": "Frisk",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 35.808
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 33.914
+            },
+            {
+                "Name": "Choice Band",
+                "Weight": 30.278
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:252/0/4/0/0/252",
+                "Weight": 35.808
+            },
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 33.914
+            },
+            {
+                "Name": "Adamant:252/252/4/0/0/0",
+                "Weight": 30.278
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sludge Wave",
+                "Weight": 54.243
+            },
+            {
+                "Name": "Earth Power",
+                "Weight": 49.393
+            },
+            {
+                "Name": "Protect",
+                "Weight": 35.808
+            },
+            {
+                "Name": "Disable",
+                "Weight": 35.808
+            },
+            {
+                "Name": "Encore",
+                "Weight": 35.808
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 33.914
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 33.914
+            },
+            {
+                "Name": "Gunk Shot",
+                "Weight": 30.278
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 30.278
+            },
+            {
+                "Name": "Giga Impact",
+                "Weight": 30.278
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 30.278
+            }
+        ],
+        "Teammates": []
+    },
+    "Necturna": {
+        "Name": "Necturna",
+        "Abilities": [
+            {
+                "Name": "Forewarn",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 37.166
+            },
+            {
+                "Name": "Choice Band",
+                "Weight": 32.604
+            },
+            {
+                "Name": "Leftovers",
+                "Weight": 30.23
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:232/36/0/0/56/184",
+                "Weight": 37.166
+            },
+            {
+                "Name": "Adamant:248/92/156/0/12/0",
+                "Weight": 32.604
+            },
+            {
+                "Name": "Calm:248/0/160/0/100/0",
+                "Weight": 30.23
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Power Whip",
+                "Weight": 69.77
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 67.396
+            },
+            {
+                "Name": "Shadow Claw",
+                "Weight": 37.166
+            },
+            {
+                "Name": "Shell Smash",
+                "Weight": 37.166
+            },
+            {
+                "Name": "Brave Bird",
+                "Weight": 32.604
+            },
+            {
+                "Name": "Shadow Sneak",
+                "Weight": 32.604
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 32.604
+            },
+            {
+                "Name": "Leech Seed",
+                "Weight": 30.23
+            },
+            {
+                "Name": "Spore",
+                "Weight": 30.23
+            },
+            {
+                "Name": "Hex",
+                "Weight": 30.23
+            }
+        ],
+        "Teammates": []
+    },
+    "Mollux": {
+        "Name": "Mollux",
+        "Abilities": [
+            {
+                "Name": "Dry Skin",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Power Herb",
+                "Weight": 42.318
+            },
+            {
+                "Name": "Air Balloon",
+                "Weight": 33.162
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 24.52
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:252/0/0/8/136/112",
+                "Weight": 42.318
+            },
+            {
+                "Name": "Bold:252/0/148/0/108/0",
+                "Weight": 33.162
+            },
+            {
+                "Name": "Modest:92/0/164/0/0/252",
+                "Weight": 24.52
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sludge Wave",
+                "Weight": 42.318
+            },
+            {
+                "Name": "Overheat",
+                "Weight": 42.318
+            },
+            {
+                "Name": "Solar Beam",
+                "Weight": 42.318
+            },
+            {
+                "Name": "Thunder",
+                "Weight": 42.318
+            },
+            {
+                "Name": "Lava Plume",
+                "Weight": 33.162
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 33.162
+            },
+            {
+                "Name": "Acid Armor",
+                "Weight": 33.162
+            },
+            {
+                "Name": "Recover",
+                "Weight": 33.162
+            },
+            {
+                "Name": "Sludge Bomb",
+                "Weight": 24.52
+            },
+            {
+                "Name": "Eruption",
+                "Weight": 24.52
+            },
+            {
+                "Name": "Trick",
+                "Weight": 24.52
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 24.52
+            }
+        ],
+        "Teammates": []
+    },
+    "Kitsunoh": {
+        "Name": "Kitsunoh",
+        "Abilities": [
+            {
+                "Name": "Iron Fist",
+                "Weight": 73.08
+            },
+            {
+                "Name": "Frisk",
+                "Weight": 26.92
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 39.782
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 33.299
+            },
+            {
+                "Name": "Shuca Berry",
+                "Weight": 26.92
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 73.08
+            },
+            {
+                "Name": "Impish:252/0/252/0/4/0",
+                "Weight": 26.92
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Meteor Mash",
+                "Weight": 73.08
+            },
+            {
+                "Name": "Shadow Strike",
+                "Weight": 66.701
+            },
+            {
+                "Name": "Trick",
+                "Weight": 39.782
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 39.782
+            },
+            {
+                "Name": "Ice Punch",
+                "Weight": 33.299
+            },
+            {
+                "Name": "Shadow Sneak",
+                "Weight": 33.299
+            },
+            {
+                "Name": "Thunder Punch",
+                "Weight": 33.299
+            },
+            {
+                "Name": "Protect",
+                "Weight": 26.92
+            },
+            {
+                "Name": "Wish",
+                "Weight": 26.92
+            },
+            {
+                "Name": "Torment",
+                "Weight": 26.92
+            }
+        ],
+        "Teammates": []
+    },
+    "Arghonaut": {
+        "Name": "Arghonaut",
+        "Abilities": [
+            {
+                "Name": "Technician",
+                "Weight": 63.849
+            },
+            {
+                "Name": "Unaware",
+                "Weight": 36.151
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 38.282
+            },
+            {
+                "Name": "Wacan Berry",
+                "Weight": 36.151
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 25.567
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/204/0/0/52/0",
+                "Weight": 38.282
+            },
+            {
+                "Name": "Careful:252/4/0/0/252/0",
+                "Weight": 36.151
+            },
+            {
+                "Name": "Adamant:252/176/0/0/80/0",
+                "Weight": 25.567
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Waterfall",
+                "Weight": 74.433
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 63.849
+            },
+            {
+                "Name": "Mach Punch",
+                "Weight": 63.849
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 63.849
+            },
+            {
+                "Name": "Protect",
+                "Weight": 36.151
+            },
+            {
+                "Name": "Focus Punch",
+                "Weight": 36.151
+            },
+            {
+                "Name": "Yawn",
+                "Weight": 36.151
+            },
+            {
+                "Name": "Aqua Jet",
+                "Weight": 25.567
+            }
+        ],
+        "Teammates": []
+    },
+    "Cawmodore": {
+        "Name": "Cawmodore",
+        "Abilities": [
+            {
+                "Name": "Volt Absorb",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 31.808
+            },
+            {
+                "Name": "Petaya Berry",
+                "Weight": 26.943
+            },
+            {
+                "Name": "Choice Band",
+                "Weight": 22.374
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 18.875
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:28/252/0/0/0/228",
+                "Weight": 54.182
+            },
+            {
+                "Name": "Timid:0/28/0/252/0/228",
+                "Weight": 26.943
+            },
+            {
+                "Name": "Timid:0/0/28/252/0/228",
+                "Weight": 18.875
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Bullet Punch",
+                "Weight": 54.182
+            },
+            {
+                "Name": "Drain Punch",
+                "Weight": 31.808
+            },
+            {
+                "Name": "Belly Drum",
+                "Weight": 31.808
+            },
+            {
+                "Name": "Acrobatics",
+                "Weight": 31.808
+            },
+            {
+                "Name": "Belch",
+                "Weight": 26.943
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 26.943
+            },
+            {
+                "Name": "Metal Sound",
+                "Weight": 26.943
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 26.943
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 22.374
+            },
+            {
+                "Name": "Drill Peck",
+                "Weight": 22.374
+            },
+            {
+                "Name": "Iron Head",
+                "Weight": 22.374
+            },
+            {
+                "Name": "Surf",
+                "Weight": 18.875
+            },
+            {
+                "Name": "Hurricane",
+                "Weight": 18.875
+            },
+            {
+                "Name": "Steel Beam",
+                "Weight": 18.875
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.875
+            }
+        ],
+        "Teammates": []
+    },
+    "Cyclohm": {
+        "Name": "Cyclohm",
+        "Abilities": [
+            {
+                "Name": "Shield Dust",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 56.848
+            },
+            {
+                "Name": "Kee Berry",
+                "Weight": 43.152
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:216/0/0/100/40/152",
+                "Weight": 56.848
+            },
+            {
+                "Name": "Calm:252/0/0/0/252/4",
+                "Weight": 43.152
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunderbolt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Draco Meteor",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Surf",
+                "Weight": 56.848
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 56.848
+            },
+            {
+                "Name": "Slack Off",
+                "Weight": 43.152
+            },
+            {
+                "Name": "Charge",
+                "Weight": 43.152
+            }
+        ],
+        "Teammates": []
+    },
+    "Kerfluffle": {
+        "Name": "Kerfluffle",
+        "Abilities": [
+            {
+                "Name": "Aroma Veil",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Petaya Berry",
+                "Weight": 37.155
+            },
+            {
+                "Name": "Babiri Berry",
+                "Weight": 31.61
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 31.235
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:200/0/0/0/88/220",
+                "Weight": 37.155
+            },
+            {
+                "Name": "Calm:248/0/8/0/252/0",
+                "Weight": 31.61
+            },
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 31.235
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Moonblast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 68.765
+            },
+            {
+                "Name": "Dream Eater",
+                "Weight": 37.155
+            },
+            {
+                "Name": "Yawn",
+                "Weight": 37.155
+            },
+            {
+                "Name": "Wish",
+                "Weight": 31.61
+            },
+            {
+                "Name": "Torment",
+                "Weight": 31.61
+            },
+            {
+                "Name": "Sludge Wave",
+                "Weight": 31.235
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 31.235
+            },
+            {
+                "Name": "Focus Blast",
+                "Weight": 31.235
+            }
+        ],
+        "Teammates": []
+    },
+    "Revenankh": {
+        "Name": "Revenankh",
+        "Abilities": [
+            {
+                "Name": "Triage",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 50.057
+            },
+            {
+                "Name": "Choice Band",
+                "Weight": 49.943
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:100/252/0/0/0/156",
+                "Weight": 50.057
+            },
+            {
+                "Name": "Adamant:252/152/28/0/76/0",
+                "Weight": 49.943
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Drain Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 50.057
+            },
+            {
+                "Name": "Glare",
+                "Weight": 50.057
+            },
+            {
+                "Name": "Rock Slide",
+                "Weight": 50.057
+            },
+            {
+                "Name": "Trick",
+                "Weight": 49.943
+            },
+            {
+                "Name": "Shadow Claw",
+                "Weight": 49.943
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 49.943
+            }
+        ],
+        "Teammates": []
+    },
+    "Caribolt": {
+        "Name": "Caribolt",
+        "Abilities": [
+            {
+                "Name": "Galvanize",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 46.765
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 30.57
+            },
+            {
+                "Name": "Magnet",
+                "Weight": 22.665
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 46.765
+            },
+            {
+                "Name": "Jolly:96/252/0/0/0/160",
+                "Weight": 30.57
+            },
+            {
+                "Name": "Jolly:0/252/4/0/0/252",
+                "Weight": 22.665
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Swords Dance",
+                "Weight": 53.235
+            },
+            {
+                "Name": "Boomburst",
+                "Weight": 46.765
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 46.765
+            },
+            {
+                "Name": "Energy Ball",
+                "Weight": 46.765
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 46.765
+            },
+            {
+                "Name": "Horn Leech",
+                "Weight": 39.603
+            },
+            {
+                "Name": "Rapid Spin",
+                "Weight": 30.57
+            },
+            {
+                "Name": "Giga Impact",
+                "Weight": 30.57
+            },
+            {
+                "Name": "Double-Edge",
+                "Weight": 22.665
+            },
+            {
+                "Name": "Quick Attack",
+                "Weight": 22.665
+            },
+            {
+                "Name": "Other",
+                "Weight": 13.631
+            }
+        ],
+        "Teammates": []
+    },
+    "Astrolotl": {
+        "Name": "Astrolotl",
+        "Abilities": [
+            {
+                "Name": "Vital Spirit",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Shuca Berry",
+                "Weight": 39.594
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 37.148
+            },
+            {
+                "Name": "Choice Band",
+                "Weight": 23.258
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:252/0/0/0/32/224",
+                "Weight": 39.594
+            },
+            {
+                "Name": "Timid:32/0/0/252/0/224",
+                "Weight": 37.148
+            },
+            {
+                "Name": "Jolly:32/252/0/0/0/224",
+                "Weight": 23.258
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Trick",
+                "Weight": 60.406
+            },
+            {
+                "Name": "Protect",
+                "Weight": 39.594
+            },
+            {
+                "Name": "Fire Lash",
+                "Weight": 39.594
+            },
+            {
+                "Name": "Wish",
+                "Weight": 39.594
+            },
+            {
+                "Name": "Yawn",
+                "Weight": 39.594
+            },
+            {
+                "Name": "Overheat",
+                "Weight": 37.148
+            },
+            {
+                "Name": "Dazzling Gleam",
+                "Weight": 37.148
+            },
+            {
+                "Name": "Draco Meteor",
+                "Weight": 37.148
+            },
+            {
+                "Name": "Stomping Tantrum",
+                "Weight": 23.258
+            },
+            {
+                "Name": "Flare Blitz",
+                "Weight": 23.258
+            },
+            {
+                "Name": "Outrage",
+                "Weight": 23.258
+            }
+        ],
+        "Teammates": []
+    },
+    "Voodoom": {
+        "Name": "Voodoom",
+        "Abilities": [
+            {
+                "Name": "Lightning Rod",
+                "Weight": 74.415
+            },
+            {
+                "Name": "Volt Absorb",
+                "Weight": 25.585
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 40.115
+            },
+            {
+                "Name": "Chople Berry",
+                "Weight": 34.301
+            },
+            {
+                "Name": "Lum Berry",
+                "Weight": 25.585
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 40.115
+            },
+            {
+                "Name": "Timid:32/0/0/252/0/224",
+                "Weight": 34.301
+            },
+            {
+                "Name": "Timid:248/0/0/36/0/224",
+                "Weight": 25.585
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Dark Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 74.415
+            },
+            {
+                "Name": "Focus Blast",
+                "Weight": 74.415
+            },
+            {
+                "Name": "Aura Sphere",
+                "Weight": 40.115
+            },
+            {
+                "Name": "Charge",
+                "Weight": 34.301
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 25.585
+            },
+            {
+                "Name": "Acupressure",
+                "Weight": 25.585
+            },
+            {
+                "Name": "Pain Split",
+                "Weight": 25.585
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Smokomodo",
+                "Weight": 2.136
+            }
+        ]
+    },
+    "Syclant": {
+        "Name": "Syclant",
+        "Abilities": [
+            {
+                "Name": "Compound Eyes",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 41.426
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 30.877
+            },
+            {
+                "Name": "Choice Band",
+                "Weight": 27.697
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:16/0/0/252/0/240",
+                "Weight": 72.303
+            },
+            {
+                "Name": "Adamant:16/252/0/0/0/240",
+                "Weight": 27.697
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Blizzard",
+                "Weight": 72.303
+            },
+            {
+                "Name": "Focus Blast",
+                "Weight": 72.303
+            },
+            {
+                "Name": "Bug Buzz",
+                "Weight": 72.303
+            },
+            {
+                "Name": "Earth Power",
+                "Weight": 41.426
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 30.877
+            },
+            {
+                "Name": "Icicle Crash",
+                "Weight": 27.697
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 27.697
+            },
+            {
+                "Name": "Leech Life",
+                "Weight": 27.697
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 27.697
+            }
+        ],
+        "Teammates": []
+    },
+    "Volkraken": {
+        "Name": "Volkraken",
+        "Abilities": [
+            {
+                "Name": "Analytic",
+                "Weight": 87.309
+            },
+            {
+                "Name": "Infiltrator",
+                "Weight": 12.691
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Air Balloon",
+                "Weight": 39.504
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 38.555
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 21.94
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:248/0/8/0/252/0",
+                "Weight": 39.504
+            },
+            {
+                "Name": "Quiet:252/0/4/252/0/0",
+                "Weight": 38.555
+            },
+            {
+                "Name": "Modest:248/0/0/56/0/204",
+                "Weight": 21.94
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Power Gem",
+                "Weight": 60.496
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 60.496
+            },
+            {
+                "Name": "Overheat",
+                "Weight": 51.553
+            },
+            {
+                "Name": "Scald",
+                "Weight": 39.504
+            },
+            {
+                "Name": "Reflect Type",
+                "Weight": 39.504
+            },
+            {
+                "Name": "Will-O-Wisp",
+                "Weight": 39.504
+            },
+            {
+                "Name": "Flamethrower",
+                "Weight": 39.504
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 38.555
+            },
+            {
+                "Name": "Surf",
+                "Weight": 21.94
+            },
+            {
+                "Name": "Other",
+                "Weight": 8.942
+            }
+        ],
+        "Teammates": []
+    },
+    "Stratagem": {
+        "Name": "Stratagem",
+        "Abilities": [
+            {
+                "Name": "Levitate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 46.123
+            },
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 28.758
+            },
+            {
+                "Name": "Passho Berry",
+                "Weight": 25.118
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Paleo Wave",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 66.664
+            },
+            {
+                "Name": "Dazzling Gleam",
+                "Weight": 58.56
+            },
+            {
+                "Name": "Disable",
+                "Weight": 53.877
+            },
+            {
+                "Name": "Earth Power",
+                "Weight": 46.123
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 29.306
+            },
+            {
+                "Name": "Protect",
+                "Weight": 24.571
+            },
+            {
+                "Name": "Trick",
+                "Weight": 20.899
+            }
+        ],
+        "Teammates": []
+    },
+    "Jumbao": {
+        "Name": "Jumbao",
+        "Abilities": [
+            {
+                "Name": "Drought",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 65.612
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 34.388
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:88/0/0/252/0/168",
+                "Weight": 65.612
+            },
+            {
+                "Name": "Timid:216/0/92/32/0/168",
+                "Weight": 34.388
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Moonblast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Leaf Storm",
+                "Weight": 65.612
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 65.612
+            },
+            {
+                "Name": "Synthesis",
+                "Weight": 65.612
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 34.388
+            },
+            {
+                "Name": "Focus Blast",
+                "Weight": 34.388
+            },
+            {
+                "Name": "Solar Beam",
+                "Weight": 34.388
+            }
+        ],
+        "Teammates": []
+    },
+    "Colossoil": {
+        "Name": "Colossoil",
+        "Abilities": [
+            {
+                "Name": "Guts",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Flame Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/252/0/0/0/4",
+                "Weight": 54.587
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 45.413
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Crunch",
+                "Weight": 54.587
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 54.587
+            },
+            {
+                "Name": "Rock Tomb",
+                "Weight": 54.587
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 45.413
+            },
+            {
+                "Name": "Fake Out",
+                "Weight": 45.413
+            },
+            {
+                "Name": "Facade",
+                "Weight": 23.882
+            },
+            {
+                "Name": "Aqua Tail",
+                "Weight": 21.532
+            }
+        ],
+        "Teammates": []
+    },
+    "Snaelstrom": {
+        "Name": "Snaelstrom",
+        "Abilities": [
+            {
+                "Name": "Poison Heal",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Toxic Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Careful:248/0/8/0/252/0",
+                "Weight": 52.868
+            },
+            {
+                "Name": "Calm:252/0/0/4/252/0",
+                "Weight": 47.132
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Acid Armor",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Spiky Shield",
+                "Weight": 52.868
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 52.868
+            },
+            {
+                "Name": "Leech Life",
+                "Weight": 52.868
+            },
+            {
+                "Name": "Confide",
+                "Weight": 47.132
+            },
+            {
+                "Name": "Rest",
+                "Weight": 47.132
+            },
+            {
+                "Name": "Infestation",
+                "Weight": 47.132
+            }
+        ],
+        "Teammates": []
+    },
+    "Pyroak": {
+        "Name": "Pyroak",
+        "Abilities": [
+            {
+                "Name": "White Smoke",
+                "Weight": 55.955
+            },
+            {
+                "Name": "Battle Armor",
+                "Weight": 44.045
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 55.955
+            },
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 44.045
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:248/0/0/124/132/0",
+                "Weight": 55.955
+            },
+            {
+                "Name": "Calm:248/0/8/0/252/0",
+                "Weight": 44.045
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Overheat",
+                "Weight": 55.955
+            },
+            {
+                "Name": "Earth Power",
+                "Weight": 55.955
+            },
+            {
+                "Name": "Giga Drain",
+                "Weight": 55.955
+            },
+            {
+                "Name": "Fire Blast",
+                "Weight": 55.955
+            },
+            {
+                "Name": "Acid Armor",
+                "Weight": 44.045
+            },
+            {
+                "Name": "Amnesia",
+                "Weight": 44.045
+            },
+            {
+                "Name": "Lava Plume",
+                "Weight": 44.045
+            },
+            {
+                "Name": "Leech Seed",
+                "Weight": 18.854
+            },
+            {
+                "Name": "Synthesis",
+                "Weight": 18.522
+            },
+            {
+                "Name": "Other",
+                "Weight": 6.669
+            }
+        ],
+        "Teammates": []
+    },
+    "Malaconda": {
+        "Name": "Malaconda",
+        "Abilities": [
+            {
+                "Name": "Drought",
+                "Weight": 52.665
+            },
+            {
+                "Name": "Harvest",
+                "Weight": 47.335
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 52.665
+            },
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 26.947
+            },
+            {
+                "Name": "Chesto Berry",
+                "Weight": 20.388
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 52.665
+            },
+            {
+                "Name": "Careful:244/0/92/0/0/172",
+                "Weight": 26.947
+            },
+            {
+                "Name": "Calm:244/0/12/0/252/0",
+                "Weight": 20.388
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Crunch",
+                "Weight": 52.665
+            },
+            {
+                "Name": "Iron Tail",
+                "Weight": 52.665
+            },
+            {
+                "Name": "Wild Charge",
+                "Weight": 52.665
+            },
+            {
+                "Name": "Solar Blade",
+                "Weight": 52.665
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 47.335
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 26.947
+            },
+            {
+                "Name": "Glare",
+                "Weight": 26.947
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 26.947
+            },
+            {
+                "Name": "Spiky Shield",
+                "Weight": 20.388
+            },
+            {
+                "Name": "Rest",
+                "Weight": 20.388
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 20.388
+            }
+        ],
+        "Teammates": []
+    },
+    "Equilibra": {
+        "Name": "Equilibra",
+        "Abilities": [
+            {
+                "Name": "Levitate",
+                "Weight": 64.656
+            },
+            {
+                "Name": "Bulletproof",
+                "Weight": 35.344
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 37.353
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 33.469
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 29.178
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:248/0/40/160/60/0",
+                "Weight": 37.353
+            },
+            {
+                "Name": "Timid:24/0/0/252/4/228",
+                "Weight": 33.469
+            },
+            {
+                "Name": "Quiet:252/0/0/168/88/0",
+                "Weight": 29.178
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earth Power",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aura Sphere",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 66.531
+            },
+            {
+                "Name": "Doom Desire",
+                "Weight": 37.353
+            },
+            {
+                "Name": "Steel Beam",
+                "Weight": 33.469
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 33.469
+            },
+            {
+                "Name": "Trick Room",
+                "Weight": 29.178
+            }
+        ],
+        "Teammates": []
+    },
+    "Tomohawk": {
+        "Name": "Tomohawk",
+        "Abilities": [
+            {
+                "Name": "Prankster",
+                "Weight": 73.212
+            },
+            {
+                "Name": "Intimidate",
+                "Weight": 26.788
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 38.479
+            },
+            {
+                "Name": "Roseli Berry",
+                "Weight": 34.733
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 26.788
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/48/0/208/0",
+                "Weight": 38.479
+            },
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 34.733
+            },
+            {
+                "Name": "Timid:252/0/0/252/4/0",
+                "Weight": 26.788
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 73.212
+            },
+            {
+                "Name": "Heat Wave",
+                "Weight": 61.521
+            },
+            {
+                "Name": "Hurricane",
+                "Weight": 61.521
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 38.479
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 38.479
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 38.479
+            },
+            {
+                "Name": "Yawn",
+                "Weight": 34.733
+            },
+            {
+                "Name": "Aura Sphere",
+                "Weight": 26.788
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 26.788
+            }
+        ],
+        "Teammates": []
+    },
+    "Pajantom": {
+        "Name": "Pajantom",
+        "Abilities": [
+            {
+                "Name": "Comatose",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 34.795
+            },
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 34.056
+            },
+            {
+                "Name": "Assault Vest",
+                "Weight": 31.149
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:32/252/0/0/0/224",
+                "Weight": 34.795
+            },
+            {
+                "Name": "Adamant:240/176/0/0/92/0",
+                "Weight": 34.056
+            },
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 31.149
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Earthquake",
+                "Weight": 68.851
+            },
+            {
+                "Name": "Brave Bird",
+                "Weight": 65.944
+            },
+            {
+                "Name": "Spirit Shackle",
+                "Weight": 65.944
+            },
+            {
+                "Name": "Outrage",
+                "Weight": 65.944
+            },
+            {
+                "Name": "Shadow Claw",
+                "Weight": 34.056
+            },
+            {
+                "Name": "Imprison",
+                "Weight": 34.056
+            },
+            {
+                "Name": "Draco Meteor",
+                "Weight": 34.056
+            },
+            {
+                "Name": "Leech Life",
+                "Weight": 31.149
+            }
+        ],
+        "Teammates": []
+    },
+    "Plasmanta": {
+        "Name": "Plasmanta",
+        "Abilities": [
+            {
+                "Name": "Storm Drain",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 54.161
+            },
+            {
+                "Name": "Life Orb",
+                "Weight": 45.839
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:24/0/0/252/0/232",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sludge Wave",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Thunderbolt",
+                "Weight": 54.161
+            },
+            {
+                "Name": "Hyper Beam",
+                "Weight": 54.161
+            },
+            {
+                "Name": "Magnet Rise",
+                "Weight": 45.839
+            },
+            {
+                "Name": "Aura Sphere",
+                "Weight": 45.839
+            }
+        ],
+        "Teammates": []
+    },
+    "Smokomodo": {
+        "Name": "Smokomodo",
+        "Abilities": [
+            {
+                "Name": "Technician",
+                "Weight": 64.154
+            },
+            {
+                "Name": "Blaze",
+                "Weight": 35.846
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 60.95
+            },
+            {
+                "Name": "Choice Band",
+                "Weight": 39.05
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:8/252/0/0/0/248",
+                "Weight": 39.05
+            },
+            {
+                "Name": "Jolly:12/244/0/0/0/252",
+                "Weight": 35.846
+            },
+            {
+                "Name": "Adamant:0/252/0/0/4/252",
+                "Weight": 25.104
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Flare Blitz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bulldoze",
+                "Weight": 64.154
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 60.95
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 60.95
+            },
+            {
+                "Name": "Gunk Shot",
+                "Weight": 39.05
+            },
+            {
+                "Name": "Storm Throw",
+                "Weight": 39.05
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 35.846
+            }
+        ],
+        "Teammates": []
+    },
+    "Naviathan": {
+        "Name": "Naviathan",
+        "Abilities": [
+            {
+                "Name": "Heatproof",
+                "Weight": 67.152
+            },
+            {
+                "Name": "Guts",
+                "Weight": 32.848
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 48.417
+            },
+            {
+                "Name": "Flame Orb",
+                "Weight": 32.848
+            },
+            {
+                "Name": "Choice Specs",
+                "Weight": 18.735
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:248/0/12/0/0/248",
+                "Weight": 48.417
+            },
+            {
+                "Name": "Careful:0/220/0/0/152/136",
+                "Weight": 32.848
+            },
+            {
+                "Name": "Timid:0/0/0/252/8/248",
+                "Weight": 18.735
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Iron Defense",
+                "Weight": 81.265
+            },
+            {
+                "Name": "Slack Off",
+                "Weight": 81.265
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 48.417
+            },
+            {
+                "Name": "Flash Cannon",
+                "Weight": 48.417
+            },
+            {
+                "Name": "Dragon Dance",
+                "Weight": 32.848
+            },
+            {
+                "Name": "Iron Head",
+                "Weight": 32.848
+            },
+            {
+                "Name": "Hurricane",
+                "Weight": 18.735
+            },
+            {
+                "Name": "Steel Beam",
+                "Weight": 18.735
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 18.735
+            },
+            {
+                "Name": "Other",
+                "Weight": 18.735
+            }
+        ],
+        "Teammates": []
+    },
+    "Aurumoth": {
+        "Name": "Aurumoth",
+        "Abilities": [
+            {
+                "Name": "No Guard",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Specs",
+                "Weight": 58.765
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 41.235
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:72/0/0/252/0/184",
+                "Weight": 58.765
+            },
+            {
+                "Name": "Modest:40/0/0/252/0/216",
+                "Weight": 41.235
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Thunder",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bug Buzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psychic",
+                "Weight": 77.729
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 58.765
+            },
+            {
+                "Name": "Focus Blast",
+                "Weight": 25.156
+            },
+            {
+                "Name": "Psyshock",
+                "Weight": 22.271
+            },
+            {
+                "Name": "Other",
+                "Weight": 16.079
+            }
+        ],
+        "Teammates": []
+    },
+    "Crucibelle": {
+        "Name": "Crucibelle",
+        "Abilities": [
+            {
+                "Name": "Liquid Ooze",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Chesto Berry",
+                "Weight": 39.306
+            },
+            {
+                "Name": "Shuca Berry",
+                "Weight": 33.246
+            },
+            {
+                "Name": "Choice Scarf",
+                "Weight": 27.448
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:252/0/4/0/252/0",
+                "Weight": 39.306
+            },
+            {
+                "Name": "Impish:252/0/252/0/4/0",
+                "Weight": 33.246
+            },
+            {
+                "Name": "Impish:252/0/176/0/80/0",
+                "Weight": 27.448
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Rest",
+                "Weight": 66.754
+            },
+            {
+                "Name": "Torment",
+                "Weight": 60.694
+            },
+            {
+                "Name": "Gunk Shot",
+                "Weight": 39.306
+            },
+            {
+                "Name": "Coil",
+                "Weight": 39.306
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 39.306
+            },
+            {
+                "Name": "Protect",
+                "Weight": 33.246
+            },
+            {
+                "Name": "Draining Kiss",
+                "Weight": 33.246
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 33.246
+            },
+            {
+                "Name": "Trick",
+                "Weight": 27.448
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 27.448
+            }
+        ],
+        "Teammates": []
+    }
+}

@@ -1,0 +1,476 @@
+{
+    "Dragapult": {
+        "Name": "Dragapult",
+        "Abilities": [
+            {
+                "Name": "Clear Body",
+                "Weight": 99.961
+            },
+            {
+                "Name": "Infiltrator",
+                "Weight": 0.039
+            },
+            {
+                "Name": "Cursed Body",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Weakness Policy",
+                "Weight": 96.59
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.41
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:236/60/124/0/36/52",
+                "Weight": 96.59
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.41
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Phantom Force",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Fly",
+                "Weight": 99.961
+            },
+            {
+                "Name": "Dragon Darts",
+                "Weight": 99.961
+            },
+            {
+                "Name": "Dragon Dance",
+                "Weight": 96.629
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.448
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mudsdale",
+                "Weight": 96.59
+            },
+            {
+                "Name": "Cinderace",
+                "Weight": 96.59
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 96.59
+            },
+            {
+                "Name": "Indeedee-F",
+                "Weight": 96.59
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 96.59
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 96.59
+            }
+        ]
+    },
+    "Mudsdale": {
+        "Name": "Mudsdale",
+        "Abilities": [
+            {
+                "Name": "Own Tempo",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stamina",
+                "Weight": 0.0
+            },
+            {
+                "Name": "Inner Focus",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:252/244/4/0/4/4",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "High Horsepower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Earthquake",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heavy Slam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Indeedee-F",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cinderace",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Indeedee-F": {
+        "Name": "Indeedee-F",
+        "Abilities": [
+            {
+                "Name": "Psychic Surge",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Safety Goggles",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/244/4/4/4",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Heal Pulse",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Expanding Force",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Follow Me",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Milotic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cinderace",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mudsdale",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Cinderace": {
+        "Name": "Cinderace",
+        "Abilities": [
+            {
+                "Name": "Libero",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Shuca Berry",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.373
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:244/4/4/0/4/252",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.373
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sucker Punch",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Pyro Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Coaching",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Iron Head",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Other",
+                "Weight": 6.745
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mudsdale",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Indeedee-F",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 96.627
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 96.627
+            }
+        ]
+    },
+    "Milotic": {
+        "Name": "Milotic",
+        "Abilities": [
+            {
+                "Name": "Competitive",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Psychic Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Calm:244/0/252/4/4/4",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Coil",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Muddy Water",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hypnosis",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Indeedee-F",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cinderace",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Togekiss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mudsdale",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Togekiss": {
+        "Name": "Togekiss",
+        "Abilities": [
+            {
+                "Name": "Serene Grace",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Super Luck",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Safety Goggles",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:244/0/252/4/4/4",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Protect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Yawn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Air Slash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Follow Me",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Mudsdale",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Dragapult",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Indeedee-F",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cinderace",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Milotic",
+                "Weight": 100.0
+            }
+        ]
+    }
+}

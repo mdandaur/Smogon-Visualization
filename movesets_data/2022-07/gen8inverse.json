@@ -1,0 +1,2163 @@
+{
+    "Cloyster": {
+        "Name": "Cloyster",
+        "Abilities": [
+            {
+                "Name": "Skill Link",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Focus Sash",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.025
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Naive:0/252/0/0/4/252",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.025
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Pin Missile",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Icicle Spear",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shell Smash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hydro Pump",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.025
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Polteageist",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Incineroar",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Incineroar",
+                "Weight": 95.975
+            }
+        ]
+    },
+    "Grimmsnarl": {
+        "Name": "Grimmsnarl",
+        "Abilities": [
+            {
+                "Name": "Prankster",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Light Clay",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:40/252/0/0/0/216",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.025
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Reflect",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Light Screen",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Spirit Break",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.025
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Cloyster",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Polteageist",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Incineroar",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 95.975
+            }
+        ]
+    },
+    "Necrozma": {
+        "Name": "Necrozma",
+        "Abilities": [
+            {
+                "Name": "Prism Armor",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Power Herb",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.025
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/252/4/252",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 4.025
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Autotomize",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Heat Wave",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Meteor Beam",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Photon Geyser",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Other",
+                "Weight": 12.074
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Polteageist",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Incineroar",
+                "Weight": 95.975
+            },
+            {
+                "Name": "Incineroar",
+                "Weight": 95.975
+            }
+        ]
+    },
+    "Incineroar": {
+        "Name": "Incineroar",
+        "Abilities": [
+            {
+                "Name": "Intimidate",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Flame Charge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Terrakion",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Polteageist",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Terrakion": {
+        "Name": "Terrakion",
+        "Abilities": [
+            {
+                "Name": "Justified",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stone Edge",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Polteageist",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Incineroar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Incineroar",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Polteageist": {
+        "Name": "Polteageist",
+        "Abilities": [
+            {
+                "Name": "Cursed Body",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Weak Armor",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "White Herb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Shadow Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stored Power",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shell Smash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Strength Sap",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Incineroar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Terrakion",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Porygon2": {
+        "Name": "Porygon2",
+        "Abilities": [
+            {
+                "Name": "Trace",
+                "Weight": 70.503
+            },
+            {
+                "Name": "Analytic",
+                "Weight": 20.021
+            },
+            {
+                "Name": "Download",
+                "Weight": 9.476
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Eviolite",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:248/0/192/0/68/0",
+                "Weight": 70.503
+            },
+            {
+                "Name": "Careful:252/64/0/0/192/0",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Modest:40/0/128/252/4/84",
+                "Weight": 9.274
+            },
+            {
+                "Name": "Other",
+                "Weight": 3.267
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Recover",
+                "Weight": 83.043
+            },
+            {
+                "Name": "Tri Attack",
+                "Weight": 79.979
+            },
+            {
+                "Name": "Teleport",
+                "Weight": 70.503
+            },
+            {
+                "Name": "Thunder Wave",
+                "Weight": 70.503
+            },
+            {
+                "Name": "Curse",
+                "Weight": 20.021
+            },
+            {
+                "Name": "Sleep Talk",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Rest",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Last Resort",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 9.476
+            },
+            {
+                "Name": "Other",
+                "Weight": 15.604
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Frosmoth",
+                "Weight": 79.777
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 70.503
+            },
+            {
+                "Name": "Ninetales-Alola",
+                "Weight": 70.503
+            },
+            {
+                "Name": "Avalugg",
+                "Weight": 70.503
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 60.49
+            },
+            {
+                "Name": "Linoone",
+                "Weight": 20.021
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Mew",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 16.957
+            },
+            {
+                "Name": "Malamar",
+                "Weight": 10.013
+            }
+        ]
+    },
+    "Frosmoth": {
+        "Name": "Frosmoth",
+        "Abilities": [
+            {
+                "Name": "Ice Scales",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 88.405
+            },
+            {
+                "Name": "Focus Sash",
+                "Weight": 11.595
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:0/0/4/252/0/252",
+                "Weight": 88.151
+            },
+            {
+                "Name": "Modest:0/0/0/252/4/252",
+                "Weight": 11.595
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.254
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Quiver Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bug Buzz",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Giga Drain",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 99.746
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 88.151
+            },
+            {
+                "Name": "Avalugg",
+                "Weight": 88.151
+            },
+            {
+                "Name": "Ninetales-Alola",
+                "Weight": 88.151
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 75.632
+            },
+            {
+                "Name": "Malamar",
+                "Weight": 12.519
+            },
+            {
+                "Name": "Articuno-Galar",
+                "Weight": 11.595
+            },
+            {
+                "Name": "Zarude",
+                "Weight": 11.595
+            },
+            {
+                "Name": "Zarude",
+                "Weight": 11.595
+            }
+        ]
+    },
+    "Avalugg": {
+        "Name": "Avalugg",
+        "Abilities": [
+            {
+                "Name": "Ice Body",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Sturdy",
+                "Weight": 0.003
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.003
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Relaxed:252/0/76/0/180/0",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.003
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Avalanche",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Press",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Curse",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.003
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Ninetales-Alola",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 99.997
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 85.796
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 85.796
+            }
+        ]
+    },
+    "Abomasnow": {
+        "Name": "Abomasnow",
+        "Abilities": [
+            {
+                "Name": "Snow Warning",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Soundproof",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:24/232/0/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Ice Shard",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Avalanche",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Seed Bomb",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Facade",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Ninetales-Alola",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Avalugg",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 85.798
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 85.798
+            }
+        ]
+    },
+    "Ninetales-Alola": {
+        "Name": "Ninetales-Alola",
+        "Abilities": [
+            {
+                "Name": "Snow Warning",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Light Clay",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:28/0/0/228/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Encore",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blizzard",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Moonblast",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aurora Veil",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Avalugg",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 85.798
+            },
+            {
+                "Name": "Lurantis",
+                "Weight": 85.798
+            }
+        ]
+    },
+    "Lurantis": {
+        "Name": "Lurantis",
+        "Abilities": [
+            {
+                "Name": "Contrary",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Sassy:252/60/40/0/156/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aromatherapy",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Leaf Storm",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Superpower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Ninetales-Alola",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Avalugg",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Linoone": {
+        "Name": "Linoone",
+        "Abilities": [
+            {
+                "Name": "Gluttony",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Figy Berry",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Sitrus Berry",
+                "Weight": 15.304
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:4/252/0/0/0/252",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 15.304
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Extreme Speed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Belly Drum",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Nothing",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Last Resort",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Play Rough",
+                "Weight": 15.304
+            },
+            {
+                "Name": "Other",
+                "Weight": 15.304
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Mew",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 84.696
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 15.304
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 15.304
+            },
+            {
+                "Name": "Obstagoon",
+                "Weight": 15.304
+            },
+            {
+                "Name": "Obstagoon",
+                "Weight": 15.304
+            }
+        ]
+    },
+    "Mew": {
+        "Name": "Mew",
+        "Abilities": [
+            {
+                "Name": "Synchronize",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Payapa Berry",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:252/4/0/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Spikes",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Brick Break",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Linoone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cloyster",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Grimmsnarl",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Necrozma",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Malamar": {
+        "Name": "Malamar",
+        "Abilities": [
+            {
+                "Name": "Infiltrator",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Impish:248/0/108/0/56/96",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Stored Power",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Substitute",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Acupressure",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Ninetales-Alola",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Abomasnow",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Avalugg",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Articuno-Galar": {
+        "Name": "Articuno-Galar",
+        "Abilities": [
+            {
+                "Name": "Competitive",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Safety Goggles",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Modest:248/0/0/252/8/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Freezing Glare",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Shadow Ball",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Recover",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Air Slash",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Aurorus",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Glastrier",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Zarude",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Aurorus": {
+        "Name": "Aurorus",
+        "Abilities": [
+            {
+                "Name": "Snow Warning",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Light Clay",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/4/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Blizzard",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Calm Mind",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aurora Veil",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Glastrier",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Articuno-Galar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Zarude",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Zarude": {
+        "Name": "Zarude",
+        "Abilities": [
+            {
+                "Name": "Leaf Guard",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Life Orb",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.14
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.14
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Power Whip",
+                "Weight": 100.0
+            },
+            {
+                "Name": "U-turn",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Darkest Lariat",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Other",
+                "Weight": 6.419
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Glastrier",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Articuno-Galar",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Aurorus",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 97.86
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 97.86
+            }
+        ]
+    },
+    "Glastrier": {
+        "Name": "Glastrier",
+        "Abilities": [
+            {
+                "Name": "Chilling Neigh",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Assault Vest",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Adamant:248/252/0/0/8/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Megahorn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Avalanche",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Outrage",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Articuno-Galar",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Zarude",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Aurorus",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Frosmoth",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Blissey": {
+        "Name": "Blissey",
+        "Abilities": [
+            {
+                "Name": "Natural Cure",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Heavy-Duty Boots",
+                "Weight": 98.915
+            },
+            {
+                "Name": "Other",
+                "Weight": 1.085
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/4/0",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Soft-Boiled",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Seismic Toss",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 98.915
+            },
+            {
+                "Name": "Wish",
+                "Weight": 98.851
+            },
+            {
+                "Name": "Other",
+                "Weight": 2.234
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 98.851
+            },
+            {
+                "Name": "Linoone",
+                "Weight": 98.851
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 98.851
+            },
+            {
+                "Name": "Obstagoon",
+                "Weight": 98.851
+            },
+            {
+                "Name": "Braviary",
+                "Weight": 98.851
+            },
+            {
+                "Name": "Braviary",
+                "Weight": 98.851
+            }
+        ]
+    },
+    "Tauros": {
+        "Name": "Tauros",
+        "Abilities": [
+            {
+                "Name": "Sheer Force",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Iron Head",
+                "Weight": 100.0
+            },
+            {
+                "Name": "High Horsepower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Body Slam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Close Combat",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Blissey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Obstagoon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Braviary",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Linoone",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Obstagoon": {
+        "Name": "Obstagoon",
+        "Abilities": [
+            {
+                "Name": "Guts",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Flame Orb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Taunt",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Parting Shot",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Cross Chop",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Linoone",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Braviary",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Blissey",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Braviary": {
+        "Name": "Braviary",
+        "Abilities": [
+            {
+                "Name": "Sheer Force",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Power Herb",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Tailwind",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Bulk Up",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Sky Attack",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Zen Headbutt",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Blissey",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Obstagoon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tauros",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Porygon2",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Linoone",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Scolipede": {
+        "Name": "Scolipede",
+        "Abilities": [
+            {
+                "Name": "Speed Boost",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Focus Sash",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:4/252/0/0/0/252",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Stomping Tantrum",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Swords Dance",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Megahorn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Other",
+                "Weight": 0.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Hippowdon": {
+        "Name": "Hippowdon",
+        "Abilities": [
+            {
+                "Name": "Sand Force",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Careful:252/0/0/0/252/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "High Horsepower",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Stealth Rock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Toxic",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Slack Off",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scolipede",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Articuno": {
+        "Name": "Articuno",
+        "Abilities": [
+            {
+                "Name": "Pressure",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Snow Cloak",
+                "Weight": 0.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Leftovers",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Bold:252/0/252/0/0/4",
+                "Weight": 94.956
+            },
+            {
+                "Name": "Calm:252/0/0/4/252/0",
+                "Weight": 5.044
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Roost",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Defog",
+                "Weight": 94.956
+            },
+            {
+                "Name": "Other",
+                "Weight": 5.044
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 94.956
+            },
+            {
+                "Name": "Scolipede",
+                "Weight": 94.956
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 94.956
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 94.956
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 94.956
+            }
+        ]
+    },
+    "Mienshao": {
+        "Name": "Mienshao",
+        "Abilities": [
+            {
+                "Name": "Regenerator",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Band",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Jolly:0/252/0/0/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "U-turn",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Poison Jab",
+                "Weight": 100.0
+            },
+            {
+                "Name": "High Jump Kick",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scolipede",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Starmie": {
+        "Name": "Starmie",
+        "Abilities": [
+            {
+                "Name": "Natural Cure",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Choice Scarf",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Timid:0/0/0/252/4/252",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Hydro Pump",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Rapid Spin",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Psyshock",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Ice Beam",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Scolipede",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Tangrowth",
+                "Weight": 100.0
+            }
+        ]
+    },
+    "Tangrowth": {
+        "Name": "Tangrowth",
+        "Abilities": [
+            {
+                "Name": "Regenerator",
+                "Weight": 100.0
+            }
+        ],
+        "Items": [
+            {
+                "Name": "Rocky Helmet",
+                "Weight": 100.0
+            }
+        ],
+        "Spreads": [
+            {
+                "Name": "Quiet:252/0/0/184/72/0",
+                "Weight": 100.0
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Leech Seed",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Knock Off",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Synthesis",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Giga Drain",
+                "Weight": 100.0
+            }
+        ],
+        "Teammates": [
+            {
+                "Name": "Starmie",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Scolipede",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Articuno",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Mienshao",
+                "Weight": 100.0
+            },
+            {
+                "Name": "Hippowdon",
+                "Weight": 100.0
+            }
+        ]
+    }
+}

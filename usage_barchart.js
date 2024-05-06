@@ -1,9 +1,101 @@
 
+// Definí la función que 
+async function fetchPokemonDataAndAddIcons(parsed_data, gen) {
+    const responses = await Promise.all(parsed_data.map(d => {
+        let pokemonName = d.Pokemon.toLowerCase().replace(' ', '-').replace('.', '').replace("'", '').replace('♀', '-f').replace('♂', '-m');
+        if (pokemonName.startsWith('arceus')) {
+            pokemonName = 'arceus';
+        }
+
+        if (pokemonName.startsWith('zygarde')) {
+            pokemonName = 'zygarde-50';
+        }
+        if (pokemonName.startsWith('keldeo')) {
+            pokemonName = 'keldeo-ordinary';
+        }
+        if (pokemonName.startsWith('aegislash')) {
+            pokemonName = 'aegislash-shield';
+        }
+        if (pokemonName.startsWith('gourgeist')) {
+            pokemonName = 'gourgeist-average';
+        }
+        if (pokemonName.startsWith('pumpkaboo')) {
+            pokemonName = 'pumpkaboo-average';
+        }
+        if (pokemonName.startsWith('mimikyu')) {
+            pokemonName = 'mimikyu-disguised';
+        }
+        if (pokemonName.startsWith('toxtricity')) {
+            pokemonName = 'toxtricity-amped';
+        }
+        if (pokemonName.startsWith('urshifu')) {
+            pokemonName = 'urshifu-single-strike';
+        }
+        if (pokemonName.startsWith('calyrex')) {
+            pokemonName = 'calyrex-ice-rider';
+        }
+        if (pokemonName.startsWith('indeedee')) {
+            pokemonName = 'indeedee-female';
+        }
+        if (pokemonName.startsWith('zacian')) {
+            pokemonName = 'zacian-crowned';
+        }
+        if (pokemonName.startsWith('zamazenta')) {
+            pokemonName = 'zamazenta-hero-of-many-battles';
+        }
+        if (pokemonName.startsWith('eternatus')) {
+            pokemonName = 'eternatus-eternamax';
+        }
+        if (pokemonName.startsWith('glastrier')) {
+            pokemonName = 'glastrier-ice-rider';
+        }
+        if (pokemonName.startsWith('spectrier')) {
+            pokemonName = 'spectrier-glastrier';
+        }
+        if (pokemonName.startsWith('giratina')) {
+            pokemonName = 'giratina-altered';
+        }
+        if (pokemonName.startsWith('darmanitan')) {
+            pokemonName = 'darmanitan-standard';
+        }
+        if (pokemonName.startsWith('meowstic')) {
+            pokemonName = 'meowstic-female';
+        }
+        if (pokemonName.startsWith('basculin')) {
+            pokemonName = 'basculin-red-striped';
+        }
+        if (pokemonName.startsWith('thundurus')) {
+            pokemonName = 'thundurus-incarnate';
+        }
+        if (pokemonName.startsWith('landorus')) {
+            pokemonName = 'landorus-incarnate';
+        }
+        if (pokemonName.startsWith('tornadus')) {
+            pokemonName = 'tornadus-incarnate';
+        }
+        if (pokemonName.startsWith('meloetta')) {
+            pokemonName = 'meloetta-aria';
+        }
+        if (pokemonName.startsWith('necrozma')) {
+            pokemonName = 'necrozma-dusk';
+        }
+        if (pokemonName.startsWith('sylvally')) {
+            pokemonName = 'silvally-normal';
+        }
+        return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
+    }));
+    const pokemonData = await Promise.all(responses.map(response => response.json()));
+    // Add image URLs to parsed_data
+    parsed_data.forEach((d_1, i) => {
+        let versions = pokemonData[i].sprites.versions['generation-viii'];
+        let keys = Object.keys(versions);
+        let randomKey = keys[Math.floor(Math.random() * keys.length)];
+        d_1.imageUrl = versions.icons.front_default;
+    });
+}
 
 window.addEventListener("nodeClick", function(event) {
-    console.log("File clicked:", event.detail.file);
     DATOS = 'smogon_data/' + event.detail.date + '/' + event.detail.file;
-    console.log(event.detail.date, "date listener")
     file_json = 'movesets_data/' + event.detail.date + '/' + event.detail.gen + event.detail.format + '.json';
     d3.select("#vis-2").selectAll("*").remove();
 
@@ -38,7 +130,6 @@ function intToRoman(num) {
 
 d3.csv(DATOS).then(function(data) {
     const parsed_data = data.slice(0, 10);
-    console.log(parsed_data);
 
 
     let maximo = d3.max(parsed_data, d =>  Math.max(d['Real %'], d['Usage %']));
@@ -47,7 +138,7 @@ d3.csv(DATOS).then(function(data) {
     // Definimos las escalas
     let esc_v = d3
       .scaleLinear()
-      .domain([maximo*1.1, 0.9*minimo])
+      .domain([maximo*1.1, 0])
       .range([margins[0], HEIGHT - margins[1]]);
   
     let esc_h = d3
@@ -141,11 +232,12 @@ d3.csv(DATOS).then(function(data) {
                     respectiveRealBar.attr("opacity", 1);
                     respectiveImage.attr("opacity", 1);
                     respectiveLine.attr("opacity", 0.7);
+                    console.log(event.detail.date, event.detail.gen, event.detail.format, d.Pokemon, file_json);
                     let pokemonEvent = new CustomEvent("pokemonClick", {
                         detail: {
-                            date: pokemon_event.detail.date,
-                            gen: pokemon_event.detail.gen,
-                            format: pokemon_event.detail.format,
+                            date: event.detail.date,
+                            gen: event.detail.gen,
+                            format: event.detail.format,
                             pokemon_name: d.Pokemon,
                             file: file_json
                         }
@@ -153,7 +245,6 @@ d3.csv(DATOS).then(function(data) {
                     window.dispatchEvent(pokemonEvent);
                 });
         });
-
 
     const RealBars = SVG.append("g").attr('id', 'RealBars');
     
@@ -191,9 +282,9 @@ d3.csv(DATOS).then(function(data) {
                     respectiveLine.attr("opacity", 0.7);
                     let pokemonEvent = new CustomEvent("pokemonClick", {
                         detail: {
-                            date: pokemon_event.detail.date,
-                            gen: pokemon_event.detail.gen,
-                            format: pokemon_event.detail.format,
+                            date: event.detail.date,
+                            gen: event.detail.gen,
+                            format: event.detail.format,
                             pokemon_name: d.Pokemon,
                             file: file_json
                         }
@@ -234,101 +325,7 @@ d3.csv(DATOS).then(function(data) {
                 });
             });
         }
-        function fetchPokemonDataAndAddIcons(parsed_data, gen) {
-            return Promise.all(parsed_data.map(d => {
-                let pokemonName = d.Pokemon.toLowerCase().replace(' ', '-').replace('.', '').replace("'", '').replace('♀', '-f').replace('♂', '-m');
-                if (pokemonName.startsWith('arceus')) {
-                    pokemonName = 'arceus';
-                }
-                
-                if (pokemonName.startsWith('zygarde')) {
-                    pokemonName = 'zygarde-50';
-                }
-                if (pokemonName.startsWith('keldeo')) {
-                    pokemonName = 'keldeo-ordinary';
-                }
-                if (pokemonName.startsWith('aegislash')) {
-                    pokemonName = 'aegislash-shield';
-                }
-                if (pokemonName.startsWith('gourgeist')) {
-                    pokemonName = 'gourgeist-average';
-                }
-                if (pokemonName.startsWith('pumpkaboo')) {
-                    pokemonName = 'pumpkaboo-average';
-                }
-                if (pokemonName.startsWith('mimikyu')) {
-                    pokemonName = 'mimikyu-disguised';
-                }
-                if (pokemonName.startsWith('toxtricity')) {
-                    pokemonName = 'toxtricity-amped';
-                }
-                if (pokemonName.startsWith('urshifu')) {
-                    pokemonName = 'urshifu-single-strike';
-                }
-                if (pokemonName.startsWith('calyrex')) {
-                    pokemonName = 'calyrex-ice-rider';
-                }
-                if (pokemonName.startsWith('indeedee')) {
-                    pokemonName = 'indeedee-female';
-                }
-                if (pokemonName.startsWith('zacian')) {
-                    pokemonName = 'zacian-crowned';
-                }
-                if (pokemonName.startsWith('zamazenta')) {
-                    pokemonName = 'zamazenta-hero-of-many-battles';
-                }
-                if (pokemonName.startsWith('eternatus')) {
-                    pokemonName = 'eternatus-eternamax';
-                }
-                if (pokemonName.startsWith('glastrier')) {
-                    pokemonName = 'glastrier-ice-rider';
-                }
-                if (pokemonName.startsWith('spectrier')) {
-                    pokemonName = 'spectrier-glastrier';
-                }
-                if (pokemonName.startsWith('giratina')) {
-                    pokemonName = 'giratina-altered';
-                }
-                if (pokemonName.startsWith('darmanitan')) {
-                    pokemonName = 'darmanitan-standard';
-                }
-                if (pokemonName.startsWith('meowstic')) {
-                    pokemonName = 'meowstic-female';
-                }
-                if (pokemonName.startsWith('basculin')) {
-                    pokemonName = 'basculin-red-striped';
-                }
-                if (pokemonName.startsWith('thundurus')) {
-                    pokemonName = 'thundurus-incarnate';
-                }
-                if (pokemonName.startsWith('landorus')) {
-                    pokemonName = 'landorus-incarnate';
-                }
-                if (pokemonName.startsWith('tornadus')) {
-                    pokemonName = 'tornadus-incarnate';
-                }
-                if (pokemonName.startsWith('meloetta')) {
-                    pokemonName = 'meloetta-aria';
-                }
-                if (pokemonName.startsWith('necrozma')) {
-                    pokemonName = 'necrozma-dusk';
-                }
-                if (pokemonName.startsWith('sylvally')) {
-                    pokemonName = 'silvally-normal';
-                }
-                return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
-            }))
-            .then(responses => Promise.all(responses.map(response => response.json())))
-            .then(pokemonData => {
-                    // Add image URLs to parsed_data
-                    parsed_data.forEach((d, i) => {
-                        let versions = pokemonData[i].sprites.versions['generation-viii']; 
-                        let keys = Object.keys(versions);
-                        let randomKey = keys[Math.floor(Math.random() * keys.length)];
-                        d.imageUrl = versions.icons.front_default;
-                    });
-                });
-        }
+        
         if (useIcons) {    //esto permite elegir si usar imagenes o iconos para los pokemon
             fetchPokemonDataAndAddIcons(parsed_data, gen)
             .then(() => {
