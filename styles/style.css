@@ -11,7 +11,9 @@ body {
 }
 
 
-
+.pokemon-img{
+  z-index: 100;
+}
 .header{
   background-color: #F8F3F8;
     padding: 20px;

@@ -192,11 +192,8 @@ async function fetchPokemonDataAndAddImages2(parsed_data, gen) {
     .then(pokemonData => {
         // Add image URLs to parsed_data
         parsed_data.forEach((d, i) => {
-            console.log("pokemonData", pokemonData[i])
-            console.log(gen.match(/\d+/)[0])
             let versions = pokemonData[i].sprites.other['official-artwork']; 
             d.imageUrl = versions.front_default;
-            console.log("d.imageUrl", d.imageUrl)
         });
     });
 }
@@ -235,6 +232,117 @@ window.addEventListener("pokemonClick", function(event) {
         let moves = pokemonData.Moves;
         let abilities = pokemonData.Abilities;
         let parsed_data = pokemonData.Teammates;
+
+    
+
+    pokemonName = pokemon_name.toLowerCase().replace(' ', '-').replace('.', '').replace("'", '').replace('♀', '-f').replace('♂', '-m');
+    if (pokemonName.startsWith('arceus')) {
+        pokemonName = 'arceus';
+    }
+    if (pokemonName.startsWith('zygarde')) {
+        pokemonName = 'zygarde-50';
+    }
+    if (pokemonName.startsWith('keldeo')) {
+        pokemonName = 'keldeo-ordinary';
+    }
+    if (pokemonName.startsWith('aegislash')) {
+        pokemonName = 'aegislash-shield';
+    }
+    if (pokemonName.startsWith('gourgeist')) {
+        pokemonName = 'gourgeist-average';
+    }
+    if (pokemonName.startsWith('pumpkaboo')) {
+        pokemonName = 'pumpkaboo-average';
+    }
+    if (pokemonName.startsWith('mimikyu')) {
+        pokemonName = 'mimikyu-disguised';
+    }
+    if (pokemonName.startsWith('toxtricity')) {
+        pokemonName = 'toxtricity-amped';
+    }
+    if (pokemonName.startsWith('urshifu')) {
+        pokemonName = 'urshifu-single-strike';
+    }
+    if (pokemonName.startsWith('calyrex')) {
+        pokemonName = 'calyrex-ice-rider';
+    }
+    if (pokemonName.startsWith('indeedee')) {
+        pokemonName = 'indeedee-female';
+    }
+    if (pokemonName.startsWith('zacian')) {
+        pokemonName = 'zacian-crowned';
+    }
+    if (pokemonName.startsWith('zamazenta')) {
+        pokemonName = 'zamazenta-hero-of-many-battles';
+    }
+    if (pokemonName.startsWith('eternatus')) {
+        pokemonName = 'eternatus-eternamax';
+    }
+    if (pokemonName.startsWith('glastrier')) {
+        pokemonName = 'glastrier-ice-rider';
+    }
+    if (pokemonName.startsWith('spectrier')) {
+        pokemonName = 'spectrier-glastrier';
+    }
+    if (pokemonName.startsWith('giratina')) {
+        pokemonName = 'giratina-altered';
+    }
+    if (pokemonName.startsWith('darmanitan')) {
+        pokemonName = 'darmanitan-standard';
+    }
+    if (pokemonName.startsWith('meowstic')) {
+        pokemonName = 'meowstic-female';
+    }
+    if (pokemonName.startsWith('basculin')) {
+        pokemonName = 'basculin-red-striped';
+    }
+    if (pokemonName.startsWith('thundurus')) {
+        pokemonName = 'thundurus-incarnate';
+    }
+    if (pokemonName.startsWith('landorus')) {
+        pokemonName = 'landorus-incarnate';
+    }
+    if (pokemonName.startsWith('tornadus')) {
+        pokemonName = 'tornadus-incarnate';
+    }
+    if (pokemonName.startsWith('meloetta')) {
+        pokemonName = 'meloetta-aria';
+    }
+    if (pokemonName.startsWith('necrozma')) {
+        pokemonName = 'necrozma-dusk';
+    }
+    if (pokemonName.startsWith('sylvally')) {
+        pokemonName = 'silvally-normal';
+    }     
+    fetch(`https://pokeapi.co/api/v2/pokemon-species/${pokemonName}`)
+    .then(response => response.json())
+    .then(pokemon_data => {
+        d3.select("#pokemon_image").selectAll("*").remove();
+        let pokemonShape = pokemon_data.shape.name;
+        let imageUrl = `gifs/${pokemonShape}.gif`;
+        let imgHeight = 100;  // The height of the image
+    
+        // Create a new image object
+        let img = new Image();
+        img.onload = function() {
+            d3.select("#pokemon_image")
+                .append("image")
+                .attr("href", imageUrl)
+                .attr("width", 100) // adjust as needed
+                .attr("height", imgHeight) // adjust as needed
+                .attr("x", 0) // adjust as needed
+                .attr("y", 0); // adjust as needed
+    
+            // Add the text below the image
+            d3.select("#pokemon_image")
+                .append("text")
+                .text(pokemon_name)
+                .style("font-size", "20px")
+                .attr("x", 0)
+                .attr("y", imgHeight + 20);  // Position the text 20px below the image
+        };
+        img.src = imageUrl;
+    });
         
 
         let esc_h = d3
@@ -251,9 +359,6 @@ window.addEventListener("pokemonClick", function(event) {
   
 
 
-
-        console.log(pokemonData);
-        console.log(parsed_data);
 
         const Images = SVG.append("g").attr('id', 'Images');
 
