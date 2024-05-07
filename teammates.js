@@ -240,7 +240,7 @@ window.addEventListener("pokemonClick", function(event) {
         let esc_h = d3
         .scaleBand()
         .domain(parsed_data.map(d => d.Name))
-        .range([margins[3], WIDTH - margins[1]])
+        .range([margins[1], WIDTH - margins[3]])
         .paddingInner(0.3);
 
         // Define the scale

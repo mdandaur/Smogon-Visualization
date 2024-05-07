@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/styles/style.css">
+    <link rel="stylesheet" href="./styles/css-pokemon-gameboy.css">
     <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <title>Smogon Graph</title>
@@ -19,7 +20,7 @@
     </div>
     <div class="input-form-1-container">
     <form id="input-form">
-        <label class="label" for="date">Date:</label>
+        <label class="label" for="date">Año:</label>
         <select name="dates" id="date">
             <option value="2017-07">2017</option>
             <option value="2018-07">2018</option>
@@ -29,11 +30,13 @@
             <option value="2022-07">2022</option>
             <option value="2023-07">2023</option>
         </select>
-        <input class="pixel" type="submit" value="Submit">
+        <div class="viewable-code" id="submit-container">
+            <button type="submit" >Enviar</button> 
+        </div>
     </form>
     </div>
 
-    <div class="vis-1-container">
+    <div class="framed primary exclude border" id="vis-1-container">
         <svg id="vis-1"></svg>
     </div>
     <script src="circle_packing.js"></script>
@@ -45,14 +48,26 @@
         </form>
     </div>
 
-    <div class="vis-2-container">
+    <div class="framed primary exclude border" id="vis-2-container">
         <svg id="vis-2"></svg>
     </div>
     <script src="usage_barchart.js"></script>
 
-    <div class="vis-3-container">
-        <svg id="vis-3"></svg>
+    <div class="pokemon-info>
+        <div class="pokemon-img">
+            <svg id="pokemon_image"></svg>
+        </div>
+        <div class="pokemon-stats">
+            <h2>Charizard</h2>
+            <p>Usage: 10%</p>
+            <p>Raw count: 1000</p>
+            <p>Viability: 5%</p>
+        </div>
     </div> 
+    <div class = "pokemon-teammates">
+        <svg id="vis-3"></svg>
+    </div>
+    </div>
     <script src="teammates.js"></script>
 
 </body>

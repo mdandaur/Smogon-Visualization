@@ -256,7 +256,7 @@ d3.csv(DATOS).then(function(data) {
         .attr("y", d => esc_v(d['Real %']))
         .attr("width", esc_h.bandwidth()/2)
         .attr("height", d => HEIGHT-esc_v(d['Real %'])-margins[2])
-        .attr("fill", "green")
+        .attr("fill", "red")
         .each(function(d, i) {
             d3.select(this)
                 .on("mouseover", function(event) { 
