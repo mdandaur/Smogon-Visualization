@@ -10,9 +10,21 @@ body {
     text-align: center;
 }
 
+#pokemon-img {
+    display: flex;
+    justify-content: center;
+    background-color: #F8F3F8;
+    text-shadow: none;
+    width: 400px;
+    height: 400px;
+}
 
 .pokemon-img{
-  z-index: 100;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
 }
 .header{
   background-color: #F8F3F8;

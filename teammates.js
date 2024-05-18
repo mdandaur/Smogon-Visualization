@@ -5,7 +5,6 @@ async function fetchPokemonDataAndAddIcons2(parsed_data) {
         if (pokemonName.startsWith('arceus')) {
             pokemonName = 'arceus';
         }
-
         if (pokemonName.startsWith('zygarde')) {
             pokemonName = 'zygarde-50';
         }
@@ -110,7 +109,6 @@ async function fetchPokemonDataAndAddImages2(parsed_data, gen) {
         if (pokemonName.startsWith('arceus')) {
             pokemonName = 'arceus';
         }
-
         if (pokemonName.startsWith('zygarde')) {
             pokemonName = 'zygarde-50';
         }
@@ -239,84 +237,110 @@ window.addEventListener("pokemonClick", function(event) {
     if (pokemonName.startsWith('arceus')) {
         pokemonName = 'arceus';
     }
+    
     if (pokemonName.startsWith('zygarde')) {
-        pokemonName = 'zygarde-50';
+        pokemonName = 'zygarde';
     }
     if (pokemonName.startsWith('keldeo')) {
-        pokemonName = 'keldeo-ordinary';
+        pokemonName = 'keldeo';
     }
     if (pokemonName.startsWith('aegislash')) {
-        pokemonName = 'aegislash-shield';
+        pokemonName = 'aegislash';
     }
     if (pokemonName.startsWith('gourgeist')) {
-        pokemonName = 'gourgeist-average';
+        pokemonName = 'gourgeist';
     }
     if (pokemonName.startsWith('pumpkaboo')) {
-        pokemonName = 'pumpkaboo-average';
+        pokemonName = 'pumpkaboo';
     }
     if (pokemonName.startsWith('mimikyu')) {
-        pokemonName = 'mimikyu-disguised';
+        pokemonName = 'mimikyu';
     }
     if (pokemonName.startsWith('toxtricity')) {
-        pokemonName = 'toxtricity-amped';
+        pokemonName = 'toxtricity';
     }
     if (pokemonName.startsWith('urshifu')) {
-        pokemonName = 'urshifu-single-strike';
+        pokemonName = 'urshifu';
     }
     if (pokemonName.startsWith('calyrex')) {
-        pokemonName = 'calyrex-ice-rider';
+        pokemonName = 'calyrex';
     }
     if (pokemonName.startsWith('indeedee')) {
-        pokemonName = 'indeedee-female';
+        pokemonName = 'indeedee';
     }
     if (pokemonName.startsWith('zacian')) {
-        pokemonName = 'zacian-crowned';
+        pokemonName = 'zacian';
     }
     if (pokemonName.startsWith('zamazenta')) {
-        pokemonName = 'zamazenta-hero-of-many-battles';
+        pokemonName = 'zamazenta';
     }
     if (pokemonName.startsWith('eternatus')) {
-        pokemonName = 'eternatus-eternamax';
+        pokemonName = 'eternatus';
     }
     if (pokemonName.startsWith('glastrier')) {
-        pokemonName = 'glastrier-ice-rider';
+        pokemonName = 'glastrier';
     }
     if (pokemonName.startsWith('spectrier')) {
-        pokemonName = 'spectrier-glastrier';
+        pokemonName = 'spectrier';
     }
     if (pokemonName.startsWith('giratina')) {
-        pokemonName = 'giratina-altered';
+        pokemonName = 'giratina';
     }
     if (pokemonName.startsWith('darmanitan')) {
-        pokemonName = 'darmanitan-standard';
+        pokemonName = 'darmanitan';
     }
     if (pokemonName.startsWith('meowstic')) {
-        pokemonName = 'meowstic-female';
+        pokemonName = 'meowstic';
     }
     if (pokemonName.startsWith('basculin')) {
-        pokemonName = 'basculin-red-striped';
+        pokemonName = 'basculin';
     }
     if (pokemonName.startsWith('thundurus')) {
-        pokemonName = 'thundurus-incarnate';
+        pokemonName = 'thundurus';
     }
     if (pokemonName.startsWith('landorus')) {
-        pokemonName = 'landorus-incarnate';
+        pokemonName = 'landorus';
     }
     if (pokemonName.startsWith('tornadus')) {
-        pokemonName = 'tornadus-incarnate';
+        pokemonName = 'tornadus';
     }
     if (pokemonName.startsWith('meloetta')) {
-        pokemonName = 'meloetta-aria';
+        pokemonName = 'meloetta';
     }
     if (pokemonName.startsWith('necrozma')) {
-        pokemonName = 'necrozma-dusk';
+        pokemonName = 'necrozma';
     }
     if (pokemonName.startsWith('sylvally')) {
-        pokemonName = 'silvally-normal';
+        pokemonName = 'silvally';
     }     
+    if (pokemonName.startsWith('rotom')) {
+        pokemonName = 'rotom';
+    }
+    if (pokemonName.startsWith('deoxys')) {
+        pokemonName = 'deoxys';
+    }
+    if (pokemonName.includes('-mega')) {
+        pokemonName = pokemonName.split('-mega')[0];
+    }
+    if (pokemonName.endsWith('-alola')) {
+        pokemonName = pokemonName.replace('-alola', '');
+    }
+    if (pokemonName.endsWith('-galar')) {
+        pokemonName = pokemonName.replace('-galar', '');
+    }
+    if (pokemonName.endsWith('-totem')) {
+        pokemonName = pokemonName.replace('-totem', '');
+    }
+    if (pokemonName.endsWith('-therian')) {
+        pokemonName = pokemonName.replace('-therian', '');
+    }
+    if (pokemonName.endsWith('-primal')) {
+        pokemonName = pokemonName.replace('-primal', '');
+    }
     fetch(`https://pokeapi.co/api/v2/pokemon-species/${pokemonName}`)
     .then(response => response.json())
     .then(pokemon_data => {
+        
         d3.select("#pokemon_image").selectAll("*").remove();
         let pokemonShape = pokemon_data.shape.name;
         let imageUrl = `gifs/${pokemonShape}.gif`;
@@ -349,12 +373,12 @@ window.addEventListener("pokemonClick", function(event) {
         .scaleBand()
         .domain(parsed_data.map(d => d.Name))
         .range([margins[1], WIDTH - margins[3]])
-        .paddingInner(0.3);
+        .paddingInner(0.9);
 
         // Define the scale
         let sizeScale = d3.scaleLog()
         .domain(d3.extent(parsed_data, d => d.Weight))  // Use the min and max weight as the domain
-        .range([30, 70]);  // Map the weights to sizes between 10 and 100
+        .range([10, 200]);  // Map the weights to sizes between 10 and 100
 
   
 
@@ -368,7 +392,7 @@ window.addEventListener("pokemonClick", function(event) {
         .then(() => {
             Images
             .selectAll("image")
-            .data(parsed_data)
+            .data(parsed_data.slice(0, 6))
             .join("image")
             .attr("xlink:href", d => d.imageUrl)
             .attr("x", d => esc_h(d.Name) - 30)

@@ -15,6 +15,7 @@ def extract_pokemon_data(text):
     abilities = []
     items = []
     spreads = []
+    
     index = 0
     index_section = 0  #para el primer caso
     section_name = ""
