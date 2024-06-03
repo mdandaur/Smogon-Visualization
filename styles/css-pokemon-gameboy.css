@@ -34,7 +34,8 @@ h1, h2, h3, h4, h5, h6 {
   .framed.primary {
     background: #48A058;
     color: #F8F3F8;
-    text-shadow: -1px -1px 0 #181010, 1px -1px 0 #181010, -1px 1px 0 #181010, 1px 1px 0 #181010; }
+    text-shadow: -1px -1px 0 #181010, 1px -1px 0 #181010, -1px 1px 0 #181010, 1px 1px 0 #181010;
+    background-clip: padding-box; }
     .framed.primary.exclude-border {
       background-clip: padding-box; }
   .framed.secondary {
@@ -1791,3 +1792,130 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0.5em; } }
 
 /*# sourceMappingURL=css-pokemon-gameboy.css.map */
+
+/* CSS PROPIO DESDE ACÁ */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 20px;
+  background-color: #F8F3F8;
+  text-align: center;
+}
+
+#pokemon-img {
+  display: flex;
+  justify-content: center;
+  background-color: #F8F3F8;
+  text-shadow: none;
+  width: 400px;
+  height: 400px;
+}
+
+.pokemon-img{
+display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+}
+.header{
+background-color: #F8F3F8;
+  padding: 20px;
+  text-align: center;
+  font-family: "Pokemon GB";
+  font-size: 30px;
+  color: black;
+  font-weight: 500;
+  font-stretch: condensed;
+
+}
+.header h1 {
+font-family: "Pokemon GB";
+  font-size: 60px;
+  color: black;
+  font-weight: 500;
+  font-stretch: condensed;
+}
+.header p { font-family: "Pokemon GB";
+  font-size: 20px;
+  color: black;
+  font-weight: 500;
+  font-stretch: condensed;
+
+}
+/* Style the select element */
+#date {
+  width: 200px;
+  height: 40px;
+  padding: 5px;
+  font-size: 16px;
+  font-family: "Pokemon GB";
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.label {
+font-family: "Pokemon GB";
+}
+
+/* Style the options */
+#date option {
+  padding: 10px;
+  font-family: "Pokemon GB";
+}
+
+#submit-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+
+}
+
+#vis-1-container {
+  display: flex;
+  justify-content: center;
+  background-color: #98FCCC;
+  text-shadow: none;
+}
+
+#vis-2-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: #F8F3F8;
+  color: black;
+  text-shadow: none;
+}
+.vis-3-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+.vis-4-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  color: black;
+  border: 1px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.input-form-1-container, .input-form-2-container{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
