@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
     .framed.neutral.exclude-border {
       background-clip: padding-box; }
   .framed.primary {
-    background: #48A058;
+    background: #F8F3F8;
     color: #F8F3F8;
     text-shadow: -1px -1px 0 #181010, 1px -1px 0 #181010, -1px 1px 0 #181010, 1px 1px 0 #181010;
     background-clip: padding-box; }
@@ -1805,22 +1805,36 @@ body {
   text-align: center;
 }
 
+#pokemon-info-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  margin: 30px;
+}
+
 #pokemon-img {
   display: flex;
   justify-content: center;
   background-color: #F8F3F8;
   text-shadow: none;
-  width: 400px;
-  height: 400px;
 }
 
-.pokemon-img{
-display: flex;
+#pokemon-info-buttons {
+  display: flex;
   justify-content: center;
-  align-items: center;
-  width: 200px;
-  height: 200px;
+  background-color: #F8F3F8;
+  text-shadow: none;
 }
+
+#pokemon-img, #pokemon-info-buttons {
+  padding: 10px;
+  height: 100%;
+}
+
+#pokemon-stats, #pokemon-teammates{
+  text-shadow: none;
+}
+
 .header{
 background-color: #F8F3F8;
   padding: 20px;
@@ -1912,10 +1926,54 @@ font-family: "Pokemon GB";
   pointer-events: none;
 }
 
-.input-form-1-container, .input-form-2-container{
+.input-form-1-container {
   display: inline-flex;
   justify-content: center;
   align-items: center;
   margin: 30px;
 }
+
+.input-form-2-container{
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.input-form-2-container #input-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  font-size: 16px;
+  font-family: "Pokemon GB";
+}
+
+.input-form-2-container #input-form input {
+  height: 40px;
+  padding: 5px;
+  font-size: 16px;
+  font-family: "Pokemon GB";
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.input-form-2-container #input-form label {
+  font-family: "Pokemon GB";
+  word-break: break-all;
+  word-wrap: break-word;
+  max-width: 80%;
+}
+
+.input-form-2-container #input-form label:hover {
+  cursor: pointer;
+  color: rgb(170, 123, 123); 
+}
+
+
+
+
 

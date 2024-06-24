@@ -43,8 +43,8 @@
 
     <div class="input-form-2-container">
         <form id="input-form">
-            <input type="checkbox" id="useIcons" name="useIcons" checked>
-            <label class="label" for="useIcons">Usar Iconos (recomendado). </label>
+            <input type="checkbox" id="useIcons" name="useIcons" unchecked>
+            <label class="label" for="useIcons">Usar Iconos Pokémon (Puede generar errores en consola y es más lento). </label>
         </form>
     </div>
 
@@ -53,15 +53,22 @@
     </div>
     <script src="usage_barchart.js"></script>
 
-    <div id = "pokemon-info">
+    <div id = "pokemon-info-container">
         <div class="framed primary exclude border", id ="pokemon-img">
             <svg id="pokemon_image"></svg>
 
         </div>
-        <div class="pokemon-stats">
+        <div class="pokemon-info">
+            <ul class ="framed buttons", id="pokemon-info-buttons">
+                <li><button id="btn-1">Stats</button></li>
+                <li><button id="btn-2">Equipo</button></li>
+                <li><button id="btn-3">Counters</button></li>
+            </ul>
+        </div>
+        <div class="framed primary exclude border", id="pokemon-stats">
         </div>
     </div>
-    <div class = "pokemon-teammates">
+    <div class="framed primary exclude border", id = "pokemon-teammates">
         <svg id="vis-3"></svg>
     </div>
     </div>

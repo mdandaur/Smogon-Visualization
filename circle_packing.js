@@ -90,9 +90,11 @@ d3.json(DATOS).then(data => {
         .style("fill-opacity", d => d.parent === root ? 1 : 0)
         .text(d => d.data.name);
 
-    SVG.on("click", (event) => zoom(event, root));
+
     let focus = root;
     let view;
+    console.log(focus.x, focus.y, focus.r * 2)
+    SVG.on("click", (event) => zoom(event, root));
     zoomTo([focus.x, focus.y, focus.r * 2]);
 
   // Create the zoom behavior and zoom immediately in to the initial focus node.
@@ -116,6 +118,7 @@ d3.json(DATOS).then(data => {
     const transition = SVG.transition()
         .duration(event.altKey ? 7500 : 750)
         .tween("zoom", d => {
+            console.log(focus.x, focus.y, focus.r * 2, "aquii")
             const i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2]);
             return t => {
                 zoomTo(i(t));

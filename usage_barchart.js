@@ -82,16 +82,23 @@ async function fetchPokemonDataAndAddIcons(parsed_data, gen) {
         if (pokemonName.startsWith('sylvally')) {
             pokemonName = 'silvally-normal';
         }
-        return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
+        return fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`)
+        .then(response => {
+            if (!response.ok) throw new Error('Not found');
+            return response.json();
+        })
+        .catch(() => null);
     }));
-    const pokemonData = await Promise.all(responses.map(response => response.json()));
+    const pokemonData = await Promise.all(responses);
     // Add image URLs to parsed_data
-    parsed_data.forEach((d_1, i) => {
+parsed_data.forEach((d_1, i) => {
+    if (pokemonData[i] === null) {
+        d_1.imageUrl = 'https://ibb.co/HH083D4'; // Default image path
+    } else {
         let versions = pokemonData[i].sprites.versions['generation-viii'];
-        let keys = Object.keys(versions);
-        let randomKey = keys[Math.floor(Math.random() * keys.length)];
-        d_1.imageUrl = versions.icons.front_default;
-    });
+        d_1.imageUrl = versions.icons.front_default || 'https://ibb.co/HH083D4'; // Use default image if front_default is not available
+    }
+});
 }
 
 window.addEventListener("nodeClick", function(event) {
@@ -107,6 +114,7 @@ window.addEventListener("nodeClick", function(event) {
 const margins = [40, 40, 40, 60];
 
 const WIDTH = 800 + margins[1] + margins[3];
+const TOTALWIDTH = WIDTH*20;
 const HEIGHT = 500 + margins[0] + margins[2];
 
 const SVG = d3
@@ -129,7 +137,8 @@ function intToRoman(num) {
 }
 
 d3.csv(DATOS).then(function(data) {
-    const parsed_data = data.slice(0, 10);
+    const parsed_data = data.slice(0, 400);
+    console.log(parsed_data.length);
 
 
     let maximo = d3.max(parsed_data, d =>  Math.max(d['Real %'], d['Usage %']));
@@ -144,7 +153,7 @@ d3.csv(DATOS).then(function(data) {
     let esc_h = d3
       .scaleBand()
       .domain(parsed_data.map(d => d.Pokemon))
-      .range([margins[3], WIDTH - margins[1]])
+      .range([margins[3], TOTALWIDTH - margins[1]])
       .paddingInner(0.5);
 
     // Agregamos un título
@@ -161,30 +170,30 @@ d3.csv(DATOS).then(function(data) {
     // Definimos los ejes en relación a las escalas
     let ejeX = d3.axisBottom(esc_h);
     let ejeY = d3.axisLeft(esc_v).tickFormat(d => `${d}%`);
-    SVG
+    contenedorEjeX = SVG
         .append("g")
         .attr("id", "ejeX") // Le damos un ID
         .attr("transform", `translate(0,${HEIGHT - margins[0]})`) // Trasladamos el G
         .call(ejeX); // Usamos call para crear el eje
 
-    SVG
+    contenedorEjeY = SVG
         .append("g")
         .attr("id", "ejeY") // Le damos un ID
-        .attr("transform", `translate(${margins[3]-5},0)`) // Trasladamos el G
+        .attr("transform", `translate(${margins[3]-20},0)`) // Trasladamos el G
         .call(ejeY); // Usamos call para crear el eje
 
     //Seleccionamos nuestro Eje X y luego cada línea (los ticks)
         SVG.select("#ejeX")
-        .selectAll("line")
-        .attr("y2", -(HEIGHT - margins[3] - margins[2])) // Definimos el punto de fin de la línea.
-        .attr("stroke", "black") // Definimos el color de la línea
-        .attr("stroke-width", 1.5) // Definimos en ancho de la línea
-        .attr("stroke-dasharray", "5,5") // Extra: definimos que será punteada
-        .attr("opacity", 0.5);
+    //    .selectAll("line")
+    //    .attr("y2", -(HEIGHT - margins[3] - margins[2])) // Definimos el punto de fin de la línea.
+    //    .attr("stroke", "black") // Definimos el color de la línea
+    //    .attr("stroke-width", 1.5) // Definimos en ancho de la línea
+    //    .attr("stroke-dasharray", "5,5") // Extra: definimos que será punteada
+    //    .attr("opacity", 0.5);
         d3.select("#ejeX")
         .selectAll("text")
-        .attr("font-size", 15) // Le cambiamos su tamaño
-        .attr("transform", `rotate(8) translate(0, 10)`) 
+        .attr("font-size", 10) // Le cambiamos su tamaño
+        .attr("transform", `rotate(12) translate(0, 10)`) 
         .attr("font-family", "monospace")
         .attr("font-weight", "bold");
         d3.select("#ejeY")
@@ -192,6 +201,8 @@ d3.csv(DATOS).then(function(data) {
         .attr("font-size", 15) // Le cambiamos su tamaño
         .attr("font-weight", "bold") // Lo hacemos más negro
         .attr("font-family", "monospace");
+    //
+
     
 
 
@@ -294,6 +305,90 @@ d3.csv(DATOS).then(function(data) {
         });
 
 
+        // aquí se hizo el legend muy a mano
+// primera leyenda
+    SVG.append("circle")
+    .attr("cx",WIDTH-margins[2]*3/2-10-220)
+    .attr("cy",margins[0]/2 + 120)
+    .attr("r", 6).style("fill", "yellow")
+    .attr("stroke", "black"); 
+    SVG.append("text")
+    .text("% Uso real")
+    .attr("x", WIDTH-margins[2]*3/2  -220)
+    .attr("y", margins[0]/2+120)
+    .style("font-size", "15px")
+    .attr("font-weight", "bold") 
+    .attr("font-family", "monospace")
+    .attr("alignment-baseline","middle")
+    .attr("text-anchor","right");
+    
+    // segunda leyenda
+    SVG.append("circle")
+    .attr("cx", WIDTH-margins[2]*3/2-10 - 220)
+    .attr("cy",margins[0]/2 + 30+ 120)
+    .attr("r", 6)
+    .style("fill", "red")
+    .attr("stroke", "black");
+    SVG.append("text")
+    .text('% Uso mejores jugadores')
+    .attr("x", WIDTH-margins[2]*3/2 -220)
+    .attr("y", margins[0]/2 + 30 + 120)
+    .style("font-size", "15px")
+    .attr("font-weight", "bold") 
+    .attr("font-family", "monospace")
+    .attr("alignment-baseline","middle")
+    .attr("text-anchor","right");
+
+
+
+
+
+
+
+        const manejadorZoom = (evento) => {
+            // Obtenemos nuestra transformación
+        // Obtenemos nuestra transformación
+        const transformacion = evento.transform;
+
+        // Actualizamos el rango de la escala considerando la transformación en X.
+        esc_h.range([margins[3], TOTALWIDTH-margins[1]].map(d => transformacion.applyX(d)));
+
+        const newBandwidth = Math.max(1, transformacion.k * esc_h.bandwidth());
+
+        // Update bars with new bandwidth and position
+        UsageBars.selectAll("rect")
+        .attr("width", newBandwidth/2)
+        .attr("x", d => esc_h(d.Pokemon));
+
+        RealBars.selectAll("rect")
+        .attr("width", newBandwidth/2)
+        .attr("x", d => esc_h(d.Pokemon) + newBandwidth / 2);
+
+        Images.selectAll("image")
+        .attr("x", d => esc_h(d.Pokemon)- newBandwidth);
+
+        SVG.select("#ejeX").selectAll("line")
+        .attr("y2", -(HEIGHT - margins[3] - margins[2])); // Adjust based on your chart's dimensions
+
+        
+
+
+        // Actualizamos el eje X con la escala ajustada
+        contenedorEjeX.call(ejeX.scale(esc_h));
+
+
+            // Actualizamos el eje X con la escala ajustada
+            contenedorEjeX.call(ejeX.scale(esc_h));
+          };
+          
+          const zoom = d3.zoom()
+            .scaleExtent([1, 1]) // Desactivamos el zoom (escala) para mantener solo el panning.
+            .translateExtent([[0, 0], [TOTALWIDTH, HEIGHT]]) // Limitamos la traslación al ancho total.
+            .on("zoom", manejadorZoom);
+          
+          // Conectamos el objeto zoom con el SVG.
+          SVG.call(zoom);
+
 
         const Images = SVG.append("g").attr('id', 'Images');
 
@@ -326,7 +421,7 @@ d3.csv(DATOS).then(function(data) {
             });
         }
         
-        if (useIcons) {    //esto permite elegir si usar imagenes o iconos para los pokemon
+        if (useIcons) {    //esto permite elegir si usar iconos o nada
             fetchPokemonDataAndAddIcons(parsed_data, gen)
             .then(() => {
                 Images
@@ -340,21 +435,8 @@ d3.csv(DATOS).then(function(data) {
                 .attr("height", 60);
             });
 
-        } else {
-            fetchPokemonDataAndAddImages(parsed_data, gen)
-            .then(() => {
-                Images
-                .selectAll("image")
-                .data(parsed_data)
-                .join("image")
-                .attr("xlink:href", d => d.imageUrl)
-                .attr("x", d => esc_h(d.Pokemon)-5)
-                .attr("y", d => esc_v(d3.max( d['Usage %'], d['Real %']))) // imageHeight is the height of your image
-                .attr("width", 60)
-                .attr("height", 60);
-            });
-        }
-  
+        } 
+        
 
 
 });
